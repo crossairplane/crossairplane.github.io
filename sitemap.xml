@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhengruonan.com/about/index.html</loc>
+    
+    <lastmod>2018-10-25T19:00:46.985Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zhengruonan.com/2018/03/15/2018-3-16-python%20notes%20part%201/</loc>
     
     <lastmod>2018-03-19T02:35:44.000Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://zhengruonan.com/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/</loc>
     
     <lastmod>2017-12-15T01:35:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhengruonan.com/about/index.html</loc>
-    
-    <lastmod>2017-09-06T20:06:26.000Z</lastmod>
     
   </url>
   
