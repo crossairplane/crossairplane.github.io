@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhengruonan.com/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/</loc>
+    
+    <lastmod>2018-10-27T09:33:37.861Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zhengruonan.com/about/index.html</loc>
     
     <lastmod>2018-10-25T19:00:46.985Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://zhengruonan.com/2017/12/31/2017-12-31-goodbye-2017/</loc>
     
     <lastmod>2018-01-17T03:37:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhengruonan.com/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/</loc>
-    
-    <lastmod>2017-12-15T01:35:40.000Z</lastmod>
     
   </url>
   

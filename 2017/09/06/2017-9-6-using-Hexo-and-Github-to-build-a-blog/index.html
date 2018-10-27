@@ -103,7 +103,7 @@
 <meta property="og:site_name" content="Crossairplane的博客">
 <meta property="og:description" content="源起总喜欢记录些什么，从最开始的QQ日志、豆瓣日志，到后来的免费博客如：新浪博客，总觉得是别人的平台，要么得忍受广告的各种肆虐，要么就是不能定制化。于是尝试着自己建立独立的平台，也算一个网络的家。作为入门，首先尝试了WordPress，容易上手的后台管理，和用一款新的软件没什么区别，种类繁多的插件要什么就加载什么，系统地资源管理和数据库备份，相当方便:)。 很多人嫌弃WordPress臃肿，后来才">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2017-12-15T01:35:40.000Z">
+<meta property="og:updated_time" content="2018-10-27T09:33:37.861Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo结合Github搭建静态网页博客">
 <meta name="twitter:description" content="源起总喜欢记录些什么，从最开始的QQ日志、豆瓣日志，到后来的免费博客如：新浪博客，总觉得是别人的平台，要么得忍受广告的各种肆虐，要么就是不能定制化。于是尝试着自己建立独立的平台，也算一个网络的家。作为入门，首先尝试了WordPress，容易上手的后台管理，和用一款新的软件没什么区别，种类繁多的插件要什么就加载什么，系统地资源管理和数据库备份，相当方便:)。 很多人嫌弃WordPress臃肿，后来才">
@@ -462,7 +462,7 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hi crossairplane! You&apos;ve successfully authenticated, but GitHub does not provide shell access.</span><br></pre></td></tr></table></figure>
 <h4 id="绑定个性域名"><a href="#绑定个性域名" class="headerlink" title="绑定个性域名"></a>绑定个性域名</h4><p>同样，在Github的你的博客repository中，选择设置-Github Pages- Custom domain，填入个性域名即可。</p>
 <h4 id="Git用户信息"><a href="#Git用户信息" class="headerlink" title="Git用户信息"></a>Git用户信息</h4><p>现在已经可以通过SSH这种形式将本地和远程的Github联系起来啦，还需要给Git配置好你的Github用户信息：</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git.config --global user.name &quot;githubname&quot;</span><br><span class="line">$ git.config --global user.email &quot;githubemail&quot;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git.config --global username &quot;githubname&quot;</span><br><span class="line">$ git.config --global useremail &quot;githubemail&quot;</span><br></pre></td></tr></table></figure>
 <h3 id="Hexo配置"><a href="#Hexo配置" class="headerlink" title="Hexo配置"></a>Hexo配置</h3><h4 id="网站配置文件修改"><a href="#网站配置文件修改" class="headerlink" title="网站配置文件修改"></a>网站配置文件修改</h4><p>Hexo支持多种部署，我们选择的是Git，因此去之前提到的hexo安装目录打开<code>_config.yml</code>文件，我用的是<code>sublime_text</code> 软件（能打开多种格式），在空白处加入如下代码：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: http://github.com/yourgithubname/yourname.github.io.git #github新建的repository地址</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
 <p>找到网站配置文件中的主题theme部分，可以修改主题，本站使用了NexT主题，本主题功能全面且有详细帮助文档（先下载主题放入Hexo安装目录的themes文件夹下）：</p>
