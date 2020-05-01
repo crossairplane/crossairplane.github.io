@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhengruonan.com/"/>
-  <updated>2020-04-30T14:38:43.700Z</updated>
+  <updated>2020-04-09T19:10:39.443Z</updated>
   <id>http://zhengruonan.com/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>电子焦虑</title>
-    <link href="http://zhengruonan.com/2020/04/30/2020-04-30-electric-panic/"/>
-    <id>http://zhengruonan.com/2020/04/30/2020-04-30-electric-panic/</id>
-    <published>2020-04-29T16:00:00.000Z</published>
-    <updated>2020-04-30T14:38:43.700Z</updated>
-    
-    <content type="html"><![CDATA[<p>下午3点左右突然被叮任务过期，不是什么重要的事，随手把它更改到当下：<em>红色的过期事项一下子变成蓝色待办</em>，看着这样的过渡动画，眼睁睁突然感受到了一丝愕然，我就在想，从什么时候开始，不再为软件或者App感到自我限制？细想，那「自我限制」又是怎么来的呢？</p><p>最近两年使用闲鱼平台后，我买卖硬件的频率变高了，一开始是想要极简，东西太多了而自己又没能物尽其用，有种莫名的亏欠感，所幸都卖了回血；另一方面旧的不去新的不来，可以更新到当下的新科技，总是让人开心。然而逃不出「买前生产力，买后XXX」的魔咒，不仅如此，我还感受到了负担，那种令人不快的「搁置」感，逐渐不痛不痒地滋生出一种<strong>电子焦虑</strong>：焦虑重量，焦虑电量，焦虑App切换，焦虑工具变成全部，甚至让这一切慢慢解构掉「去做」本身。</p><a id="more"></a><p>之前有门教 Statistical Learning 青年讲师，有次上课，课前准备工作，他从背包里拿出了伤痕累累的iPhone 4，那是2016年下半年，正直iPhone 7上市，台下一片惊叹，他边笑边解释说，我的手机就是接电话，以防有急事，用了好久了，现在好像还可以，不过，推荐你们平时给我写邮件。然后，整门课就是他介绍目前损失函数去做预测的前沿方法论balabala，整个人无不透着一种Geek而又执拗的，自带新旧交替的穿越感。现在想起来，这是没有电子焦虑的状态吧。</p><h2 id="从计时到「种树」"><a href="#从计时到「种树」" class="headerlink" title="从计时到「种树」"></a>从计时到「种树」</h2><p>我曾经有段时间比较固执：</p><p>我是最早一批的<a href="http://www.atimelogger.com" target="_blank" rel="noopener">aTimeLogger</a> 用户，把所有的时间都记录下来，看看一天都是怎么过的或者说：怎么idle的。我这样做了挺长时间的，1年多时间。所以后来我知道<a href="https://zh.wikipedia.org/wiki/亚历山大·亚历山德罗维奇·柳比歇夫" target="_blank" rel="noopener">柳比切夫</a>的《奇特的一生》的时候才种恍然大悟。渐渐的，专注类软件就流行起来，为了「种树」，我开始换到<a href="https://www.forestapp.cc/" target="_blank" rel="noopener">Forest</a> 很快就在地球的某个地方，用App产生的金币或者积分兑换，种下了3颗真的树，蚂蚁森林其实也是受到这个软件的启发吧。</p><p>回顾这个事情，我好像对记录、计划、整理有着较为偏执的追求，当年甚至花大量时间比较了安卓、iOS平台的常用各类计时或者效率软件，从中留下最适合我的，并且孜孜不倦地给开发者写使用反馈，一度甚至以为自己可以去当产品经理，那会是2013年左右。</p><p>记账也是，2011年我就自己用记账本了，一开始是流水账，后来学了一学期学校特色通识基础课，譬如会计学原理、财务管理后，我就开始使用复式记账法，再后来使用随手记这款App，记账习惯的养成在我这儿似乎从来就不是件需要刻意习得的。</p><p>但是，我的问题是，我几乎从来不回顾，我并不在意时间的管理、分配是怎样的，我的收入和开支情况怎样，有什么可以复盘并根据数据来做调整的？我对此，全然不顾，我只是单纯地一复一日地记录，我对记录本身的热情远远大于结果分析。</p><p>那个时候，我对电子产品或者软件、应用的态度只有正面、积极，科技评测也是在那个时候开始兴起，我在越来越多的信息里没有感到丝毫的负担或是淹没。现在想来，那时，我并没有理解为什么要记录，以及记录的价值，<strong>我只是在快乐地本末倒置</strong>。😀</p><h2 id="从焦虑到拖延"><a href="#从焦虑到拖延" class="headerlink" title="从焦虑到拖延"></a>从焦虑到拖延</h2><p>随着信息越来越多，硬件设备升级性能越来越强悍，软件市场每天新的App眼花缭乱，测评铺天盖地。有一天我看着周围的各种电子设备时<a href="我的电子设备数量客观上也没有很多，而且都是基础款，少数派或是数字尾巴这种论坛里白菜水平，但多与少是很个人的衡量标准。">^1</a>，开始心生疲倦，有种被绑架的错觉。这时，我大概是看到任务永远做不完，效率永远没变化，时间管理永远令人沮丧，然而这些局面并没有因为我使用「合适的」软件、硬件而得到一点点提升。于是，工具带来的焦虑感产生，并陷入了恶性闭环，莫名其妙以结果为导向的觉醒，给我带来的副作用是：<strong>索性拖延</strong>。与此同时，认知到自己是个热衷做白日梦[^2]的人，这样的情况就更让人难堪。</p><p>我在想，人们真的需要这些工具吗？这就是所谓的掉入了消费主义陷阱？那，我还有救吗？🐱</p><h2 id="所以，我们自由了吗？"><a href="#所以，我们自由了吗？" class="headerlink" title="所以，我们自由了吗？"></a>所以，我们自由了吗？</h2><blockquote><p>自律让人变自由。 </p></blockquote><p>无论是GTD也好，时间管理软件也好，使用这些方法应用后就自律了吗？这是过程还是结果？如果是过程，那我们获得了自由吗？如果是结果，那我们的驱动力在哪里？</p><p>工具就是工具而已，刘慈欣写《三体》用的Word，同样疫情期间贾樟柯写《电影，我只略知一二》用的还是2007版本，我已经花了太多时间在工具本身上面，不但没有了当初单纯沉浸在过程里的新奇感，还被工具过剩的功能本身限制，更累了……</p><p>所以，我们怎样重新找回做事的自由，使用良好工具做事的自由？或者，你根本就不存在这样的困扰？……</p><p>[^2]: 白日梦想家：The secret of Walter Mitty 电影前半部分可以说是我的日常，至于Walter是怎么把理想照进现实的，爱莫能学罢了。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;下午3点左右突然被叮任务过期，不是什么重要的事，随手把它更改到当下：&lt;em&gt;红色的过期事项一下子变成蓝色待办&lt;/em&gt;，看着这样的过渡动画，眼睁睁突然感受到了一丝愕然，我就在想，从什么时候开始，不再为软件或者App感到自我限制？细想，那「自我限制」又是怎么来的呢？&lt;/p&gt;
-&lt;p&gt;最近两年使用闲鱼平台后，我买卖硬件的频率变高了，一开始是想要极简，东西太多了而自己又没能物尽其用，有种莫名的亏欠感，所幸都卖了回血；另一方面旧的不去新的不来，可以更新到当下的新科技，总是让人开心。然而逃不出「买前生产力，买后XXX」的魔咒，不仅如此，我还感受到了负担，那种令人不快的「搁置」感，逐渐不痛不痒地滋生出一种&lt;strong&gt;电子焦虑&lt;/strong&gt;：焦虑重量，焦虑电量，焦虑App切换，焦虑工具变成全部，甚至让这一切慢慢解构掉「去做」本身。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://zhengruonan.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="效率" scheme="http://zhengruonan.com/tags/%E6%95%88%E7%8E%87/"/>
-    
-      <category term="工具" scheme="http://zhengruonan.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
   
   <entry>
     <title> Deadline是什么？</title>
@@ -540,6 +515,35 @@
       <category term="笔试" scheme="http://zhengruonan.com/tags/%E7%AC%94%E8%AF%95/"/>
     
       <category term="FRM" scheme="http://zhengruonan.com/tags/FRM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>再见，2017</title>
+    <link href="http://zhengruonan.com/2017/12/31/2017-12-31-goodbye-2017/"/>
+    <id>http://zhengruonan.com/2017/12/31/2017-12-31-goodbye-2017/</id>
+    <published>2017-12-30T16:00:00.000Z</published>
+    <updated>2018-01-17T03:37:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>梗：</p><p>2017年的最后一天，突然流行起来了晒18岁照片。因为，过完2017年12月31日，最小的90后也18岁了。时间真快。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>终于过去了，这一年，慢走不送！</p><h2 id="关键词1—城市"><a href="#关键词1—城市" class="headerlink" title="关键词1—城市"></a>关键词1—城市</h2><p><strong>北京</strong></p><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/%E9%95%BF%E5%9F%8E.jpg" alt="长城"></p><p>风风火火到的城市，总的来说，给我很周正的印象，马路十分宽阔，似乎走哪哪都东南西北得分清才行。2月底到四月底运气比较好，没碰上雾霾。在临走前，以极度匆忙地速度逛完了绝大多数景点。Team里的ice大大临走时还抽空请了我一顿饭，给我谈人生、述衷肠，我想，我真的已经足够幸运；还有好多好多的事，但，对于北京，我还是太怂了。<br><a id="more"></a><br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/%E5%A5%A5%E4%BD%93%E4%B8%AD%E5%BF%83.jpg" alt="奥体中心"></p><p><strong>香港-深圳</strong><br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/%E5%A4%A7%E9%B9%8F%E5%8C%BA.jpg" alt="大鹏新区"></p><p>回去拿毕业证，短短几天，中间日程原因，空出些时间和同学所幸临时去了趟深圳的大鹏新区那边。正好也算是场毕业旅行吧，3个人租了间民宿，坐在海边吹风、玩沙子、喝酒、听歌，似乎时间全部停止，只剩青春里最后的闲散：踏浪奔流，嬉笑打闹，望着夏夜无边的海面，随着海浪一层层荡漾触岸而去的思绪，无休无止无尽头。</p><p>又搭了熟悉的港铁，再一次走过信德大厦的时候，和同伴不禁感叹：不知从何时起，开始对这座城市有了熟悉的感觉，以至再次离别时有些许不舍。但，终要前行。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/%E6%B2%99%E7%94%B0%E7%AB%99B%E5%87%BA%E5%8F%A3.jpg" alt="沙田站"></p><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/%E5%9C%B0%E7%8E%8B%E5%A4%A7%E5%8E%A6%E8%A7%82%E6%99%AF.jpg" alt=""></p><p><strong>贵州</strong><br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/%E9%B8%AD%E6%B1%A0%E6%B2%B3%E5%A4%A7%E6%A1%A5.jpg" alt="鸭池河大桥"></p><p>这是家乡，不过，其实我对家乡的了解其实也没有很深。9月份借着入职机会，在黔南州培训，才发现好山好水其实有很多有趣的地方可以玩。以后，慢慢都去好好游览下吧。</p><h2 id="关键词2—遗憾"><a href="#关键词2—遗憾" class="headerlink" title="关键词2—遗憾"></a>关键词2—遗憾</h2><p>没有去参加毕业典礼吧。之前的毕业典礼也没有邀请父母过来，多少有点遗憾。==！</p><h2 id="关键词3—感情"><a href="#关键词3—感情" class="headerlink" title="关键词3—感情"></a>关键词3—感情</h2><p>Nothing。又无解了一年，有过心动的人吧，但是无疾而终。不提不提也罢。似乎，对新一年反而不想考虑了，好好继续过好自己也挺好的。</p><h2 id="关键词4—音乐"><a href="#关键词4—音乐" class="headerlink" title="关键词4—音乐"></a>关键词4—音乐</h2><p>接近年底，接收到落网运营开始有问题的讯息，不知真假，但心里真的挺揪心的。尽管今年，买了落网周边18年日历作为好友新年礼物，一想到她依然有可能倒闭，各种滋味在心头。网易云听的就比较少了今年，300多个钟头，相比去年真是少了很多很多。欸……</p><p>一年，又这样过去了。挺坎坷的一年吧，没什么好怀念的。别过~</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;梗：&lt;/p&gt;
+&lt;p&gt;2017年的最后一天，突然流行起来了晒18岁照片。因为，过完2017年12月31日，最小的90后也18岁了。时间真快。&lt;/p&gt;
+&lt;h2 id=&quot;总结&quot;&gt;&lt;a href=&quot;#总结&quot; class=&quot;headerlink&quot; title=&quot;总结&quot;&gt;&lt;/a&gt;总结&lt;/h2&gt;&lt;p&gt;终于过去了，这一年，慢走不送！&lt;/p&gt;
+&lt;h2 id=&quot;关键词1—城市&quot;&gt;&lt;a href=&quot;#关键词1—城市&quot; class=&quot;headerlink&quot; title=&quot;关键词1—城市&quot;&gt;&lt;/a&gt;关键词1—城市&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;北京&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/%E9%95%BF%E5%9F%8E.jpg&quot; alt=&quot;长城&quot;&gt;&lt;/p&gt;
+&lt;p&gt;风风火火到的城市，总的来说，给我很周正的印象，马路十分宽阔，似乎走哪哪都东南西北得分清才行。2月底到四月底运气比较好，没碰上雾霾。在临走前，以极度匆忙地速度逛完了绝大多数景点。Team里的ice大大临走时还抽空请了我一顿饭，给我谈人生、述衷肠，我想，我真的已经足够幸运；还有好多好多的事，但，对于北京，我还是太怂了。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://zhengruonan.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="总结" scheme="http://zhengruonan.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="旅行" scheme="http://zhengruonan.com/tags/%E6%97%85%E8%A1%8C/"/>
     
   </entry>
   
