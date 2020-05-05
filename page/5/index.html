@@ -357,6 +357,233 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://zhengruonan.com/2018/03/15/2018-3-16-python notes part 1/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Crossairplane">
+      <meta itemprop="description" content="A data and music fan.">
+      <meta itemprop="image" content="/images/avatar.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Crossairplane的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/2018/03/15/2018-3-16-python notes part 1/" class="post-title-link" itemprop="http://zhengruonan.com/page/5/index.html">Python笔记第一弹</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2018-03-15 00:00:00" itemprop="dateCreated datePublished" datetime="2018-03-15T00:00:00+08:00">2018-03-15</time>
+            
+
+            
+              
+
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-03-19 10:35:44" itemprop="dateModified" datetime="2018-03-19T10:35:44+08:00">2018-03-19</time>
+              
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing"><a href="/categories/技术/" itemprop="url" rel="index"><span itemprop="name">技术</span></a></span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing"><a href="/categories/技术/python/" itemprop="url" rel="index"><span itemprop="name">python</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/03/15/2018-3-16-python notes part 1/#comments" itemprop="discussionUrl">
+                
+                  <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2018/03/15/2018-3-16-python notes part 1/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+             <span id="/2018/03/15/2018-3-16-python notes part 1/" class="leancloud_visitors" data-flag-title="Python笔记第一弹">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数：</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="Python进行数据科学"><a href="#Python进行数据科学" class="headerlink" title="Python进行数据科学"></a>Python进行数据科学</h1><p>最近打算快速入门Python进行数据分析，争取能做些比较有趣的小项目。搜索YouTube还有一些网络课程，发现讲的侧重不一致，难易程度不同，甄别成本高，遂放弃。最后采取了选择看书来学习，看了下知乎推荐，准备以下O’Reilly 家的两本书《数据科学入门》、《利用Python进行数据分析》来进行学习：</p>
+<ol>
+<li><p>《利用Python进行数据分析》感觉本书章节清楚，主要侧重数据分析方面的处理和库的使用，逻辑清楚，更重要的是作者也是R语言用户，本书提供了一些两种编程语言的对比。</p>
+</li>
+<li><p>《数据科学入门》强调怎么从整体的视角运用Python进行数据科学学习，重点是数学科学的理论实践和讲解。</p>
+</li>
+<li><p>所以一本是Python手册大全，一本是数据科学框架。</p>
+</li>
+<li><p>我的策略：</p>
+<ul>
+<li>能开始用：我看中《数据科学入门》第2章的Python速成，《利用Python进行数据分析》的第一章安装准备、附录Python语言精要，保证快速能上手。</li>
+<li>参考数说工作室微信公众号的《Python统计师日记》系列辅助。</li>
+<li>能练中学：参考知乎<a href="https://www.zhihu.com/question/28975391" target="_blank" rel="noopener">你用Python做过什么有趣的数据挖掘项目</a>开始做些分析，不会的代码实现过程查询《利用Python进行数据分析》，模型参考就看《数据科学入门》。</li>
+<li>陆续以小项目为主要输出形式，形成良好循环。</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>只想加载点儿数据，做点计算，再画点图。</p>
+</blockquote>
+<p>好了，开始抄笔记。</p>
+          <!--noindex-->
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/2018/03/15/2018-3-16-python notes part 1/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+         
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+       
+    
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://zhengruonan.com/2018/02/22/2018-2-22-FRM-exams/">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1143,208 +1370,6 @@
 
 
     
-      
-
-  
-
-  
-  
-  
-
-  
-
-  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
-  
-  
-  
-  <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://zhengruonan.com/2016/12/21/2016-12-21-graduation/">
-
-    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="Crossairplane">
-      <meta itemprop="description" content="A data and music fan.">
-      <meta itemprop="image" content="/images/avatar.jpg">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Crossairplane的博客">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-                
-                
-                <a href="/2016/12/21/2016-12-21-graduation/" class="post-title-link" itemprop="http://zhengruonan.com/page/5/index.html">这一次，我毕业了</a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-
-            
-            
-            
-
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">发表于</span>
-              
-
-              
-                
-              
-
-              <time title="创建时间：2016-12-21 00:00:00" itemprop="dateCreated datePublished" datetime="2016-12-21T00:00:00+08:00">2016-12-21</time>
-            
-
-            
-              
-
-              
-                
-                <span class="post-meta-divider">|</span>
-                
-
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                
-                  <span class="post-meta-item-text">更新于</span>
-                
-                <time title="修改时间：2017-08-27 23:08:58" itemprop="dateModified" datetime="2017-08-27T23:08:58+08:00">2017-08-27</time>
-              
-            
-          </span>
-
-          
-            <span class="post-category">
-            
-              <span class="post-meta-divider">|</span>
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">分类于</span>
-              
-              
-                <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing"><a href="/categories/随笔/" itemprop="url" rel="index"><span itemprop="name">随笔</span></a></span>
-
-                
-                
-              
-            </span>
-          
-
-          
-            
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2016/12/21/2016-12-21-graduation/#comments" itemprop="discussionUrl">
-                
-                  <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2016/12/21/2016-12-21-graduation/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
-          
-
-          
-          
-             <span id="/2016/12/21/2016-12-21-graduation/" class="leancloud_visitors" data-flag-title="这一次，我毕业了">
-               <span class="post-meta-divider">|</span>
-               <span class="post-meta-item-icon">
-                 <i class="fa fa-eye"></i>
-               </span>
-               
-                 <span class="post-meta-item-text">阅读次数：</span>
-               
-                 <span class="leancloud-visitors-count"></span>
-             </span>
-          
-
-          
-
-          
-
-          
-
-        </div>
-      </header>
-    
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          <p>2016年12月19日，22:53分的东铁线，香港的最后一班地铁：在结束那一刻，感到了些许的不真实感。</p>
-<p>一路上伴着mp3里的歌，看着窗外黄昏闪烁的路灯，拥挤变得逐渐稀松的乘客、列车，不停不停地向前，眼眶里满是大雾，闹海里闪过的满是回忆……</p>
-<p>这一次，我毕业了。</p>
-          <!--noindex-->
-          
-            <div class="post-button text-center">
-              <a class="btn" href="/2016/12/21/2016-12-21-graduation/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-         
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-
-    
-    
-    
-
-    
-
-    
-       
-    
-    
-
-    
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </div>
-  
-  
-  
-  </article>
-
-
-    
   </section>
 
   
@@ -1394,7 +1419,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">29</span>
+                    <span class="site-state-item-count">30</span>
                     <span class="site-state-item-name">日志</span>
                   </a>
                 </div>
@@ -1498,7 +1523,9 @@
                     
                       
                     
-                    <span class="site-state-item-count">30</span>
+                      
+                    
+                    <span class="site-state-item-count">31</span>
                     <span class="site-state-item-name">标签</span>
                   </a>
                 </div>

@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>主题阅读与学习</title>
+    <url>/2020/05/05/2020-05-05-topic-learning/</url>
+    <content><![CDATA[<p>「最小有效量」：<strong>是指边际单位最大输出</strong>。之前有写过一篇Deadline的日志，5月底到6月会是第一次的deadline，决定彻底转向金融科技应用领域，所以包括阅读的、学习的内容都会比较狭窄。找得到风险策略、风险模型类似的岗位甚好，找不到再说。列下资料清单，有的已经读过，有的在读，但是缺乏系统整理，没能形成框架，所以接下来会做系统的归档：<br><a id="more"></a><br>📚行业通识篇</p>
+<ol>
+<li>《消费金融真经：个人贷款业务全流程指南（第2版）》</li>
+<li>《互联网消费金融：模式与实践》</li>
+</ol>
+<p>📚行业技能篇</p>
+<ol>
+<li>《智能风控：原理 算法与工程实践》</li>
+<li>《银行信用风险计量技术的实践》（辅读对比）</li>
+<li>技能关键词：<ul>
+<li>评分卡模型</li>
+<li>DNN模型</li>
+<li>XGBoost</li>
+</ul>
+</li>
+</ol>
+<p>🎬视频教程</p>
+<ol>
+<li><p>Youtube:</p>
+<ul>
+<li>《Python for Finance》</li>
+<li>《Python for Data Analysis》</li>
+</ul>
+</li>
+<li><p>Udacity:</p>
+<ul>
+<li>机器学习基础</li>
+<li>监督学习</li>
+<li>非监督学习</li>
+</ul>
+</li>
+</ol>
+<p>大概1.5-2个月，完成后会系统复盘，并且上个人项目。<br>（未完待续……）</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>风控</tag>
+        <tag>计划</tag>
+        <tag>阅读</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于近期一些言论自由的讨论</title>
     <url>/2020/05/01/2020-05-01-talk-about-freedom/</url>
     <content><![CDATA[<p><strong>题记：</strong></p>

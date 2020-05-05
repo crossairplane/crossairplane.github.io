@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhengruonan.com/"/>
-  <updated>2020-05-01T09:23:38.410Z</updated>
+  <updated>2020-05-05T18:43:22.938Z</updated>
   <id>http://zhengruonan.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>主题阅读与学习</title>
+    <link href="http://zhengruonan.com/2020/05/05/2020-05-05-topic-learning/"/>
+    <id>http://zhengruonan.com/2020/05/05/2020-05-05-topic-learning/</id>
+    <published>2020-05-04T16:00:00.000Z</published>
+    <updated>2020-05-05T18:43:22.938Z</updated>
+    
+    <content type="html"><![CDATA[<p>「最小有效量」：<strong>是指边际单位最大输出</strong>。之前有写过一篇Deadline的日志，5月底到6月会是第一次的deadline，决定彻底转向金融科技应用领域，所以包括阅读的、学习的内容都会比较狭窄。找得到风险策略、风险模型类似的岗位甚好，找不到再说。列下资料清单，有的已经读过，有的在读，但是缺乏系统整理，没能形成框架，所以接下来会做系统的归档：<br><a id="more"></a><br>📚行业通识篇</p><ol><li>《消费金融真经：个人贷款业务全流程指南（第2版）》</li><li>《互联网消费金融：模式与实践》</li></ol><p>📚行业技能篇</p><ol><li>《智能风控：原理 算法与工程实践》</li><li>《银行信用风险计量技术的实践》（辅读对比）</li><li>技能关键词：<ul><li>评分卡模型</li><li>DNN模型</li><li>XGBoost</li></ul></li></ol><p>🎬视频教程</p><ol><li><p>Youtube:</p><ul><li>《Python for Finance》</li><li>《Python for Data Analysis》</li></ul></li><li><p>Udacity:</p><ul><li>机器学习基础</li><li>监督学习</li><li>非监督学习</li></ul></li></ol><p>大概1.5-2个月，完成后会系统复盘，并且上个人项目。<br>（未完待续……）</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;「最小有效量」：&lt;strong&gt;是指边际单位最大输出&lt;/strong&gt;。之前有写过一篇Deadline的日志，5月底到6月会是第一次的deadline，决定彻底转向金融科技应用领域，所以包括阅读的、学习的内容都会比较狭窄。找得到风险策略、风险模型类似的岗位甚好，找不到再说。列下资料清单，有的已经读过，有的在读，但是缺乏系统整理，没能形成框架，所以接下来会做系统的归档：&lt;br&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="http://zhengruonan.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="风控" scheme="http://zhengruonan.com/tags/%E9%A3%8E%E6%8E%A7/"/>
+    
+      <category term="计划" scheme="http://zhengruonan.com/tags/%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="阅读" scheme="http://zhengruonan.com/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>关于近期一些言论自由的讨论</title>
@@ -498,50 +524,6 @@
     
     
       <category term="收音机" scheme="http://zhengruonan.com/tags/%E6%94%B6%E9%9F%B3%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python笔记第一弹</title>
-    <link href="http://zhengruonan.com/2018/03/15/2018-3-16-python%20notes%20part%201/"/>
-    <id>http://zhengruonan.com/2018/03/15/2018-3-16-python notes part 1/</id>
-    <published>2018-03-14T16:00:00.000Z</published>
-    <updated>2018-03-19T02:35:44.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Python进行数据科学"><a href="#Python进行数据科学" class="headerlink" title="Python进行数据科学"></a>Python进行数据科学</h1><p>最近打算快速入门Python进行数据分析，争取能做些比较有趣的小项目。搜索YouTube还有一些网络课程，发现讲的侧重不一致，难易程度不同，甄别成本高，遂放弃。最后采取了选择看书来学习，看了下知乎推荐，准备以下O’Reilly 家的两本书《数据科学入门》、《利用Python进行数据分析》来进行学习：</p><ol><li><p>《利用Python进行数据分析》感觉本书章节清楚，主要侧重数据分析方面的处理和库的使用，逻辑清楚，更重要的是作者也是R语言用户，本书提供了一些两种编程语言的对比。</p></li><li><p>《数据科学入门》强调怎么从整体的视角运用Python进行数据科学学习，重点是数学科学的理论实践和讲解。</p></li><li><p>所以一本是Python手册大全，一本是数据科学框架。</p></li><li><p>我的策略：</p><ul><li>能开始用：我看中《数据科学入门》第2章的Python速成，《利用Python进行数据分析》的第一章安装准备、附录Python语言精要，保证快速能上手。</li><li>参考数说工作室微信公众号的《Python统计师日记》系列辅助。</li><li>能练中学：参考知乎<a href="https://www.zhihu.com/question/28975391" target="_blank" rel="noopener">你用Python做过什么有趣的数据挖掘项目</a>开始做些分析，不会的代码实现过程查询《利用Python进行数据分析》，模型参考就看《数据科学入门》。</li><li>陆续以小项目为主要输出形式，形成良好循环。</li></ul></li></ol><blockquote><p>只想加载点儿数据，做点计算，再画点图。</p></blockquote><p>好了，开始抄笔记。</p><a id="more"></a><h2 id="主要Python库"><a href="#主要Python库" class="headerlink" title="主要Python库"></a>主要Python库</h2><ul><li>NumPy(Numerical Python的简称)科学计算的基础包</li><li>pandas: 处理结构化数据的大量数据结构和函数，包含大量金融数据时间序列处理工具</li><li>matpolotlib: 绘制数据图表</li><li>IPython:为交互式和探索式计算提供友好的环境</li><li>SciPy:一组专门解决科学计算中各种标准问题域的包的集合，如 scipy.stats提供标准连续和离散概率分布、统计检验方法、描述统计方法。与NumPy结合可以代替MATLAB计算功能</li></ul><h2 id="安装与配置"><a href="#安装与配置" class="headerlink" title="安装与配置"></a>安装与配置</h2><p>Anaconda 2.7版本，Python 3与Python 2 不能兼容，使用2.7版本是数据科学的主流版本。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;Python进行数据科学&quot;&gt;&lt;a href=&quot;#Python进行数据科学&quot; class=&quot;headerlink&quot; title=&quot;Python进行数据科学&quot;&gt;&lt;/a&gt;Python进行数据科学&lt;/h1&gt;&lt;p&gt;最近打算快速入门Python进行数据分析，争取能做些比较有趣的小项目。搜索YouTube还有一些网络课程，发现讲的侧重不一致，难易程度不同，甄别成本高，遂放弃。最后采取了选择看书来学习，看了下知乎推荐，准备以下O’Reilly 家的两本书《数据科学入门》、《利用Python进行数据分析》来进行学习：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;《利用Python进行数据分析》感觉本书章节清楚，主要侧重数据分析方面的处理和库的使用，逻辑清楚，更重要的是作者也是R语言用户，本书提供了一些两种编程语言的对比。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;《数据科学入门》强调怎么从整体的视角运用Python进行数据科学学习，重点是数学科学的理论实践和讲解。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;所以一本是Python手册大全，一本是数据科学框架。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;我的策略：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;能开始用：我看中《数据科学入门》第2章的Python速成，《利用Python进行数据分析》的第一章安装准备、附录Python语言精要，保证快速能上手。&lt;/li&gt;
-&lt;li&gt;参考数说工作室微信公众号的《Python统计师日记》系列辅助。&lt;/li&gt;
-&lt;li&gt;能练中学：参考知乎&lt;a href=&quot;https://www.zhihu.com/question/28975391&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;你用Python做过什么有趣的数据挖掘项目&lt;/a&gt;开始做些分析，不会的代码实现过程查询《利用Python进行数据分析》，模型参考就看《数据科学入门》。&lt;/li&gt;
-&lt;li&gt;陆续以小项目为主要输出形式，形成良好循环。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;只想加载点儿数据，做点计算，再画点图。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;好了，开始抄笔记。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="技术" scheme="http://zhengruonan.com/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="python" scheme="http://zhengruonan.com/categories/%E6%8A%80%E6%9C%AF/python/"/>
-    
-    
-      <category term="python" scheme="http://zhengruonan.com/tags/python/"/>
     
   </entry>
   
