@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhengruonan.com/about/index.html</loc>
+    
+    <lastmod>2020-11-07T07:58:36.713Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zhengruonan.com/2020/10/10/2020-10-10-Wugongshan-hiking/</loc>
     
     <lastmod>2020-10-11T03:59:46.473Z</lastmod>
@@ -166,13 +173,6 @@
     <loc>http://zhengruonan.com/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/</loc>
     
     <lastmod>2018-10-27T09:33:37.861Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhengruonan.com/about/index.html</loc>
-    
-    <lastmod>2018-10-25T19:00:46.985Z</lastmod>
     
   </url>
   
