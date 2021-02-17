@@ -46,41 +46,6 @@
       </categories>
   </entry>
   <entry>
-    <title> 找工总结</title>
-    <url>/2016/11/14/2016-11-14-summary-of-finding-jobs/</url>
-    <content><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>经济统计本科，抱着对金融好奇心，修了金融双学位，研究生误打误撞去港念了个运筹方向的理学硕士。自己定位:偏业务方向的数据分析岗位，或者商业分析师。</p>
-<p>从今年8月18开始，正式进入找工作的阶段，认真花时间准备了中英简历，每个版本都改了又改，不停的改。从互联网一直投到互联网金融，最后到银行。券商比较少今年，而且到11月中后，三思和数据越走越远没了心常，做罢。</p>
-<p>三个月来，几经起伏，做了很多笔试，面了一堆面试，也放弃了一些机会。最终决定去北京, 兜兜转转，收心，认真做事，慢慢积累，没有什么比觉得自己正走在正确的路上更令人振奋了。</p>
-<p>这个总结其实有心准备多时，虽然感觉今年挺失败的，毕竟没拿到所谓的BAT，一路磕磕绊绊。也算这一阶段的总结，就分一下几大点写写。<br><a id="more"></a></p>
-<h2 id="简历"><a href="#简历" class="headerlink" title="简历"></a>简历</h2><p>开篇简单说了下，总体来说，简历非常成功，除了少数卡着截止日期申请的职位可能服务器太忙之外，几乎都顺利过关，没有被刷。</p>
-<p>再说，做数据的，脱不开技术层面，可能那些有的没的浮夸之笔没那么重要。不过，我自己的简历不管怎么说，我觉得用赏心悦目不为过。</p>
-<h2 id="笔试"><a href="#笔试" class="headerlink" title="笔试"></a>笔试</h2><p>谈到这个，总是有种浓浓的忧伤，按理来说，认真准备了，结合专业知识，网上轻而易举就能找到的各类笔经，应该顺利通过才是。只是，忘记了前提，本身你得适合这个岗位。由此，埋了好多大坑。</p>
-<p>客观说，我一直关注数据分析这个大方向，本科研究生相关课程学的是勤勤恳恳，只是，总觉得目前这个职位在国内定位有点模糊，根据公司性质和部门的不同内容相差很多，一轮下来，整体的印象是:公司偏向会点统计的程序员，绝大部分公司对数据挖掘的需求很大，而且数据分析或者挖掘在某些公司其实是一样的，有直接产出能快速代码有结果的，成为主要竞争力，从互联网公司95%的笔试都有一半的编程题(而且几乎没有R语言可选)可以看出。对业务偏向的数据分析岗，其实好多公司可能设置在运营之类的其他部门，很少有公司专门分出来放在数据岗招聘。我拿到的offer是为数不多一家(怪不得能拿到>\&lt;)。这就扯远了，涉及到公司对数据的根本理解还有战略之类的，就更混乱了，要怪就怪这个行业还是比较新。</p>
-<p>大致上，概括地说:</p>
-<ol>
-<li>岗位里有写统计数学或者计算机相关的，基本更偏向计算机，以下技能点也多是各种算法熟悉。</li>
-<li>要求里写出熟练使用ppt, SQL，能分析日活、月活的，基本是干运营。</li>
-<li>明确写明专业为计量经济学，统计学的，有数据分析能力，会使用SAS,R,Python的，对金融或者信用评级模型有见解的，挺合适的。But，这类公司一般是互联网金融公司，风口上的行业，但是校招规模偏少，相关实习经验很重要，今年秋招不成规模。</li>
-<li>要求会机器学习，Hadoop，Hive等的，都是算法或者挖掘岗again，只是公司喜欢称作数据分析。</li>
-</ol>
-<p>这样一列，纯技术还是主流，再加上没有相关行业实习的我，在互联网笔试上挂得太惨烈。<strong>主要</strong>是实际上都投成了开发岗或者挖掘岗。后面金融相关的行业，以银行为主倒是一路顺畅，不过，毕竟不是本心，不提也罢。</p>
-<h2 id="面试"><a href="#面试" class="headerlink" title="面试"></a>面试</h2><p>这个，其实还真不知道怎么说，银行的或者金融部门的岗位，倒是面了好几大家，没什么“技术”含量，各种讲究综合素质，仁者见仁了。</p>
-<p>先说些不成功的吧。华为投了IT应用支撑岗大类下的大数据岗位，后期专业面试的时候，和面试官聊才发现，这个部门需要开发的，包括报表系统等，纯正的技术风。实际上在财务类里，有作为集团的数据支持岗位。</p>
-<p>美团点评，今年设了个单独的商业数据分析师岗位，而且是单独招聘，从职位描述看数据分析岗似乎是商业岗的升级版。其实还是老样子，一个技术，一个业务。</p>
-<p>一圈下来，其实也不难理解了，除了阿里的逻辑清楚，数据岗位细分得比较合理，其他公司都忙着搭建或者壮大自己的数据部门。先把平台弄起来，流程运行熟练了再说，至于作为产出的数据产品，用不用，好用与否，似乎看不出来。这样前期肯定是纯正技术线条的占主流优势。从长远看，借鉴北美Facebook, Linkedin等等，以后肯定会进一步细分，会更清楚。类似的背景才会逐渐有优势。</p>
-<h2 id="offer"><a href="#offer" class="headerlink" title="offer"></a>offer</h2><p>最后，还是说说我的offer吧。商业数据分析岗位，9月底就意外收获offer的我，对帝都一直没想好，所以各种纠结，先是放弃了，最后心里挂念还是在11月初厚着脸皮给把offer要回来了，一波三折。</p>
-<p>一家刚过A轮的公司，当初投简历是google数据可视化的时候偶然发现公司主页的，感觉团队氛围好，就投了。后期多轮电面下来，满满干货，能学到很多，越是了解，就越感觉数据驱动的理念，以技术为核心，岗位细分准确的团队是我一直向往的。一阵蹉跎后，感觉人生好短，喜欢的事就赶紧去做，终于11月上旬又和HR联系是否还有空缺，加试了两轮，感觉还没见面，部门小组人都快聊一遍了，也是莫名小确幸。</p>
-<p>未来，在这个岗上肯定会很忙，要学的还有很多，终于开始百分百地一头扎进去，满满积累沉淀了。想想，如此也是份幸运，真好。</p>
-]]></content>
-      <categories>
-        <category>工作</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-        <tag>笔试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>这一次，我毕业了</title>
     <url>/2016/12/21/2016-12-21-graduation/</url>
     <content><![CDATA[<p>2016年12月19日，22:53分的东铁线，香港的最后一班地铁：在结束那一刻，感到了些许的不真实感。</p>
@@ -281,25 +246,106 @@
       </tags>
   </entry>
   <entry>
-    <title>祝好运：我卖掉的物品</title>
-    <url>/2018/12/01/2018-12-02-good-luck-for-my-old-3c-products/</url>
-    <content><![CDATA[<p>很小的时候翻过郑渊洁的《奔腾验钞机》，里面的每一张钞票在不断地流通中记载了一段又一段的故事，似乎从那时起，我开始觉得物品有情感，至少不再是「死物」，也可以是故事的载体。而2018年的11月，我开始在闲鱼上卖东西：从2011年开始用的物品，这些年一点点地添置，不知不觉也成了几大件，虽然陪我度过了很精彩的几年、去了不同城市，但开始慢慢不再使用。也许，就像小说里的情节一样，流通到市场中去，能在下一任那里继续创造美好。<br><a id="more"></a></p>
-<h2 id="iPod-shuffle"><a href="#iPod-shuffle" class="headerlink" title="iPod shuffle"></a>iPod shuffle</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/iPod.jpeg" alt="iPod"><br>2011年9月，我的第一份礼物。不知道有多少人和我一样是从iPod开始接触Apple的产品，这个小小的家伙，从小舅那里得来，多年后我在最后一代shuffle下架前买了一个给我念高中住校的老妹，算作一种传承。自高中起，就从同学那里看到过，还有漫天投放的电视广告，直到现在再回到那个夏天，没有比这个更好的礼物了。同时，一下子想起了小舅教我使用iTunes同步音乐文件的时候，顺便教我查看Windows隐藏文件夹小技巧的场景，上大学以后我才第一次用笔记本、用win7。在去学校的那班列车上，我第一次使用她的时候，我舅给我同步的是《平凡的世界》广播剧版本，可谓用心良苦了，不过，来到学校后的第一件事就是第一时间删除并同步了新内容：许巍《时光漫步》专辑以及酷狗音乐里的歌。那两年2G好像永远用不完，歌曲经常增加、删减。直到2014年以后，歌单开始固定下来，新歌曲逐渐增加，最后达到最大值：有Taylor swift的整整5张专辑、网易云最爱歌曲、落网里最喜欢的几期（分别是：激荡的人生应当这样、心中有光、梦想家、自深深处）、李志《IO》、英伦摇滚金曲live版大合集等。一晃又是3年，时间来到了2017年，这期间几乎每一次旅程途中，都一直有音乐相伴，没有什么比不用担心手机电量减少更让旅途愉悦了：列车隆隆、窗外倒退的行道树、飘在空中的云朵、曲曲折折的徒步径……</p>
+    <title>ONLY BRANDI CARLILE</title>
+    <url>/2018/12/09/2018-12-09-all-about-brandi-carlile/</url>
+    <content><![CDATA[<p>2019年第61届格莱美音乐奖项提名名单出炉，非常意外的一个名字：Brandi Carlile出现在了多个提名中，包括分量很重的最佳年度专辑、最佳年度歌曲、最佳录音单曲等6个项目，作为粉丝一枚的我除了震惊狂喜之余，默默收入「有生之年系列」清单。</p>
+<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/brandi-carlile/2019_gammy_brandi.jpg" alt="2019 grammy"></p>
+<a id="more"></a>
+<h2 id="名声大噪"><a href="#名声大噪" class="headerlink" title="名声大噪"></a>名声大噪</h2><p>2016年4月20日，在网易云音乐FM第一次听到Brandi Carlile的成名曲《The Story》（收录在2007年发行的第2张专辑<em>The Story</em>），比较清楚的记得准确日期是因为当时是新学年第一个期末，深夜复习并焦虑、一边深深思考：为什么有画家、诗人会孤独，这世界有时候，就是会找不到共振。然后，突然间副歌部分响起，带有情绪的小破音，唱出：</p>
 <blockquote>
-<p>如果说：<br>Some people feel the rain. Others just get wet.<br>那么，<br>I’m the one who got music.</p>
+<p>I climbed across the mountain tops<br>Swam all across the ocean blue<br>I crossed all the lines and I broke all the rules<br>But baby I broke them all for you </p>
 </blockquote>
-<p>竟然整整过去了7年，质量好得出奇，充满一次电仍然能不断播放音乐5小时！我曾想过，如果有一天iPod坏了，我就找块空地埋下去，也带走我的记忆。不过，现在她带着那些歌到了另一个人手里，也许会被喜欢、也许会像多年前的那个《平凡的世界》广播剧音频文件一样，消失于一瞬间；不论怎样又有了新故事。而我，有了回忆：没有屏幕小巧得可以正好装进牛仔裤最小方口袋的shuffle，启动VoiceOver朗读的歌单名、单曲名、电量百分比，运动时候随手夹在衣边的设计，直到现在也是很棒的体验，每次音乐响起，闭上眼睛的时候我就想：<em>融在光里，不带空气、重量和呼吸</em>。</p>
-<h2 id="第一台微单相机"><a href="#第一台微单相机" class="headerlink" title="第一台微单相机"></a>第一台微单相机</h2><p>2014年做兼职賺得的第一笔工资1700块加上当月的一部分生活费总共2500块，买了富士的X-A1，不知不觉随手记录有趣的瞬间，按年归档，每次看到那些照片和视频，都会感受到生活的美好。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/fuji_xa1.JPG" alt="fuji_xa1"><br>3年里，我总觉得没有用过几次，但每一次使用时的的确确都保留了相当特别的记忆。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/camera_2014-2018.jpg" alt="camera_2014-2018"></p>
-<p>家里没有扫描仪，就用相机把老照片翻拍了再统一用Photoshop调整成为电子档可以随时查看；大学毕业前高中好友聚会一起回学校拍了几组照片；记录了我和老妹的单独旅行，剪了现在看来非常拙劣的第一支影片；虽然小但无比舒适的书桌、几个城市里的风景……每一张照片都能想起当时按下快门瞬间的心情、一闪而过的画面，这种感觉和手机很不一样。</p>
-<h2 id="iPad-Air"><a href="#iPad-Air" class="headerlink" title="iPad Air"></a>iPad Air</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/iPad%20Air.JPG" alt="iPad Ai"><br>这个是我为了高效看pdf文档把第一代iPad mini回收了并补差价购得，在研究生阶段，除了去实验室外基本成为主力设备，在上面看了非常很多的文档、视频，各类考试必备良品，带去图书馆可以撑很久，还节约纸张。现在更新到最新一代iPad Pro 2018款11寸64G版本，支持自家的触控笔Apple pencil 2，结合已经优化得很好的笔记类apps，希望能实现我想把bullet journal电子化的设想。</p>
-<h2 id="CD还有蓝牙音响"><a href="#CD还有蓝牙音响" class="headerlink" title="CD还有蓝牙音响"></a>CD还有蓝牙音响</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/1989.JPG" alt="1989"><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/%E7%8C%AB%E7%8E%8B%E8%93%9D%E7%89%99%E9%9F%B3%E5%93%8D.JPG" alt="猫王蓝牙音响"><br>才短短几年，现在大多数的笔记本电脑就已经没有了光驱，家里都没有可以播放的设备，实体唱片业迅速萎缩，好像主流粉丝群体开始付费从流媒体订购最新专辑、EP，随着磁带成为过去、CD也走向了末路。我还有几盘小时候百货店买的盗版磁带，那个就留着作纪念吧。收音机外形的蓝牙音响每次看的时候，都会让我想起小时候8块钱买的便携塑料质地的小收音机，那时候天空很蓝、我家平房的屋顶很宽敞，握着小小的劣质收音机把手举到最高就能接收到电波，凌晨时分中央人民广播电台的《千里》、《夜空守望者》仿佛就是另外一个世界，跨越地域、夜晚的声音会发光。</p>
-<p><strong>祝你们好运，让美好的事继续发生！</strong></p>
+<p>第一次对孤独这件事有了新的看法：<strong>最后，这世界，仍有人阅尽你希望经历的一切，总有一种语言和某些人说出你不曾表达出的感受。</strong>虽然是此时心境，彼时泪，再怎么回忆也不会那么真切了，不过，当时这首歌就像一束温暖的光刺破了我所有的情绪泡泡，在夜晚里炸开来，在心里有了回响（可见被期末虐的很深==！hhh）。这首歌曲Brandi后来被采访的时候对破音也有如下的表述：</p>
+<blockquote>
+<p>technically wrong but emotionally right.</p>
+</blockquote>
+<p>第二张专辑里的这首歌被用在通用汽车2008年的广告中，一度在iTunes中排到第5位，后来连同之前专辑里的几首歌曲，被用在《实习医生葛蕾》中，最后被广泛传唱。而最打动我的歌词却是里面最娓娓道来的：</p>
+<blockquote>
+<p>when I was flat broke, you made me feel like a million bucks<br>you do and I was made for you.</p>
+</blockquote>
+<p>总有种「千辛万苦过后，看着守在身边的人，忘掉所有的沧桑、苦痛，有你就足够」的温情。</p>
+<h2 id="现场，现场"><a href="#现场，现场" class="headerlink" title="现场，现场"></a>现场，现场</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/brandi-carlile/performance.jpg" alt="performance"></p>
+<p>Brandi一家都算实力唱将，她本人自小就开始登台演唱，高中辍学开始组乐队，个人更偏好所有的live版本。非常值得列举的有这些：</p>
+<blockquote>
+<ol>
+<li>Creep - live from Boston 已发行EP <a href="http://music.163.com/song/16783852/?userid=56216139" target="_blank" rel="noopener">网易云音乐</a></li>
+<li>Wish you will (feat with Katie Herzig) <a href="https://www.youtube.com/watch?v=1261IjEAiG4&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1&amp;t=0s&amp;index=17" target="_blank" rel="noopener">链接</a></li>
+<li>Stand by your man (feat with Brandi’s mom) <a href="https://www.youtube.com/watch?v=5kG2Z9w9KdY&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1&amp;t=0s&amp;index=15" target="_blank" rel="noopener">链接</a></li>
+<li>Worn Me Down （feat with Rachael Yamagata）<a href="https://www.youtube.com/watch?v=8_W7DV5jgZw&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1&amp;index=24" target="_blank" rel="noopener">YouTube</a></li>
+<li>If It Makes You Happy (feat with Sheryl Crow) <a href="https://www.youtube.com/watch?v=oxabl4OlDRY&amp;index=25&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1" target="_blank" rel="noopener">YouTube</a></li>
+<li>OH DARLING (feat with Ingrid Michaelson) <a href="https://www.youtube.com/watch?v=s3otIQqZpKM&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1&amp;index=13" target="_blank" rel="noopener">RED ROCK LIVE</a></li>
+<li>I Belong To You (feat with her wife) <a href="https://www.youtube.com/watch?v=pASQtE_BwOU&amp;index=19&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1" target="_blank" rel="noopener">Hershey Theatre</a></li>
+</ol>
+</blockquote>
+<p>前期她会尝试在不同的现场改编不同的曲风，例如我非常喜欢的一首歌<strong>Pride and Joy</strong>的现场版本<a href="https://www.youtube.com/watch?v=SqECt1wuA5Q&amp;index=21&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1" target="_blank" rel="noopener">2013年6月在Interlochen</a>，在她的那张Live at Benaroya Hall with the Seattle Symphony专辑（发行于2011年）里风格从电子吉他带出的强烈摇滚硬朗风转向了气势磅礴而又层次鲜明的交响。另外，我相信看了她现场表演的人会更喜欢她的歌，很重要的一点就是，她在现场会很有强烈和听众互动的欲望，除了现场特别炸意外，和观众的小调侃、对话都变得非常有意思，这张现场录音专辑中，值得一提的是Turpentine，中间部分有和乐队成员（Twins：Phil and Tim Hanseroth，吉他手和贝斯手）一起，将观众分为3个声部一起合唱，成了这张专辑里的点睛之笔。 </p>
+<p>事实上，Brandi一直都情有独钟不插电演唱的形式，在乐队第5张专辑The Firewatcher’s Daughter发行前后，乐队一直都在不插电巡演，对挑选演出场地进行了很多考量，力求追寻最真实的声音：</p>
+<blockquote>
+<p>no mics, no amps, nothing to hide behind. </p>
+</blockquote>
+<h2 id="Looking-Out基金"><a href="#Looking-Out基金" class="headerlink" title="Looking Out基金"></a>Looking Out基金</h2><p>2008年Brandi成立Looking out慈善基金，此后一直通过个人及乐队的努力去扩大影响力，让更多音乐人参与进来去关注贫困、儿童等课题。2017年36岁生日之际，邀请不同的14位音乐人来翻唱之前自己的歌曲并发行cover stories-2017版本，将所得支持战乱地区的儿童。在这张翻唱专辑中，Adele再次翻唱了Hiding my heart，（第1次翻唱是在专辑《21》中作为bonus track，同时Brandi在2016年获得格莱美提名的时候也公开表示最喜欢的女歌手就是Adele,音乐人间的心心相惜可见一斑)。此外，正是因为Looking out基金，她和太太Catherine Shepherd相遇。到了2018年10月，Brandi还在Twitter上邀请Sam Smith合作完成Party of one，一起为战火中的儿童进行募捐。</p>
+<p>Looking out基金名称的由来，也可以追溯到她的第3张专辑Give up the Ghost（2009年发行）中第1首歌就是Looking out，歌词满满人文关怀:</p>
+<blockquote>
+<p>I know the darkness falls on you.<br>And it’s just a point of view When you’re outside looking in you belong to someone and when You feel like giving in and the coming of the end,<br>Like your heart can break in two, someone loves you.</p>
+</blockquote>
+<h2 id="The-band"><a href="#The-band" class="headerlink" title="The band"></a>The band</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/brandi-carlile/the%20band.png" alt="the band"><br>Brandi的音乐离不开家庭式经营，与其说是乐队成员，不如说是家人，吉他手和贝斯手Phil和Tim早期就是Brandi的好友，Phil和Brandi妹妹结了婚，Tim妻子负责乐队巡演拍照，twins也负责部分歌词创作，乐队鼓手后来和twins的妹妹结了婚，一大家子都是房车到处走并且巡演，小孩子一起养，从小在音乐里成长，生活态度非常独有风格。</p>
+<h2 id="引人注目的2018"><a href="#引人注目的2018" class="headerlink" title="引人注目的2018"></a>引人注目的2018</h2><p>对Brandi来说，2018年是里程碑的一年，虽然可能她并不在乎，但毕竟在业界多年口碑一直非常高、可又不为大众所熟知，这一年里她身体不适做了小手术、生了二女儿 Elijah、The Joke和新专辑By the Way, I Forgive You提名多项2019年格莱美重要奖项。期待她出席2019年2月的颁奖典礼并获奖，实至名归。无论是音乐还是慈善、平权，Brandi在近年来歌曲创作中展现出更多充满人文主义关怀倾向：不论是对伴侣、孩子还是世界的贫瘠，“她一向立意深远，但By the Way, I Forgive You比以往更甚”，也正如她在采访中回答的一样：</p>
+<blockquote>
+<p>I had to forgive myself for some of the stumbles in my life, and find out ways to work through my anger of not accepting people in my life if they didn’t meet my requirements and needs. </p>
+</blockquote>
+<p>目前，我个人还是比较喜欢The story和Give up the Ghost这种“直白硬核有爆发力”的音乐，不过，渐渐变得温暖的情歌、给到缓缓包围的安慰及治愈，令人感到富足，也希望日后会有更多优秀的作品出现：因为，她是Brandi!</p>
 ]]></content>
       <categories>
-        <category>生活</category>
+        <category>音乐</category>
       </categories>
       <tags>
-        <tag>收音机</tag>
+        <tag>music</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FRM考试</title>
+    <url>/2018/02/22/2018-2-22-FRM-exams/</url>
+    <content><![CDATA[<h1 id="FRM-Part-1"><a href="#FRM-Part-1" class="headerlink" title="FRM Part 1"></a>FRM Part 1</h1><p>2018年给自己定了一个目标：通过FRM（Financial Risk Manager）考试。今年除了常规的注册费、报名费外，还多了一个$40的场地费。和CFA不同，FRM的考试内容比较容易变动，并没有系统的教材讲解，官方解释是这个证书涉及领域多，个人觉得还需要继续迭代升级，形成体系。考试动机：额，其实没什么动机，就是通过考试保持学习的状态。</p>
+<a id="more"></a>
+<p>FRM考试有两个阶段，Part 1分为以下四个模块：</p>
+<table>
+<thead>
+<tr>
+<th>模块</th>
+<th>topics</th>
+<th>weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>foundations of risk management</td>
+<td>基础统计、概率理论、CAPM、风险管理概念、GARP理念</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>quantitative analysis</td>
+<td>概率分布、参数估计、假设检验、贝叶斯统计、时间序列、线性回归、波动、EWMA和GARCH模型</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>financial markets and products</td>
+<td>远期、期货、掉期、期权、公司债券、资产证券化、利率理论、衍生工具</td>
+<td>30%</td>
+</tr>
+<tr>
+<td>valuation and risk models</td>
+<td>VaR、套期保值、固定收益定价、期权定价、操作风险、损失</td>
+<td>30%</td>
+</tr>
+</tbody>
+</table>
+<p>从Part 1的官方学习指南来看，90%都有学习过，第三、四部分是重点。买了官方大陆地区授权的Notes还有德州计算器，也算花了点银子。5月中旬拿下Part 1，之后会不定期更新笔记和相关总结，梳理知识脉络。</p>
+]]></content>
+      <categories>
+        <category>工作</category>
+      </categories>
+      <tags>
+        <tag>笔试</tag>
+        <tag>FRM</tag>
       </tags>
   </entry>
   <entry>
@@ -342,6 +388,100 @@
       </categories>
       <tags>
         <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title> 找工总结</title>
+    <url>/2016/11/14/2016-11-14-summary-of-finding-jobs/</url>
+    <content><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>经济统计本科，抱着对金融好奇心，修了金融双学位，研究生误打误撞去港念了个运筹方向的理学硕士。自己定位:偏业务方向的数据分析岗位，或者商业分析师。</p>
+<p>从今年8月18开始，正式进入找工作的阶段，认真花时间准备了中英简历，每个版本都改了又改，不停的改。从互联网一直投到互联网金融，最后到银行。券商比较少今年，而且到11月中后，三思和数据越走越远没了心常，做罢。</p>
+<p>三个月来，几经起伏，做了很多笔试，面了一堆面试，也放弃了一些机会。最终决定去北京, 兜兜转转，收心，认真做事，慢慢积累，没有什么比觉得自己正走在正确的路上更令人振奋了。</p>
+<p>这个总结其实有心准备多时，虽然感觉今年挺失败的，毕竟没拿到所谓的BAT，一路磕磕绊绊。也算这一阶段的总结，就分一下几大点写写。<br><a id="more"></a></p>
+<h2 id="简历"><a href="#简历" class="headerlink" title="简历"></a>简历</h2><p>开篇简单说了下，总体来说，简历非常成功，除了少数卡着截止日期申请的职位可能服务器太忙之外，几乎都顺利过关，没有被刷。</p>
+<p>再说，做数据的，脱不开技术层面，可能那些有的没的浮夸之笔没那么重要。不过，我自己的简历不管怎么说，我觉得用赏心悦目不为过。</p>
+<h2 id="笔试"><a href="#笔试" class="headerlink" title="笔试"></a>笔试</h2><p>谈到这个，总是有种浓浓的忧伤，按理来说，认真准备了，结合专业知识，网上轻而易举就能找到的各类笔经，应该顺利通过才是。只是，忘记了前提，本身你得适合这个岗位。由此，埋了好多大坑。</p>
+<p>客观说，我一直关注数据分析这个大方向，本科研究生相关课程学的是勤勤恳恳，只是，总觉得目前这个职位在国内定位有点模糊，根据公司性质和部门的不同内容相差很多，一轮下来，整体的印象是:公司偏向会点统计的程序员，绝大部分公司对数据挖掘的需求很大，而且数据分析或者挖掘在某些公司其实是一样的，有直接产出能快速代码有结果的，成为主要竞争力，从互联网公司95%的笔试都有一半的编程题(而且几乎没有R语言可选)可以看出。对业务偏向的数据分析岗，其实好多公司可能设置在运营之类的其他部门，很少有公司专门分出来放在数据岗招聘。我拿到的offer是为数不多一家(怪不得能拿到>\&lt;)。这就扯远了，涉及到公司对数据的根本理解还有战略之类的，就更混乱了，要怪就怪这个行业还是比较新。</p>
+<p>大致上，概括地说:</p>
+<ol>
+<li>岗位里有写统计数学或者计算机相关的，基本更偏向计算机，以下技能点也多是各种算法熟悉。</li>
+<li>要求里写出熟练使用ppt, SQL，能分析日活、月活的，基本是干运营。</li>
+<li>明确写明专业为计量经济学，统计学的，有数据分析能力，会使用SAS,R,Python的，对金融或者信用评级模型有见解的，挺合适的。But，这类公司一般是互联网金融公司，风口上的行业，但是校招规模偏少，相关实习经验很重要，今年秋招不成规模。</li>
+<li>要求会机器学习，Hadoop，Hive等的，都是算法或者挖掘岗again，只是公司喜欢称作数据分析。</li>
+</ol>
+<p>这样一列，纯技术还是主流，再加上没有相关行业实习的我，在互联网笔试上挂得太惨烈。<strong>主要</strong>是实际上都投成了开发岗或者挖掘岗。后面金融相关的行业，以银行为主倒是一路顺畅，不过，毕竟不是本心，不提也罢。</p>
+<h2 id="面试"><a href="#面试" class="headerlink" title="面试"></a>面试</h2><p>这个，其实还真不知道怎么说，银行的或者金融部门的岗位，倒是面了好几大家，没什么“技术”含量，各种讲究综合素质，仁者见仁了。</p>
+<p>先说些不成功的吧。华为投了IT应用支撑岗大类下的大数据岗位，后期专业面试的时候，和面试官聊才发现，这个部门需要开发的，包括报表系统等，纯正的技术风。实际上在财务类里，有作为集团的数据支持岗位。</p>
+<p>美团点评，今年设了个单独的商业数据分析师岗位，而且是单独招聘，从职位描述看数据分析岗似乎是商业岗的升级版。其实还是老样子，一个技术，一个业务。</p>
+<p>一圈下来，其实也不难理解了，除了阿里的逻辑清楚，数据岗位细分得比较合理，其他公司都忙着搭建或者壮大自己的数据部门。先把平台弄起来，流程运行熟练了再说，至于作为产出的数据产品，用不用，好用与否，似乎看不出来。这样前期肯定是纯正技术线条的占主流优势。从长远看，借鉴北美Facebook, Linkedin等等，以后肯定会进一步细分，会更清楚。类似的背景才会逐渐有优势。</p>
+<h2 id="offer"><a href="#offer" class="headerlink" title="offer"></a>offer</h2><p>最后，还是说说我的offer吧。商业数据分析岗位，9月底就意外收获offer的我，对帝都一直没想好，所以各种纠结，先是放弃了，最后心里挂念还是在11月初厚着脸皮给把offer要回来了，一波三折。</p>
+<p>一家刚过A轮的公司，当初投简历是google数据可视化的时候偶然发现公司主页的，感觉团队氛围好，就投了。后期多轮电面下来，满满干货，能学到很多，越是了解，就越感觉数据驱动的理念，以技术为核心，岗位细分准确的团队是我一直向往的。一阵蹉跎后，感觉人生好短，喜欢的事就赶紧去做，终于11月上旬又和HR联系是否还有空缺，加试了两轮，感觉还没见面，部门小组人都快聊一遍了，也是莫名小确幸。</p>
+<p>未来，在这个岗上肯定会很忙，要学的还有很多，终于开始百分百地一头扎进去，满满积累沉淀了。想想，如此也是份幸运，真好。</p>
+]]></content>
+      <categories>
+        <category>工作</category>
+      </categories>
+      <tags>
+        <tag>笔试</tag>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>祝好运：我卖掉的物品</title>
+    <url>/2018/12/01/2018-12-02-good-luck-for-my-old-3c-products/</url>
+    <content><![CDATA[<p>很小的时候翻过郑渊洁的《奔腾验钞机》，里面的每一张钞票在不断地流通中记载了一段又一段的故事，似乎从那时起，我开始觉得物品有情感，至少不再是「死物」，也可以是故事的载体。而2018年的11月，我开始在闲鱼上卖东西：从2011年开始用的物品，这些年一点点地添置，不知不觉也成了几大件，虽然陪我度过了很精彩的几年、去了不同城市，但开始慢慢不再使用。也许，就像小说里的情节一样，流通到市场中去，能在下一任那里继续创造美好。<br><a id="more"></a></p>
+<h2 id="iPod-shuffle"><a href="#iPod-shuffle" class="headerlink" title="iPod shuffle"></a>iPod shuffle</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/iPod.jpeg" alt="iPod"><br>2011年9月，我的第一份礼物。不知道有多少人和我一样是从iPod开始接触Apple的产品，这个小小的家伙，从小舅那里得来，多年后我在最后一代shuffle下架前买了一个给我念高中住校的老妹，算作一种传承。自高中起，就从同学那里看到过，还有漫天投放的电视广告，直到现在再回到那个夏天，没有比这个更好的礼物了。同时，一下子想起了小舅教我使用iTunes同步音乐文件的时候，顺便教我查看Windows隐藏文件夹小技巧的场景，上大学以后我才第一次用笔记本、用win7。在去学校的那班列车上，我第一次使用她的时候，我舅给我同步的是《平凡的世界》广播剧版本，可谓用心良苦了，不过，来到学校后的第一件事就是第一时间删除并同步了新内容：许巍《时光漫步》专辑以及酷狗音乐里的歌。那两年2G好像永远用不完，歌曲经常增加、删减。直到2014年以后，歌单开始固定下来，新歌曲逐渐增加，最后达到最大值：有Taylor swift的整整5张专辑、网易云最爱歌曲、落网里最喜欢的几期（分别是：激荡的人生应当这样、心中有光、梦想家、自深深处）、李志《IO》、英伦摇滚金曲live版大合集等。一晃又是3年，时间来到了2017年，这期间几乎每一次旅程途中，都一直有音乐相伴，没有什么比不用担心手机电量减少更让旅途愉悦了：列车隆隆、窗外倒退的行道树、飘在空中的云朵、曲曲折折的徒步径……</p>
+<blockquote>
+<p>如果说：<br>Some people feel the rain. Others just get wet.<br>那么，<br>I’m the one who got music.</p>
+</blockquote>
+<p>竟然整整过去了7年，质量好得出奇，充满一次电仍然能不断播放音乐5小时！我曾想过，如果有一天iPod坏了，我就找块空地埋下去，也带走我的记忆。不过，现在她带着那些歌到了另一个人手里，也许会被喜欢、也许会像多年前的那个《平凡的世界》广播剧音频文件一样，消失于一瞬间；不论怎样又有了新故事。而我，有了回忆：没有屏幕小巧得可以正好装进牛仔裤最小方口袋的shuffle，启动VoiceOver朗读的歌单名、单曲名、电量百分比，运动时候随手夹在衣边的设计，直到现在也是很棒的体验，每次音乐响起，闭上眼睛的时候我就想：<em>融在光里，不带空气、重量和呼吸</em>。</p>
+<h2 id="第一台微单相机"><a href="#第一台微单相机" class="headerlink" title="第一台微单相机"></a>第一台微单相机</h2><p>2014年做兼职賺得的第一笔工资1700块加上当月的一部分生活费总共2500块，买了富士的X-A1，不知不觉随手记录有趣的瞬间，按年归档，每次看到那些照片和视频，都会感受到生活的美好。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/fuji_xa1.JPG" alt="fuji_xa1"><br>3年里，我总觉得没有用过几次，但每一次使用时的的确确都保留了相当特别的记忆。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/camera_2014-2018.jpg" alt="camera_2014-2018"></p>
+<p>家里没有扫描仪，就用相机把老照片翻拍了再统一用Photoshop调整成为电子档可以随时查看；大学毕业前高中好友聚会一起回学校拍了几组照片；记录了我和老妹的单独旅行，剪了现在看来非常拙劣的第一支影片；虽然小但无比舒适的书桌、几个城市里的风景……每一张照片都能想起当时按下快门瞬间的心情、一闪而过的画面，这种感觉和手机很不一样。</p>
+<h2 id="iPad-Air"><a href="#iPad-Air" class="headerlink" title="iPad Air"></a>iPad Air</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/iPad%20Air.JPG" alt="iPad Ai"><br>这个是我为了高效看pdf文档把第一代iPad mini回收了并补差价购得，在研究生阶段，除了去实验室外基本成为主力设备，在上面看了非常很多的文档、视频，各类考试必备良品，带去图书馆可以撑很久，还节约纸张。现在更新到最新一代iPad Pro 2018款11寸64G版本，支持自家的触控笔Apple pencil 2，结合已经优化得很好的笔记类apps，希望能实现我想把bullet journal电子化的设想。</p>
+<h2 id="CD还有蓝牙音响"><a href="#CD还有蓝牙音响" class="headerlink" title="CD还有蓝牙音响"></a>CD还有蓝牙音响</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/1989.JPG" alt="1989"><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/3c-products/%E7%8C%AB%E7%8E%8B%E8%93%9D%E7%89%99%E9%9F%B3%E5%93%8D.JPG" alt="猫王蓝牙音响"><br>才短短几年，现在大多数的笔记本电脑就已经没有了光驱，家里都没有可以播放的设备，实体唱片业迅速萎缩，好像主流粉丝群体开始付费从流媒体订购最新专辑、EP，随着磁带成为过去、CD也走向了末路。我还有几盘小时候百货店买的盗版磁带，那个就留着作纪念吧。收音机外形的蓝牙音响每次看的时候，都会让我想起小时候8块钱买的便携塑料质地的小收音机，那时候天空很蓝、我家平房的屋顶很宽敞，握着小小的劣质收音机把手举到最高就能接收到电波，凌晨时分中央人民广播电台的《千里》、《夜空守望者》仿佛就是另外一个世界，跨越地域、夜晚的声音会发光。</p>
+<p><strong>祝你们好运，让美好的事继续发生！</strong></p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>收音机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Xian鱼</title>
+    <url>/2019/03/06/2019-03-06-xianyu/</url>
+    <content><![CDATA[<p>醒来，工作，吃饭<br>然后想到了：xian鱼<br>「闲鱼」和「咸鱼」最大的不同，<br>可能是：<br>一个闲死，<br>一个咸死。<br>他们忘记了要在海里<br>毕竟7秒的记忆，太短<br>短到忘记了，<br>为什么会死<br>怎么就死了？<br>反正，xian鱼的一天<br>周而复始，<br>也走向了终点<br>最后，明白了：<br>一条xian鱼的使命，<br>应当是开始，<br>在每个7秒结束以后，<br>重新活过一生。</p>
+]]></content>
+      <categories>
+        <category>小诗</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>互联网风控101</title>
+    <url>/2019/01/05/2019-01-05-internet-risk-management/</url>
+    <content><![CDATA[<p>最近，应该会很密集地关注互联网风控这个行业。获得一些资料开始学习，包括但不限于：行业介绍、从业人员背景、所需技能、岗位职责等，希望能够获得拿到相关初级职位的能力。以下笔记来自<a href="https://xue.tongdun.cn/" target="_blank" rel="noopener">同盾大学</a>的公开课程：《互联网风控业务概述》。<br><a id="more"></a></p>
+<h1 id="风险管理的基础知识"><a href="#风险管理的基础知识" class="headerlink" title="风险管理的基础知识"></a>风险管理的基础知识</h1><ol>
+<li>定义：不确定性，在金融领域特指损失发生的概率及金额的不确定性。</li>
+<li>类型：根据来源分为信用风险、市场风险、操作风险、流动性风险、合规风险。</li>
+<li>风险管理要解决的问题：<strong>一是</strong>减少信息不对称，<strong>二是</strong>紧密贴合业务，同生共进。<strong>三是</strong>风险调整后的收益最大化为目标（而非风险最小化）。</li>
+</ol>
+<h1 id="互联网信贷风险案例"><a href="#互联网信贷风险案例" class="headerlink" title="互联网信贷风险案例"></a>互联网信贷风险案例</h1><p>常见的风险有以下几种：伪冒申请、虚假资料、内部欺诈、信用风险；同时，互联网风控人员要解决以上风险问题，常见的应对方案例如：</p>
+<ul>
+<li>画像产品<br>从使用设备、手机号码、ip地址、物理地址等用户信息及用户行为上，以较少的数据信息做分析，形成用户画像，初步分类。</li>
+<li>基于规则的决策<br>通过一些统计分析和既有的专家经验和平台业务经验沉淀，根据不同场景、不同的判断规则组合，剥离业务系统，形成独立的、灵活的风控体系，比较依赖历史经验。</li>
+<li>基于模型的决策<br>常见有监督学习、无监督学习，利用数据建模，通过量化后得到精准的效果评估。侧重事前对风险进行预判。</li>
+<li>复杂网络/知识图谱<br>简单而言，就是通过不同平台、体系的海量数据，获得丰富维度进行关联分析，通过可视化等技术形成可以查询、识别等结果，对反团伙诈骗有较大帮助。</li>
+</ul>
+<h1 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h1><p>写这篇非常鸡毛蒜皮的「笔记」，算新一年开了个头，不停地push一下自己，之后会等到一定阶段了再产出些比较有干货的总结和梳理，至于会不会像FRM的project一样跳票？我想，应该不会了吧。（ok，我尽量🤦‍♀️）</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+        <category>风控</category>
+      </categories>
+      <tags>
+        <tag>风控</tag>
+        <tag>互联网</tag>
+        <tag>笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -401,88 +541,21 @@
       </tags>
   </entry>
   <entry>
-    <title>FRM考试</title>
-    <url>/2018/02/22/2018-2-22-FRM-exams/</url>
-    <content><![CDATA[<h1 id="FRM-Part-1"><a href="#FRM-Part-1" class="headerlink" title="FRM Part 1"></a>FRM Part 1</h1><p>2018年给自己定了一个目标：通过FRM（Financial Risk Manager）考试。今年除了常规的注册费、报名费外，还多了一个$40的场地费。和CFA不同，FRM的考试内容比较容易变动，并没有系统的教材讲解，官方解释是这个证书涉及领域多，个人觉得还需要继续迭代升级，形成体系。考试动机：额，其实没什么动机，就是通过考试保持学习的状态。</p>
-<a id="more"></a>
-<p>FRM考试有两个阶段，Part 1分为以下四个模块：</p>
-<table>
-<thead>
-<tr>
-<th>模块</th>
-<th>topics</th>
-<th>weight</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>foundations of risk management</td>
-<td>基础统计、概率理论、CAPM、风险管理概念、GARP理念</td>
-<td>20%</td>
-</tr>
-<tr>
-<td>quantitative analysis</td>
-<td>概率分布、参数估计、假设检验、贝叶斯统计、时间序列、线性回归、波动、EWMA和GARCH模型</td>
-<td>20%</td>
-</tr>
-<tr>
-<td>financial markets and products</td>
-<td>远期、期货、掉期、期权、公司债券、资产证券化、利率理论、衍生工具</td>
-<td>30%</td>
-</tr>
-<tr>
-<td>valuation and risk models</td>
-<td>VaR、套期保值、固定收益定价、期权定价、操作风险、损失</td>
-<td>30%</td>
-</tr>
-</tbody>
-</table>
-<p>从Part 1的官方学习指南来看，90%都有学习过，第三、四部分是重点。买了官方大陆地区授权的Notes还有德州计算器，也算花了点银子。5月中旬拿下Part 1，之后会不定期更新笔记和相关总结，梳理知识脉络。</p>
+    <title>执行力</title>
+    <url>/2019/09/05/2019-09-05-execution/</url>
+    <content><![CDATA[<p>长期以来，一直有受到「要完成点什么」的压力，不知道源来，但给到的生活体验就是：<strong>不自恰</strong>。</p>
+<p><em>“Document. Don’t create.”</em>虽然这句话是一直有提醒自己要专注在过程里，把目标分解，做好适时地调整，遵循现在流行的所谓<em>先从0到1，再小步快速迭代</em>来趋近最终结果，但是实际运用中，并没有很好地实践。而正如陈嘉映在《何为良好的生活》一书中谈到的<em>”良好的实践就是良好的生活本身”</em>，当前对于实践的缺乏，又引出了新的隐患：良好的生活怎么去追寻？显然，一连串的问题接踵而至，已经超出了我处理能力的阈值上限，追根溯源：似乎<strong>执行力</strong>成了第一个蹦出脑海中的关键词，继而又联想到了人们常说的<em>“想的太多而做的太少”</em>即由于生产投入和结果导向之间不匹配引发的矛盾。既然没办法求最优解，那不妨谈谈如何提高执行力。<br><a id="more"></a></p>
+<p>最近一阵子，对执行力有些良好的实践：<br>1.尝试着把生活中的一些希望通过比较长的时间投入才能看到结果的事项列为<code>必须</code>.譬如说，如果不加班下班后第一件事就是去运动，这样一来没有选择的日程，极大减少了正在减脂期间的焦虑感，只要去做就好了的念头反而让整件事情没有那么痛苦，关键点在于不用面对选择，心情大好😊。</p>
+<p>2.随时都可以开始，也可以在任何时候选择停下。这点其实在我们吃东西，特别是吃零食的时候实践得特别好，但其实是可以迁移到其他任务中去的。最近在同时读多本书籍，而原来我是特别执拗的：如果开始读一本书，就一定要等到读完后再开始下一本，导致要么一本书读很久，要么再也读不下去就束之高阁甚至对阅读产生厌恶；现在保持轻松的心态开始，不想读的时候即刻停止的阅读方式让我开始体会到阅读的乐趣。</p>
+<p>3.“Done is better than perfect”，减少拖延。个人是非常反感<em>“一味追求效率至上，生活必须有意”</em>之类的上古鸡汤文学的，保持开放、包容，尊重个体选择，可以的话我倒是觉得「不带自责地散漫度过生命中的闲散时光」是件很酷的事情；但如果「不幸」的无法享受当下的闲暇，尽快开始不要拖延绝对是种救赎（我知道，老生常谈，可是架不住有用啊），这里强调的是：当一次次不停地去积累完成而非完美的信念时，事情的可爱程度会超乎预期。譬如，我现在写的博文就是其中一次，当个人工作体系没有那么有效和足够完善地来支撑起预期产出时，亟需这种「Done」的次数叠加，产生正向激励，才能使事情看来不至于被流逝的时间吊打，不让自己又掉进修正计划的情景，获得按部就班的踏实感。</p>
+<p>以上就是最近的一些执行力实践吧，离实践出良好的生活差距甚远，可总比不做强。（再次实践了「Done」🤟）。</p>
 ]]></content>
       <categories>
-        <category>工作</category>
+        <category>随笔</category>
       </categories>
       <tags>
-        <tag>笔试</tag>
-        <tag>FRM</tag>
+        <tag>效率</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>互联网风控101</title>
-    <url>/2019/01/05/2019-01-05-internet-risk-management/</url>
-    <content><![CDATA[<p>最近，应该会很密集地关注互联网风控这个行业。获得一些资料开始学习，包括但不限于：行业介绍、从业人员背景、所需技能、岗位职责等，希望能够获得拿到相关初级职位的能力。以下笔记来自<a href="https://xue.tongdun.cn/" target="_blank" rel="noopener">同盾大学</a>的公开课程：《互联网风控业务概述》。<br><a id="more"></a></p>
-<h1 id="风险管理的基础知识"><a href="#风险管理的基础知识" class="headerlink" title="风险管理的基础知识"></a>风险管理的基础知识</h1><ol>
-<li>定义：不确定性，在金融领域特指损失发生的概率及金额的不确定性。</li>
-<li>类型：根据来源分为信用风险、市场风险、操作风险、流动性风险、合规风险。</li>
-<li>风险管理要解决的问题：<strong>一是</strong>减少信息不对称，<strong>二是</strong>紧密贴合业务，同生共进。<strong>三是</strong>风险调整后的收益最大化为目标（而非风险最小化）。</li>
-</ol>
-<h1 id="互联网信贷风险案例"><a href="#互联网信贷风险案例" class="headerlink" title="互联网信贷风险案例"></a>互联网信贷风险案例</h1><p>常见的风险有以下几种：伪冒申请、虚假资料、内部欺诈、信用风险；同时，互联网风控人员要解决以上风险问题，常见的应对方案例如：</p>
-<ul>
-<li>画像产品<br>从使用设备、手机号码、ip地址、物理地址等用户信息及用户行为上，以较少的数据信息做分析，形成用户画像，初步分类。</li>
-<li>基于规则的决策<br>通过一些统计分析和既有的专家经验和平台业务经验沉淀，根据不同场景、不同的判断规则组合，剥离业务系统，形成独立的、灵活的风控体系，比较依赖历史经验。</li>
-<li>基于模型的决策<br>常见有监督学习、无监督学习，利用数据建模，通过量化后得到精准的效果评估。侧重事前对风险进行预判。</li>
-<li>复杂网络/知识图谱<br>简单而言，就是通过不同平台、体系的海量数据，获得丰富维度进行关联分析，通过可视化等技术形成可以查询、识别等结果，对反团伙诈骗有较大帮助。</li>
-</ul>
-<h1 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h1><p>写这篇非常鸡毛蒜皮的「笔记」，算新一年开了个头，不停地push一下自己，之后会等到一定阶段了再产出些比较有干货的总结和梳理，至于会不会像FRM的project一样跳票？我想，应该不会了吧。（ok，我尽量🤦‍♀️）</p>
-]]></content>
-      <categories>
-        <category>技术</category>
-        <category>风控</category>
-      </categories>
-      <tags>
-        <tag>风控</tag>
-        <tag>互联网</tag>
-        <tag>笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Xian鱼</title>
-    <url>/2019/03/06/2019-03-06-xianyu/</url>
-    <content><![CDATA[<p>醒来，工作，吃饭<br>然后想到了：xian鱼<br>「闲鱼」和「咸鱼」最大的不同，<br>可能是：<br>一个闲死，<br>一个咸死。<br>他们忘记了要在海里<br>毕竟7秒的记忆，太短<br>短到忘记了，<br>为什么会死<br>怎么就死了？<br>反正，xian鱼的一天<br>周而复始，<br>也走向了终点<br>最后，明白了：<br>一条xian鱼的使命，<br>应当是开始，<br>在每个7秒结束以后，<br>重新活过一生。</p>
-]]></content>
-      <categories>
-        <category>小诗</category>
-      </categories>
   </entry>
   <entry>
     <title>乐队和这个夏天</title>
@@ -510,20 +583,22 @@
       </tags>
   </entry>
   <entry>
-    <title>执行力</title>
-    <url>/2019/09/05/2019-09-05-execution/</url>
-    <content><![CDATA[<p>长期以来，一直有受到「要完成点什么」的压力，不知道源来，但给到的生活体验就是：<strong>不自恰</strong>。</p>
-<p><em>“Document. Don’t create.”</em>虽然这句话是一直有提醒自己要专注在过程里，把目标分解，做好适时地调整，遵循现在流行的所谓<em>先从0到1，再小步快速迭代</em>来趋近最终结果，但是实际运用中，并没有很好地实践。而正如陈嘉映在《何为良好的生活》一书中谈到的<em>”良好的实践就是良好的生活本身”</em>，当前对于实践的缺乏，又引出了新的隐患：良好的生活怎么去追寻？显然，一连串的问题接踵而至，已经超出了我处理能力的阈值上限，追根溯源：似乎<strong>执行力</strong>成了第一个蹦出脑海中的关键词，继而又联想到了人们常说的<em>“想的太多而做的太少”</em>即由于生产投入和结果导向之间不匹配引发的矛盾。既然没办法求最优解，那不妨谈谈如何提高执行力。<br><a id="more"></a></p>
-<p>最近一阵子，对执行力有些良好的实践：<br>1.尝试着把生活中的一些希望通过比较长的时间投入才能看到结果的事项列为<code>必须</code>.譬如说，如果不加班下班后第一件事就是去运动，这样一来没有选择的日程，极大减少了正在减脂期间的焦虑感，只要去做就好了的念头反而让整件事情没有那么痛苦，关键点在于不用面对选择，心情大好😊。</p>
-<p>2.随时都可以开始，也可以在任何时候选择停下。这点其实在我们吃东西，特别是吃零食的时候实践得特别好，但其实是可以迁移到其他任务中去的。最近在同时读多本书籍，而原来我是特别执拗的：如果开始读一本书，就一定要等到读完后再开始下一本，导致要么一本书读很久，要么再也读不下去就束之高阁甚至对阅读产生厌恶；现在保持轻松的心态开始，不想读的时候即刻停止的阅读方式让我开始体会到阅读的乐趣。</p>
-<p>3.“Done is better than perfect”，减少拖延。个人是非常反感<em>“一味追求效率至上，生活必须有意”</em>之类的上古鸡汤文学的，保持开放、包容，尊重个体选择，可以的话我倒是觉得「不带自责地散漫度过生命中的闲散时光」是件很酷的事情；但如果「不幸」的无法享受当下的闲暇，尽快开始不要拖延绝对是种救赎（我知道，老生常谈，可是架不住有用啊），这里强调的是：当一次次不停地去积累完成而非完美的信念时，事情的可爱程度会超乎预期。譬如，我现在写的博文就是其中一次，当个人工作体系没有那么有效和足够完善地来支撑起预期产出时，亟需这种「Done」的次数叠加，产生正向激励，才能使事情看来不至于被流逝的时间吊打，不让自己又掉进修正计划的情景，获得按部就班的踏实感。</p>
-<p>以上就是最近的一些执行力实践吧，离实践出良好的生活差距甚远，可总比不做强。（再次实践了「Done」🤟）。</p>
+    <title>落网记忆</title>
+    <url>/2019/11/08/2019-11-08-luoo/</url>
+    <content><![CDATA[<p>「独立，不独于世」这句话是落网的slogan，而「落网」又是什么呢？<a href="https://baike.baidu.com/item/%E8%90%BD%E7%BD%91/19482414" target="_blank" rel="noopener">这里</a>有介绍:是一个自03年起坚持了十几年的独立音乐网站，2018年末陆续打不开，至今官方网站再也打不开的小站。如同大多数互联网世界里的故事一样，终于曲终人已散，流星再灿烂也已是从前。而从前的日子像是一场独行侠们深夜的狂欢，只留下无数落友「等你回来的期盼」。<br><a id="more"></a></p>
+<p>不过，其实没那么伤感，当代互联网的骑士精神永存，<a href="https://www.luoow.com" target="_blank" rel="noopener">落网记忆</a>是今年8月份网友们做的存档网站，落网之前的期刊、电台、文字都在，只是评论没了，用户账号不存在了。10月发现这个存档站是我最开心的事！</p>
+<p>其实，想聊聊落网已经很久了，不过就算是现在也好像没办法准确地说出为什么我喜欢它，也无法分辨出我是喜欢它的音乐还是它本身，不过，我想这已经不重要了，就来梳理一些关于落网的记忆，也是关于从前日子的回忆。</p>
+<h1 id="转着圈圈的那个下午"><a href="#转着圈圈的那个下午" class="headerlink" title="转着圈圈的那个下午"></a>转着圈圈的那个下午</h1><p>2013年某一天的下午，忘记怎么突然点开的链接，第一次来到还只有网页端的落网，那一期是《激荡的人生当如此》，第一次听到了John Jett的 I hate myself for loving you而且还是现场版本，有种初听即巅峰的感受——那个下午突然变得闪闪发光，我站在床边戴着耳机听了一遍又一遍，平淡如水的生活顿时被牛逼轰轰的什么东西炸出星火，第一次感受到了音乐带来的震撼，从此喜欢上了摇滚乐，整个人在那个下午感觉都在旋转，好像随时就要起飞，轰轰隆隆、晕晕乎乎、感受到了新世界。</p>
+<h1 id="一万首歌的故事"><a href="#一万首歌的故事" class="headerlink" title="一万首歌的故事"></a>一万首歌的故事</h1><p>渐渐的，晚上睡前去落网听歌变成了习惯，很快就到了10000首累计播放量，我也从这个不定期更新、坚持人工选歌的独立网站里，获得很多温暖。我在那里知道了李志、尹吾、脑浊、高旗超载、鲍家街43号、mother mother、my little airport、new medicine、sek laso、mazzy star、keane、placebo……而时间不知不觉就去了很久、很久。</p>
+<p>有一期是Time，我每隔一阵子就会因为收到听友赞的消息提醒而去留留言，成了独特的记录：从2014到2017，好像歌曲量的数字叠加不停在流逝的日子就是彼时的心情，「Time过去过去、来了来了」。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/time%20from%20luoo.JPG" alt="time from luoo"></p>
+<h1 id="众筹是什么愁"><a href="#众筹是什么愁" class="headerlink" title="众筹是什么愁"></a>众筹是什么愁</h1><p>2016年起，落网安卓、塞班、苹果都有了客户端，团队规模空前庞大，付费节目上线、实体落网live house广州落成，风风火火，最后还是走向了衰落。其实，从一开始版权就是绕不开的硬伤，知乎、搜狐等媒体上的一些文章已经有分析过了，不想再说，作为「白嫖时代的成长起来的音乐迷」，也算是没什么资格站在道德制高点上侃侃而谈。只记得2016年参与落网空间线下店的众筹，周边是好看的落网logo黑色T恤和一张哑光黑色充值卡，特别喜欢那件T恤，印花图样是只黑天鹅，穿出去的时候有人会以为是mazzy star乐队的周边，但落网的logo就是受了这只乐队的影响。不过好景不长，不爱丢东西的我，在某次天台晾晒后再也没找回来，想起来就愁绪范范，伴着落网第二间线下空间经营不善一起，看着这个从前的独立小站的日常运营变得艰难，最后再也打不开，期刊停留在了第999期。</p>
+<h1 id="燃尽重生"><a href="#燃尽重生" class="headerlink" title="燃尽重生"></a>燃尽重生</h1><p>又是一年快尽时，以往，落网都会出「再见」系列，再见2014、2015、2016、2017、2018，现在是2019年了，二十一世纪里的第二个十年一晃眼也就要过去了：<strong>再见了，落网</strong>。空虚的尽头是重生，第1000期再会吧。</p>
 ]]></content>
       <categories>
-        <category>随笔</category>
+        <category>音乐</category>
       </categories>
       <tags>
-        <tag>效率</tag>
+        <tag>music</tag>
       </tags>
   </entry>
   <entry>
@@ -563,137 +638,6 @@
       <tags>
         <tag>效率</tag>
         <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>落网记忆</title>
-    <url>/2019/11/08/2019-11-08-luoo/</url>
-    <content><![CDATA[<p>「独立，不独于世」这句话是落网的slogan，而「落网」又是什么呢？<a href="https://baike.baidu.com/item/%E8%90%BD%E7%BD%91/19482414" target="_blank" rel="noopener">这里</a>有介绍:是一个自03年起坚持了十几年的独立音乐网站，2018年末陆续打不开，至今官方网站再也打不开的小站。如同大多数互联网世界里的故事一样，终于曲终人已散，流星再灿烂也已是从前。而从前的日子像是一场独行侠们深夜的狂欢，只留下无数落友「等你回来的期盼」。<br><a id="more"></a></p>
-<p>不过，其实没那么伤感，当代互联网的骑士精神永存，<a href="https://www.luoow.com" target="_blank" rel="noopener">落网记忆</a>是今年8月份网友们做的存档网站，落网之前的期刊、电台、文字都在，只是评论没了，用户账号不存在了。10月发现这个存档站是我最开心的事！</p>
-<p>其实，想聊聊落网已经很久了，不过就算是现在也好像没办法准确地说出为什么我喜欢它，也无法分辨出我是喜欢它的音乐还是它本身，不过，我想这已经不重要了，就来梳理一些关于落网的记忆，也是关于从前日子的回忆。</p>
-<h1 id="转着圈圈的那个下午"><a href="#转着圈圈的那个下午" class="headerlink" title="转着圈圈的那个下午"></a>转着圈圈的那个下午</h1><p>2013年某一天的下午，忘记怎么突然点开的链接，第一次来到还只有网页端的落网，那一期是《激荡的人生当如此》，第一次听到了John Jett的 I hate myself for loving you而且还是现场版本，有种初听即巅峰的感受——那个下午突然变得闪闪发光，我站在床边戴着耳机听了一遍又一遍，平淡如水的生活顿时被牛逼轰轰的什么东西炸出星火，第一次感受到了音乐带来的震撼，从此喜欢上了摇滚乐，整个人在那个下午感觉都在旋转，好像随时就要起飞，轰轰隆隆、晕晕乎乎、感受到了新世界。</p>
-<h1 id="一万首歌的故事"><a href="#一万首歌的故事" class="headerlink" title="一万首歌的故事"></a>一万首歌的故事</h1><p>渐渐的，晚上睡前去落网听歌变成了习惯，很快就到了10000首累计播放量，我也从这个不定期更新、坚持人工选歌的独立网站里，获得很多温暖。我在那里知道了李志、尹吾、脑浊、高旗超载、鲍家街43号、mother mother、my little airport、new medicine、sek laso、mazzy star、keane、placebo……而时间不知不觉就去了很久、很久。</p>
-<p>有一期是Time，我每隔一阵子就会因为收到听友赞的消息提醒而去留留言，成了独特的记录：从2014到2017，好像歌曲量的数字叠加不停在流逝的日子就是彼时的心情，「Time过去过去、来了来了」。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/time%20from%20luoo.JPG" alt="time from luoo"></p>
-<h1 id="众筹是什么愁"><a href="#众筹是什么愁" class="headerlink" title="众筹是什么愁"></a>众筹是什么愁</h1><p>2016年起，落网安卓、塞班、苹果都有了客户端，团队规模空前庞大，付费节目上线、实体落网live house广州落成，风风火火，最后还是走向了衰落。其实，从一开始版权就是绕不开的硬伤，知乎、搜狐等媒体上的一些文章已经有分析过了，不想再说，作为「白嫖时代的成长起来的音乐迷」，也算是没什么资格站在道德制高点上侃侃而谈。只记得2016年参与落网空间线下店的众筹，周边是好看的落网logo黑色T恤和一张哑光黑色充值卡，特别喜欢那件T恤，印花图样是只黑天鹅，穿出去的时候有人会以为是mazzy star乐队的周边，但落网的logo就是受了这只乐队的影响。不过好景不长，不爱丢东西的我，在某次天台晾晒后再也没找回来，想起来就愁绪范范，伴着落网第二间线下空间经营不善一起，看着这个从前的独立小站的日常运营变得艰难，最后再也打不开，期刊停留在了第999期。</p>
-<h1 id="燃尽重生"><a href="#燃尽重生" class="headerlink" title="燃尽重生"></a>燃尽重生</h1><p>又是一年快尽时，以往，落网都会出「再见」系列，再见2014、2015、2016、2017、2018，现在是2019年了，二十一世纪里的第二个十年一晃眼也就要过去了：<strong>再见了，落网</strong>。空虚的尽头是重生，第1000期再会吧。</p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>music</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ONLY BRANDI CARLILE</title>
-    <url>/2018/12/09/2018-12-09-all-about-brandi-carlile/</url>
-    <content><![CDATA[<p>2019年第61届格莱美音乐奖项提名名单出炉，非常意外的一个名字：Brandi Carlile出现在了多个提名中，包括分量很重的最佳年度专辑、最佳年度歌曲、最佳录音单曲等6个项目，作为粉丝一枚的我除了震惊狂喜之余，默默收入「有生之年系列」清单。</p>
-<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/brandi-carlile/2019_gammy_brandi.jpg" alt="2019 grammy"></p>
-<a id="more"></a>
-<h2 id="名声大噪"><a href="#名声大噪" class="headerlink" title="名声大噪"></a>名声大噪</h2><p>2016年4月20日，在网易云音乐FM第一次听到Brandi Carlile的成名曲《The Story》（收录在2007年发行的第2张专辑<em>The Story</em>），比较清楚的记得准确日期是因为当时是新学年第一个期末，深夜复习并焦虑、一边深深思考：为什么有画家、诗人会孤独，这世界有时候，就是会找不到共振。然后，突然间副歌部分响起，带有情绪的小破音，唱出：</p>
-<blockquote>
-<p>I climbed across the mountain tops<br>Swam all across the ocean blue<br>I crossed all the lines and I broke all the rules<br>But baby I broke them all for you </p>
-</blockquote>
-<p>第一次对孤独这件事有了新的看法：<strong>最后，这世界，仍有人阅尽你希望经历的一切，总有一种语言和某些人说出你不曾表达出的感受。</strong>虽然是此时心境，彼时泪，再怎么回忆也不会那么真切了，不过，当时这首歌就像一束温暖的光刺破了我所有的情绪泡泡，在夜晚里炸开来，在心里有了回响（可见被期末虐的很深==！hhh）。这首歌曲Brandi后来被采访的时候对破音也有如下的表述：</p>
-<blockquote>
-<p>technically wrong but emotionally right.</p>
-</blockquote>
-<p>第二张专辑里的这首歌被用在通用汽车2008年的广告中，一度在iTunes中排到第5位，后来连同之前专辑里的几首歌曲，被用在《实习医生葛蕾》中，最后被广泛传唱。而最打动我的歌词却是里面最娓娓道来的：</p>
-<blockquote>
-<p>when I was flat broke, you made me feel like a million bucks<br>you do and I was made for you.</p>
-</blockquote>
-<p>总有种「千辛万苦过后，看着守在身边的人，忘掉所有的沧桑、苦痛，有你就足够」的温情。</p>
-<h2 id="现场，现场"><a href="#现场，现场" class="headerlink" title="现场，现场"></a>现场，现场</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/brandi-carlile/performance.jpg" alt="performance"></p>
-<p>Brandi一家都算实力唱将，她本人自小就开始登台演唱，高中辍学开始组乐队，个人更偏好所有的live版本。非常值得列举的有这些：</p>
-<blockquote>
-<ol>
-<li>Creep - live from Boston 已发行EP <a href="http://music.163.com/song/16783852/?userid=56216139" target="_blank" rel="noopener">网易云音乐</a></li>
-<li>Wish you will (feat with Katie Herzig) <a href="https://www.youtube.com/watch?v=1261IjEAiG4&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1&amp;t=0s&amp;index=17" target="_blank" rel="noopener">链接</a></li>
-<li>Stand by your man (feat with Brandi’s mom) <a href="https://www.youtube.com/watch?v=5kG2Z9w9KdY&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1&amp;t=0s&amp;index=15" target="_blank" rel="noopener">链接</a></li>
-<li>Worn Me Down （feat with Rachael Yamagata）<a href="https://www.youtube.com/watch?v=8_W7DV5jgZw&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1&amp;index=24" target="_blank" rel="noopener">YouTube</a></li>
-<li>If It Makes You Happy (feat with Sheryl Crow) <a href="https://www.youtube.com/watch?v=oxabl4OlDRY&amp;index=25&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1" target="_blank" rel="noopener">YouTube</a></li>
-<li>OH DARLING (feat with Ingrid Michaelson) <a href="https://www.youtube.com/watch?v=s3otIQqZpKM&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1&amp;index=13" target="_blank" rel="noopener">RED ROCK LIVE</a></li>
-<li>I Belong To You (feat with her wife) <a href="https://www.youtube.com/watch?v=pASQtE_BwOU&amp;index=19&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1" target="_blank" rel="noopener">Hershey Theatre</a></li>
-</ol>
-</blockquote>
-<p>前期她会尝试在不同的现场改编不同的曲风，例如我非常喜欢的一首歌<strong>Pride and Joy</strong>的现场版本<a href="https://www.youtube.com/watch?v=SqECt1wuA5Q&amp;index=21&amp;list=PLL6nugD4WT7k47z7LoM0fpnYqCjePAnI1" target="_blank" rel="noopener">2013年6月在Interlochen</a>，在她的那张Live at Benaroya Hall with the Seattle Symphony专辑（发行于2011年）里风格从电子吉他带出的强烈摇滚硬朗风转向了气势磅礴而又层次鲜明的交响。另外，我相信看了她现场表演的人会更喜欢她的歌，很重要的一点就是，她在现场会很有强烈和听众互动的欲望，除了现场特别炸意外，和观众的小调侃、对话都变得非常有意思，这张现场录音专辑中，值得一提的是Turpentine，中间部分有和乐队成员（Twins：Phil and Tim Hanseroth，吉他手和贝斯手）一起，将观众分为3个声部一起合唱，成了这张专辑里的点睛之笔。 </p>
-<p>事实上，Brandi一直都情有独钟不插电演唱的形式，在乐队第5张专辑The Firewatcher’s Daughter发行前后，乐队一直都在不插电巡演，对挑选演出场地进行了很多考量，力求追寻最真实的声音：</p>
-<blockquote>
-<p>no mics, no amps, nothing to hide behind. </p>
-</blockquote>
-<h2 id="Looking-Out基金"><a href="#Looking-Out基金" class="headerlink" title="Looking Out基金"></a>Looking Out基金</h2><p>2008年Brandi成立Looking out慈善基金，此后一直通过个人及乐队的努力去扩大影响力，让更多音乐人参与进来去关注贫困、儿童等课题。2017年36岁生日之际，邀请不同的14位音乐人来翻唱之前自己的歌曲并发行cover stories-2017版本，将所得支持战乱地区的儿童。在这张翻唱专辑中，Adele再次翻唱了Hiding my heart，（第1次翻唱是在专辑《21》中作为bonus track，同时Brandi在2016年获得格莱美提名的时候也公开表示最喜欢的女歌手就是Adele,音乐人间的心心相惜可见一斑)。此外，正是因为Looking out基金，她和太太Catherine Shepherd相遇。到了2018年10月，Brandi还在Twitter上邀请Sam Smith合作完成Party of one，一起为战火中的儿童进行募捐。</p>
-<p>Looking out基金名称的由来，也可以追溯到她的第3张专辑Give up the Ghost（2009年发行）中第1首歌就是Looking out，歌词满满人文关怀:</p>
-<blockquote>
-<p>I know the darkness falls on you.<br>And it’s just a point of view When you’re outside looking in you belong to someone and when You feel like giving in and the coming of the end,<br>Like your heart can break in two, someone loves you.</p>
-</blockquote>
-<h2 id="The-band"><a href="#The-band" class="headerlink" title="The band"></a>The band</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/photo/brandi-carlile/the%20band.png" alt="the band"><br>Brandi的音乐离不开家庭式经营，与其说是乐队成员，不如说是家人，吉他手和贝斯手Phil和Tim早期就是Brandi的好友，Phil和Brandi妹妹结了婚，Tim妻子负责乐队巡演拍照，twins也负责部分歌词创作，乐队鼓手后来和twins的妹妹结了婚，一大家子都是房车到处走并且巡演，小孩子一起养，从小在音乐里成长，生活态度非常独有风格。</p>
-<h2 id="引人注目的2018"><a href="#引人注目的2018" class="headerlink" title="引人注目的2018"></a>引人注目的2018</h2><p>对Brandi来说，2018年是里程碑的一年，虽然可能她并不在乎，但毕竟在业界多年口碑一直非常高、可又不为大众所熟知，这一年里她身体不适做了小手术、生了二女儿 Elijah、The Joke和新专辑By the Way, I Forgive You提名多项2019年格莱美重要奖项。期待她出席2019年2月的颁奖典礼并获奖，实至名归。无论是音乐还是慈善、平权，Brandi在近年来歌曲创作中展现出更多充满人文主义关怀倾向：不论是对伴侣、孩子还是世界的贫瘠，“她一向立意深远，但By the Way, I Forgive You比以往更甚”，也正如她在采访中回答的一样：</p>
-<blockquote>
-<p>I had to forgive myself for some of the stumbles in my life, and find out ways to work through my anger of not accepting people in my life if they didn’t meet my requirements and needs. </p>
-</blockquote>
-<p>目前，我个人还是比较喜欢The story和Give up the Ghost这种“直白硬核有爆发力”的音乐，不过，渐渐变得温暖的情歌、给到缓缓包围的安慰及治愈，令人感到富足，也希望日后会有更多优秀的作品出现：因为，她是Brandi!</p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>music</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2019年：下个十年路口，Farewell</title>
-    <url>/2019/12/29/2019-12-29-farewell-2019/</url>
-    <content><![CDATA[<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/12dian34.jpg" alt="12点34"></p>
-<p>又是一年将尽时，在2019年的最后两个多月的时候才猛然发现21世纪的第二个十年即将结束，为什么对这个十年开始有「时光匆匆、日子闪光、记忆里也有光」的感觉呢？对我来说，记忆开始有意义始于一个人开始「独立」，不仅是生活上的独立，更是精神上的自由意识觉醒的那一刻，而我的独立记忆时刻就是开始上大学，那年：2011，也正好是这个十年的开端。<br><a id="more"></a></p>
-<blockquote>
-<p>那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。<br>——王小波</p>
-</blockquote>
-<p><strong>加速度，能不能更快一点，更勇猛一点好像就更璀璨一些</strong>，然后，十年就过去了。幸好，我还是个年轻人，并由衷感叹：</p>
-<blockquote>
-<p>年轻，可真好。</p>
-</blockquote>
-<p>这个十年上了学、实习、毕业、工作、恋爱、旅行，以至于不知道什么时候写下的一个备忘录开始变得有趣，不禁感叹😀：It‘s a genius idea.</p>
-<ul>
-<li>2011-8某一天，空气为什么在颤抖，为什么感觉不能呼吸了？<br>（<em>因为，出生在四季贵州，春风十里，没有空调没有暖气没有雪花没有骄阳没有防晒霜；而这，是我对武昌火车站的第一印象。一个气候宜居的县城人民莫名其妙地来到了火炉城市，她并不知道日后会经历五个风扇齐吹依然汗流如注的夏天、梅雨季淹没城市坐公交车如坐船、冬天刚刚好没有暖气湿冷得像住进了大冰柜，而现在，她都知道了，像「请把心爱的手绢收下吧，永驻心间」这种苏联味道的台词一样，所有关于武汉、关于母校的吐槽，都成了新的信物</em>）</li>
-<li>2012-7-4，跟着电车的电缆走就不会迷失！<br>（<em>有些时候，不管你信不信：<strong>电缆就是会突然消失的</strong>。那天，和室友一起压了整个中山大道，从此拉开压马路的经历，压到半夜惊醒的躺椅大叔不可置信地目光追随，压到金拱门换班，压到次日公交车始发。直到后来，2015年的一个晚上去吹风，就突发奇想走了3个钟。我想，如果以后常徒步的话，这个可以算开端：城市空荡荡，脚下亦有光</em>）<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/lost-in-midnight.jpg" alt="lost in midnight"><br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/8km.jpg" alt="8k"></li>
-<li>2013-9-29，第一次一掌拍碎了一个塑料桶！<br>（<em>WTF？怪力乱神，我以为以后还能如此生猛，应该是桶的质量太差了吧，因为此后6年是没有再对桶施法了</em>）</li>
-<li>2014-3-24，发了人生第一封简历邮件！<br>（<em>这里还有个隐藏剧情，某司当年实习网申的时候还建了个页面相约十年，当年还真写了，再过几年看看这个梗是否当真🤞，要是当真，一定认真写个配得上这场十年之约的文章</em>） </li>
-<li>2015-3-21，买了人生中的第一张正版专辑：Taylor swift 的1989.<br>(<em>正式结束个人「盗版无愧」阶段，以至于后面动不动就想给维基百科捐款、给落网众筹、订阅不知不会觉变多，然后一边贫穷，另一边开始更多地去电影院。虽然，这张专辑还是出掉了，但是收获了买家苦口婆心地试探：您可别脱粉啊！的快乐回忆funny</em>)<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/1989-album.jpeg" alt="1989 albu"></li>
-<li><p>2016-4-5，第一次看live，完成所谓的第一次pogo，于李志香港动静演唱会。<br>(<em>事实上，「喜欢听live版本」和「喜欢去现场」是两件事，并没有特别多冲动去现场，太懒了，懒到看现场视频就已经心满意足。这个现场，唱到《港岛妹妹》的时候，改了歌词提到一国两制，台下随即爆发的哄闹激动声记忆犹新</em>)<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/lizhilive.jpg" alt="lizhi_live"></p>
-</li>
-<li><p>2017-12-19，喝了好多茅台，吐了一地的呕吐物，像是被丢进了海洋。<br>（<em>这个就比较迷了，土特产还是未能抓住我，写下这个片段的时候，是因为当时脑子里闪过心算能力不错的点评，成年人，在「正式场合」要端庄、要有台面，要秉持「放心，局势可控」的盲目自信，拿出too young too naive的气势，盘算着一杯一杯都是钱，并具备回家抱着马桶哭的反差效果。眼泪流啊流，可惜那份钱了，对牛弹琴，对酒谈钱好像也是一个意思。👀</em>）</p>
-</li>
-<li>2018-3-17，第一次走进健身房！<br>（<em>大概是过于恐慌，干巴巴留了行字聊表内心奔腾。到今天依然不喜欢室内的锻炼，我一如既往地践行：只要有人在，我就不自在的精神，能不去就不去。所以后来去跑步了，真的跑很多很多。</em>）</li>
-</ul>
-<p>2019年，两件事吧，一个是开始喝咖啡了☕️，另一个是完成了两次半程半拉松。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/twoonlinemarathon.jpg" alt="two_online_marathon"></p>
-<p>发生挺多事情的一年，但总觉得还是不要沉湎于过去，静水流深，过于绵长，太多的细节会把当下的时空劈碎，以后还有很多年。你看，事情有时候就是会戛然而止的，而怪力乱神的糊涂小孩子也逐渐变成开始建立routine并试图不破不立的「年轻人」，就连括号里的评论都开始注意句末要加句号了。此处，寄出我写过最好的对子吧：</p>
-<blockquote>
-<p><strong>青绦拂絮终已去，琉璃细数多默语</strong>。</p>
-</blockquote>
-<p>站在下个十年的路口，现在一切都好。以后会不会好，谁也不知道，但知不知道真的很重要吗？不重要吧，墙里要有光，就总会有，冬日还有暖阳，挺好的。</p>
-<p>所以，明年，我们去徒步吧！</p>
-<p><em>END</em></p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>总结</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一个人的冬天</title>
-    <url>/2019/12/02/2019-12-02-lonely-winter/</url>
-    <content><![CDATA[<p>现在是2019年的冬天，12月里随着寒气袭来，不由得心生出感叹：是冬天了，而冬天说不出快乐。总会想，要写些「有价值」的东西输出，突然发现以前用来写碎碎念，写了5年的「子弹日程」系列在2019年只写了1/4不到——原来，已经很少写字了，而最近burn out的感觉越发强烈，写出来似乎也没什么不好。<br><a id="more"></a></p>
-<p>复盘了下burn out的原因，发现每周都有很多很多期望外的社交，让我这个内向的人保持持续输出状态，不能休息、心力交瘁。特别是在周末，好不容易通过工作日加班力争给自己放个两天假，并且11月集中把应该约的饭局都约了一遍，但不由得被临时的人情世故推着走，刚结束的饭局上开始公然走神，突然感觉像是掉进了一个巨大的黑洞，既没有额外的精力挣扎，也似乎恶狠狠地抱着破罐破摔的态度想就这样陷下去别出来。</p>
-<p>「不喜欢」：不喜欢看一般般的电影，不喜欢谈论不过脑子的话题，不喜欢看傻乎乎的综艺，不喜欢一场场的饭局，难道是变黄的银杏树叶不好看吗？难道暖暖的被窝不够温馨吗？想一个人抱着暖手袋安静地听歌，看海浪的视频，然后发呆……想在寒冷的清晨哆嗦着爬起床一股脑跑进雾气氤氲的公园，让冷风吹，意识到已经是冬天的时候已然跑出去3公里远，然后喝一杯300ml的温水，烤一片吐司，放着播客当背景音去洗漱，出发去上班，是啊，上班已经如同上刑了（对啊，就是这么丧）。亟需一个完整的周末一个人待着恢复元气，粗略一算，估计也得两周后才有可能了，不由得再次感叹：好难。</p>
-<p>日子还是要过，那么多场面，也不拍照片了，就像是忘记昨天，变成了机器人……</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>情绪</tag>
       </tags>
   </entry>
   <entry>
@@ -767,6 +711,165 @@
       </tags>
   </entry>
   <entry>
+    <title>一个人的冬天</title>
+    <url>/2019/12/02/2019-12-02-lonely-winter/</url>
+    <content><![CDATA[<p>现在是2019年的冬天，12月里随着寒气袭来，不由得心生出感叹：是冬天了，而冬天说不出快乐。总会想，要写些「有价值」的东西输出，突然发现以前用来写碎碎念，写了5年的「子弹日程」系列在2019年只写了1/4不到——原来，已经很少写字了，而最近burn out的感觉越发强烈，写出来似乎也没什么不好。<br><a id="more"></a></p>
+<p>复盘了下burn out的原因，发现每周都有很多很多期望外的社交，让我这个内向的人保持持续输出状态，不能休息、心力交瘁。特别是在周末，好不容易通过工作日加班力争给自己放个两天假，并且11月集中把应该约的饭局都约了一遍，但不由得被临时的人情世故推着走，刚结束的饭局上开始公然走神，突然感觉像是掉进了一个巨大的黑洞，既没有额外的精力挣扎，也似乎恶狠狠地抱着破罐破摔的态度想就这样陷下去别出来。</p>
+<p>「不喜欢」：不喜欢看一般般的电影，不喜欢谈论不过脑子的话题，不喜欢看傻乎乎的综艺，不喜欢一场场的饭局，难道是变黄的银杏树叶不好看吗？难道暖暖的被窝不够温馨吗？想一个人抱着暖手袋安静地听歌，看海浪的视频，然后发呆……想在寒冷的清晨哆嗦着爬起床一股脑跑进雾气氤氲的公园，让冷风吹，意识到已经是冬天的时候已然跑出去3公里远，然后喝一杯300ml的温水，烤一片吐司，放着播客当背景音去洗漱，出发去上班，是啊，上班已经如同上刑了（对啊，就是这么丧）。亟需一个完整的周末一个人待着恢复元气，粗略一算，估计也得两周后才有可能了，不由得再次感叹：好难。</p>
+<p>日子还是要过，那么多场面，也不拍照片了，就像是忘记昨天，变成了机器人……</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>情绪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title> 谈谈公文写作</title>
+    <url>/2020/03/13/2020-03-13-talk-about-government-documents/</url>
+    <content><![CDATA[<p>   我，从来没想过会写这样的主题。</p>
+<p>   然而，工作以来却写了很多。从纪要、通知、通报、公告，到函、请示、申请……每次都让人心慌。也不得不说，虽然不擅长，好歹勉强最后及格了。回顾以往，作为一只自由散漫，罗曼蒂克，执着量词破碎，靠着学习批判性思维方法，才磕磕绊绊地成长为「比较有逻辑」的人，自小就不明白：新闻联播的会议精神传达，到底是如何将一句话讲成30分钟的？终于，通过两年的耳濡目染，我决定为「公文」正名，但是：永远不妨碍我不喜欢它，也认为这不是必要的。</p>
+<a id="more"></a>
+<h2 id="一、不同公文类别简述"><a href="#一、不同公文类别简述" class="headerlink" title="一、不同公文类别简述"></a>一、不同公文类别简述</h2><p>   公文确实有通用的格式，在通用文体写出水平是很难的，体现「笔杆子」的时候大概如此。此外，公文不同类别的固定格式，亦是提高行政沟通效率的方式：</p>
+<p>   <strong>第一类</strong>，通知、通报和公告。这类文体仅仅是传达某种决定、精神并提出相应要求，一般向下行文。<em>首先</em>，第一段基本按时间顺序、重要程度列出所谈内容的来龙去脉，一般引出文件名及文号。这里与论文写作的文献综述相似，但索引都是直接写入正文而非脚注、尾注。<em>其次</em>，一般会介绍截至当前的整体基本情况。<em>再者</em>，介绍特殊情况或者深度陈述发展历程，特点是大量使用首阔句，直接阅读第一句可了解80%内容，写出尽量对仗工整的首阔句就更好了。<em>最后</em>，列出工作要求，明确写明具体任务安排，是必读内容。</p>
+<p>   <strong>第二类</strong>，会议纪要。字面意思就是记录会议，这类应该是最格式化的「八股文」，直接用会议时间、地点、重要参会领导、会议主题起全文，接下来依次记录重要发言、讨论及会议结果，用「会议指出、会议安排、会议要求」等穿插行文，最后文末列出全部参会人员、列席人员即可。</p>
+<p>   <strong>第三类</strong>，函这种文体。这是平行机构行文，通常言简意赅，作为合作的引子发往对方，文中难得地会使用敬语、客气词，如：请贵司、贵部、贵单位、贵机构就……事宜……为谢！</p>
+<p>   <strong>第四类</strong>，报告、请示、申请类。属于上行文，是给领导汇报工作或者给出决策建议。开篇要总结性地陈述汇报事项现状，概述解决的关键意见及建议；第二部分按需进行分析、说明；第三部分要总结存在的困难及问题；第四部分针对存在的问题给出解决方案或者工作计划，应该要做到问题与方案对应，不可提风马牛不相关的建议。请示类文末一般附上「请***批示！」。</p>
+<h2 id="二、优秀的公文定义"><a href="#二、优秀的公文定义" class="headerlink" title="二、优秀的公文定义"></a>二、优秀的公文定义</h2><p>   一篇好的公文，读下来一定是「顺口」的，怎么定义顺口呢？就是第一次看文档的人，以正常语速念出来不会有太多磕绊，长句严格控制。同时，通篇发挥中文词意深的优势，少词意达，也就是「不多余」，做到保证好流畅的行文风格后，不能再多删一句一词。最关键的是：现状/事实讲述清晰，工作任务或建议对症下药、符合逻辑和落地可行。</p>
+<h2 id="三、公文的中文世界"><a href="#三、公文的中文世界" class="headerlink" title="三、公文的中文世界"></a>三、公文的中文世界</h2><p>   公文，毕竟是公家机构、红色背景常用行政文体，用中文书面语言来上传下达、推动开展工作、执行指示、完成任务的媒介，不是「怎么做以及具体实践」的载体。就好比是提了个桶，至于钻井打水则是另外的宇宙；政务管理是不擅长用清单、日程来组织的，日志形式是不被选用来记录发生了什么，要解决何事的；把握大局，提纲建领才是追求，领导者说到底永远不是执行者。</p>
+<blockquote>
+<p>作为党领导的企业，要贯彻党的政策，这是大局意识；<br>作为市场经济中的企业，要遵循市场规律，这是专业能力；<br>作为为人民服务的企业，要紧跟客户需求，这是价值取向。<br>在这三个原则的同心圆中寻找措施、办法的结合点，<br>是社会主义体制下企业的发展思路。</p>
+</blockquote>
+<p>   所以，再次的，我只能算是勉强掌握了公文交流的基本能力，也对政策的解读有了「将庄重的词句翻译成清单的能力」（譬如，每个在金融行业、科技行业的从业者，我都真诚地建议去读一读<a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3878634/index.html" target="_blank" rel="noopener">央行发布</a>的<a href="https://baijiahao.baidu.com/s?id=1643920208596875562&amp;wfr=spider&amp;for=pc" target="_blank" rel="noopener">《 金融科技(FinTech)发展规划(2019—2021年)》</a>），也终于在了解公文的基础上获得了发言权：</p>
+<blockquote>
+<p>ok，我可以，但是，我不喜欢，也不会擅长，that’s it。</p>
+</blockquote>
+<p>   🙃</p>
+]]></content>
+      <categories>
+        <category>工作</category>
+      </categories>
+      <tags>
+        <tag>写作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一周速览（2020年 第3期）</title>
+    <url>/2020/03/08/2020-03-08-weekly-overview-3/</url>
+    <content><![CDATA[<p>时间：2020年3月1日-3月8日</p>
+<p>本周大概就是工作占据了特别多时间吧，所以在开这个日志的时候，感觉到没有输出了。没想到这种感觉来得如此快，与此同时，本着避免把速览写成流水账的初心，怎么在碎片的「知识点」间找到连接点是很有挑战的一件事，但我愿意尽力试一试：</p>
+<blockquote>
+<p>you can’t connect the dots looking forward,<br>you can only connect them looking backwards.<br>So you have to trust the dots will somehow connect in your future.</p>
+</blockquote>
+<p>工作时间，目前都是我无奈的「浪费时间」：整个一周都在看巴塞尔协议III衍生出的央行对商业银行监管的MPA考核体系、银保监的《商业银行风险监管核心指标》以及《商业银行内部指引》，合起来简称监管机构的“两项评级”内容，boring thing。</p>
+<p>不过，倒是加深了一个认识：工作是会占据人生的非常多时间的，即便不加班的朝九晚五，1/3时间休息，剩下16个小时至少有8个小时给了工作。实际上，通勤以及围绕「去工作」花掉的时间至少10小时！<strong>实在是没有什么理由做一份完全只是为了钱的工作</strong>。想起来比较认同一个观点：如果觉得需要每个周末来唤醒生活，周一到周五都是行尸走肉，是时候需要好好思考下你正在做的事情，到底值不值得。<br><a id="more"></a></p>
+<p>这周就用问答的形式避免流水账吧：😢<br><strong>1.这周有发生了什么？</strong></p>
+<ul>
+<li>开始使用<a href="https://www.notion.so" target="_blank" rel="noopener">Notion</a>，发现之前的学校的邮箱变成校友邮箱了，但是可以享受教育优惠，免费使用。去年年底有用Excel简单的做了减脂的dashboard，效果很好，无奈最后一个月基本加班加到怀疑人生后停止了，社畜是真难（好像偏题了）。今年是非常想好好写文档的，把线上课程的笔记更新一下，用Notion再合适不过了，介于拖延症晚期，先用来减脂记录好了。</li>
+<li><p>这是2019年的Excel版本示例<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/03/08/jie-ping20200308xia-wu54231.png" alt="Excel版本"></p>
+</li>
+<li><p>这是Notion的示例<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/03/08/jie-ping20200308xia-wu53537.png" alt="Notion版本"></p>
+</li>
+</ul>
+<p><strong>2.这周做了哪些微小的进步？</strong></p>
+<ul>
+<li>抽空看了Tableau的视频，做了一个商业分析里的粗糙小白案例吧。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/03/08/jie-ping20200308xia-wu55740.png" alt="截屏2020-03-08下午5.57.40"></li>
+</ul>
+<p><strong>3.这周觉得很棒的事？</strong></p>
+<ul>
+<li><p>感谢B站up软绵绵的小熊猫的分享视频，虽然我还没看（等学完在线课程后再来突击）:<a href="https://www.bilibili.com/video/av93694189/?p=2&amp;t=134" target="_blank" rel="noopener">数据科学家面试题</a>。<br>为了符合推荐算法，起的标题名字「小伙自制5道数据科学家面试题，看看你能不能通过 Facebook, Amazon, Google, Microsoft 等」也是很接地气了。不过很开心B站的内容越来越丰富了。实际上，<a href="https://cosx.org" target="_blank" rel="noopener">统计之都</a>16-17年的时候做了一系列的分享<a href="https://www.youtube.com/channel/UCT0jVfqjaomwo96YJd0eCrA" target="_blank" rel="noopener">海外沙龙</a>，（也上传了B站<a href="https://www.bilibili.com/video/av3601303?from=search&amp;seid=1578053567945938256" target="_blank" rel="noopener">统计之都海外线上沙龙第1期</a>）主要邀请的是国人统计学背景的小伙伴来做数据方面的工作、学习生活的分享，一起讨论业界动态，有非常多统计背景的同学怎么进入数据科学领域的实践。当初看完受益良多，可惜最后临门一脚不再从事这个行业了。</p>
+</li>
+<li><p>3月8日妇女节期间，Women Techmakers组织的线上直播活动，轻松的周末话题，有这些组织不断在中国壮大，特别激励人心。在平权这点上，毋庸置疑：科技行业比传统行业好太多了。</p>
+</li>
+</ul>
+<p><em>END</em></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>总结</tag>
+        <tag>数据科学</tag>
+        <tag>视频</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title> Deadline是什么？</title>
+    <url>/2020/04/09/2020-04-9-what&#39;s-deadline/</url>
+    <content><![CDATA[<p>最近两日好像是「超级月亮」，问了下好友：一个在苏州据说一整天都忘记抬头看天，一个另外的城市表示并不晓得，而我懒得出门——3个人都没有看到月亮！没有一个人拍了月亮。上次我想拍月亮还是某年中秋，当时想着：下次吧。不知不觉，就过去了好几年。</p>
+<p>好像，所有没有期限的时间，都是恓惶的承诺。而关于期限，《重庆森林》里有这么一段金城武口白：</p>
+<blockquote>
+<p>从分手的那一天开始，我每天买一罐5月1号到期的凤梨罐头，因为凤梨是阿may最爱吃的东西，而5月1号是我的生日。我告诉我自己，当我买满30罐的时候，她如果还不回来，这段感情就会过期。</p>
+</blockquote>
+<p>年龄来到二十代后半段，开始慢慢感受到人生<strong>受锤</strong>，经历诚惶诚恐四分之一人生危机，实际上这种感觉持续了快两年，有点慌忙又有点丧，<a href="https://zh.wikipedia.org/wiki/%E5%86%92%E5%90%8D%E9%A0%82%E6%9B%BF%E7%97%87%E5%80%99%E7%BE%A4" target="_blank" rel="noopener">冒牌者症候群</a>时常发作：常常会担忧未来，也终日缺少静下来、沉下去的那份从容，时不时还想要再重来（可是，要是能重来，还要选李白？）。</p>
+<a id="more"></a>
+<p>这几年都做了什么呢？每年也有些总结，但似乎是没有达成心中的首要完成项的，随波逐流也好，变得现实也好，「牺牲了很多时刻」的感受变得愈来愈强烈，也会问自己算不算值得？这些想法在脑袋里嗡嗡响个不停，好像也只是随着年岁增长多了些碰撞的痕迹罢了。有人说「十六岁时你想完成的事，想成为的人大概是真的dream」，我好像也记不起来我十八岁之前的心情了，我大概那会是想写现代诗的吧，而现在，读卞之琳的诗都是感叹了：</p>
+<blockquote>
+<p>如今，正像是老话的沧海桑田，<br>满怀的花草换得了一把荒烟。<br>就是此刻我也得像一只迷羊，<br>辗转在灰沙里，幸亏还有蔚蓝。</p>
+</blockquote>
+<p>这阵子，就好像是刘海的尴尬期。都说年轻的时候要靠愿景做事，有目标的终点会带来指引，这样假以时日兴许就能够回望，来时路已垒起丰碑，这样，便可以谈论过往或者经验，tell your story。可是，我好像也逐渐没什么story可讲，成了没有故事的女同学（？）人生越来越让自己乏味。复盘的时候，我在想是哪里出了问题？发现Deadline好像不是我的性格，自由散漫惯了，加之不太会苛责自己，很难做事掷地有声。虽然这些年，也慢慢有进步，但是成长速度实在是有点慢。也没有形成自己的做事逻辑中比较重要的一环：合理定量，评估单位产能。想的太多，做的太少，偶尔待办事项多了后还给自己添堵，心情低落得不行。觉得思维太过活跃，带不动这具身躯，不干净利落，也不潇洒。</p>
+<p>所以，我试着把自己给自己的Deadline好好捡起来，这应该是将来很长一段时间对我来说重要的核心能力。每个习惯的培养，最后内化成品质也无非是不断地经历「执行-犯错-沮丧-调整-继续执行」整个循环，我想试一试2020年一整年会变成什么样子！目前，有三件比较重要的事：</p>
+<h2 id="一、完成Udacity的数据挖掘纳米学位"><a href="#一、完成Udacity的数据挖掘纳米学位" class="headerlink" title="一、完成Udacity的数据挖掘纳米学位"></a>一、完成Udacity的数据挖掘纳米学位</h2><p>这个项目是去年底开始跟的，在线网课。作为还想着要有点「立身傍命的一技之长」的偏执人设，一直都在想转型，今年还是要真正地迈出步子：进入到金融科技行业。</p>
+<p>去年有一次不错的机会，那种「突然就恍惚了，没准备好」的感觉再次压倒了「做正确的事」的念想，最后没有底气而放弃了。这件事整个去年下半年想起来都有些许遗憾，这种感觉非常糟糕。目前为止，总想着：等等看吧，缺少了always say yes的态度，浪费了很多机会，内心深知：机会浪费多了是不会再回来的。</p>
+<p>回到在线课程，这个项目目前还有2个月结课，我的进度客观上由于去年年底加班换组，基本搁置，搁着就变「鸽着」了，严重滞后，时间过大半，进度可怜。所以立第一个flag吧，力争5月底和同期一起结课，这个将是个人时间中的第一优先级。</p>
+<h2 id="二、写博客"><a href="#二、写博客" class="headerlink" title="二、写博客"></a>二、写博客</h2><p>这个网站的「关于」页面，我赫然写着「要记录，不要创造」，一来是没有什么拿得出手的分享，怎么去创造？二来是，我觉得享受一个事物发展的过程，其实也是很精彩的，用最近的词形容叫「心流」，我觉得是：纯粹地做某事，享受当下。这其实是应该被推崇的，重视这个过程，能够沉浸其中是能力，也是find your passion的路径。有了hustle，passion，hapiness之后，别无所求了吧。</p>
+<p>由此，我想系统记录一下这个过程，就算是给自己看，也非常值得了，要是能有可能帮到他人更好了。「我们都是一粒沙子，我们也都在海底，谁管你是梦游亦或是冲刺」，网上冲浪的我们都是现代罗宾汉，平等、开放、共享，让自己更好一点，也让这个世界更好一点点，写博客或者说写文章是我参与这一切的方式，整个2020年会每周都尽量更新，这是第二个Deadline。</p>
+<h2 id="三、坚持运动"><a href="#三、坚持运动" class="headerlink" title="三、坚持运动"></a>三、坚持运动</h2><p>我对健康的认知和管理，2018年下半年开始有本质的提升，观念上开始重视起来，看了很多文章和优质视频内容。慢悠悠的我，花了两年逐渐调整对待食物的态度，引入「正念」的思路，有过一阵子的狂热执行，间歇性踌躇满志，持续性清心寡欲。一想到今年十一要作为好友的伴娘参加婚礼仪式，就感到有一丝紧张，这算是第三个deadline。我一直有运动时心率略微偏高的问题，体检暂时除了BMI稍微高出正常高值、肌酸稍高外，尚无其他问题，但是一想到凡事多半靠自己，早点重视投入彻底的行动，应该算是投资。有种说法是一个人的身体从TA系统训练的年纪开始最大限制地停止衰老，越早越好。想做的事还很多，身体要健康，今年下半年体检的时候，要有自己最好的一份报告。</p>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>希望Deadline能够让人生朝着十几岁时想像的一样发展吧，无非是：差不多生擒出个黎明，重活一次而已！</p>
+<p>Pink Floyd 的歌里有一句一直记很多年：<strong>We just two lost souls swimming in the fish bowl year after year</strong> ，是那么丧尽退废到让人想起：<strong>看清生活的本质后依然热爱生活才是英雄主义</strong>。</p>
+<p><strong>而人生，在某些时刻，就是要打碎了重来，以最漂亮的姿势进入人群；有那么一刻，让内心的波澜足以填补整个人生的吁叹。</strong></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>flag</tag>
+        <tag>计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2019年：下个十年路口，Farewell</title>
+    <url>/2019/12/29/2019-12-29-farewell-2019/</url>
+    <content><![CDATA[<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/12dian34.jpg" alt="12点34"></p>
+<p>又是一年将尽时，在2019年的最后两个多月的时候才猛然发现21世纪的第二个十年即将结束，为什么对这个十年开始有「时光匆匆、日子闪光、记忆里也有光」的感觉呢？对我来说，记忆开始有意义始于一个人开始「独立」，不仅是生活上的独立，更是精神上的自由意识觉醒的那一刻，而我的独立记忆时刻就是开始上大学，那年：2011，也正好是这个十年的开端。<br><a id="more"></a></p>
+<blockquote>
+<p>那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。<br>——王小波</p>
+</blockquote>
+<p><strong>加速度，能不能更快一点，更勇猛一点好像就更璀璨一些</strong>，然后，十年就过去了。幸好，我还是个年轻人，并由衷感叹：</p>
+<blockquote>
+<p>年轻，可真好。</p>
+</blockquote>
+<p>这个十年上了学、实习、毕业、工作、恋爱、旅行，以至于不知道什么时候写下的一个备忘录开始变得有趣，不禁感叹😀：It‘s a genius idea.</p>
+<ul>
+<li>2011-8某一天，空气为什么在颤抖，为什么感觉不能呼吸了？<br>（<em>因为，出生在四季贵州，春风十里，没有空调没有暖气没有雪花没有骄阳没有防晒霜；而这，是我对武昌火车站的第一印象。一个气候宜居的县城人民莫名其妙地来到了火炉城市，她并不知道日后会经历五个风扇齐吹依然汗流如注的夏天、梅雨季淹没城市坐公交车如坐船、冬天刚刚好没有暖气湿冷得像住进了大冰柜，而现在，她都知道了，像「请把心爱的手绢收下吧，永驻心间」这种苏联味道的台词一样，所有关于武汉、关于母校的吐槽，都成了新的信物</em>）</li>
+<li>2012-7-4，跟着电车的电缆走就不会迷失！<br>（<em>有些时候，不管你信不信：<strong>电缆就是会突然消失的</strong>。那天，和室友一起压了整个中山大道，从此拉开压马路的经历，压到半夜惊醒的躺椅大叔不可置信地目光追随，压到金拱门换班，压到次日公交车始发。直到后来，2015年的一个晚上去吹风，就突发奇想走了3个钟。我想，如果以后常徒步的话，这个可以算开端：城市空荡荡，脚下亦有光</em>）<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/lost-in-midnight.jpg" alt="lost in midnight"><br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/8km.jpg" alt="8k"></li>
+<li>2013-9-29，第一次一掌拍碎了一个塑料桶！<br>（<em>WTF？怪力乱神，我以为以后还能如此生猛，应该是桶的质量太差了吧，因为此后6年是没有再对桶施法了</em>）</li>
+<li>2014-3-24，发了人生第一封简历邮件！<br>（<em>这里还有个隐藏剧情，某司当年实习网申的时候还建了个页面相约十年，当年还真写了，再过几年看看这个梗是否当真🤞，要是当真，一定认真写个配得上这场十年之约的文章</em>） </li>
+<li>2015-3-21，买了人生中的第一张正版专辑：Taylor swift 的1989.<br>(<em>正式结束个人「盗版无愧」阶段，以至于后面动不动就想给维基百科捐款、给落网众筹、订阅不知不会觉变多，然后一边贫穷，另一边开始更多地去电影院。虽然，这张专辑还是出掉了，但是收获了买家苦口婆心地试探：您可别脱粉啊！的快乐回忆funny</em>)<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/1989-album.jpeg" alt="1989 albu"></li>
+<li><p>2016-4-5，第一次看live，完成所谓的第一次pogo，于李志香港动静演唱会。<br>(<em>事实上，「喜欢听live版本」和「喜欢去现场」是两件事，并没有特别多冲动去现场，太懒了，懒到看现场视频就已经心满意足。这个现场，唱到《港岛妹妹》的时候，改了歌词提到一国两制，台下随即爆发的哄闹激动声记忆犹新</em>)<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/lizhilive.jpg" alt="lizhi_live"></p>
+</li>
+<li><p>2017-12-19，喝了好多茅台，吐了一地的呕吐物，像是被丢进了海洋。<br>（<em>这个就比较迷了，土特产还是未能抓住我，写下这个片段的时候，是因为当时脑子里闪过心算能力不错的点评，成年人，在「正式场合」要端庄、要有台面，要秉持「放心，局势可控」的盲目自信，拿出too young too naive的气势，盘算着一杯一杯都是钱，并具备回家抱着马桶哭的反差效果。眼泪流啊流，可惜那份钱了，对牛弹琴，对酒谈钱好像也是一个意思。👀</em>）</p>
+</li>
+<li>2018-3-17，第一次走进健身房！<br>（<em>大概是过于恐慌，干巴巴留了行字聊表内心奔腾。到今天依然不喜欢室内的锻炼，我一如既往地践行：只要有人在，我就不自在的精神，能不去就不去。所以后来去跑步了，真的跑很多很多。</em>）</li>
+</ul>
+<p>2019年，两件事吧，一个是开始喝咖啡了☕️，另一个是完成了两次半程半拉松。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2019/12/29/twoonlinemarathon.jpg" alt="two_online_marathon"></p>
+<p>发生挺多事情的一年，但总觉得还是不要沉湎于过去，静水流深，过于绵长，太多的细节会把当下的时空劈碎，以后还有很多年。你看，事情有时候就是会戛然而止的，而怪力乱神的糊涂小孩子也逐渐变成开始建立routine并试图不破不立的「年轻人」，就连括号里的评论都开始注意句末要加句号了。此处，寄出我写过最好的对子吧：</p>
+<blockquote>
+<p><strong>青绦拂絮终已去，琉璃细数多默语</strong>。</p>
+</blockquote>
+<p>站在下个十年的路口，现在一切都好。以后会不会好，谁也不知道，但知不知道真的很重要吗？不重要吧，墙里要有光，就总会有，冬日还有暖阳，挺好的。</p>
+<p>所以，明年，我们去徒步吧！</p>
+<p><em>END</em></p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>总结</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一周速览（2020年 第2期）</title>
     <url>/2020/02/29/2020-02-29-weekly-overview-2/</url>
     <content><![CDATA[<p>时间：2020年2月20日-29日</p>
@@ -816,105 +919,6 @@
       </tags>
   </entry>
   <entry>
-    <title>一周速览（2020年 第3期）</title>
-    <url>/2020/03/08/2020-03-08-weekly-overview-3/</url>
-    <content><![CDATA[<p>时间：2020年3月1日-3月8日</p>
-<p>本周大概就是工作占据了特别多时间吧，所以在开这个日志的时候，感觉到没有输出了。没想到这种感觉来得如此快，与此同时，本着避免把速览写成流水账的初心，怎么在碎片的「知识点」间找到连接点是很有挑战的一件事，但我愿意尽力试一试：</p>
-<blockquote>
-<p>you can’t connect the dots looking forward,<br>you can only connect them looking backwards.<br>So you have to trust the dots will somehow connect in your future.</p>
-</blockquote>
-<p>工作时间，目前都是我无奈的「浪费时间」：整个一周都在看巴塞尔协议III衍生出的央行对商业银行监管的MPA考核体系、银保监的《商业银行风险监管核心指标》以及《商业银行内部指引》，合起来简称监管机构的“两项评级”内容，boring thing。</p>
-<p>不过，倒是加深了一个认识：工作是会占据人生的非常多时间的，即便不加班的朝九晚五，1/3时间休息，剩下16个小时至少有8个小时给了工作。实际上，通勤以及围绕「去工作」花掉的时间至少10小时！<strong>实在是没有什么理由做一份完全只是为了钱的工作</strong>。想起来比较认同一个观点：如果觉得需要每个周末来唤醒生活，周一到周五都是行尸走肉，是时候需要好好思考下你正在做的事情，到底值不值得。<br><a id="more"></a></p>
-<p>这周就用问答的形式避免流水账吧：😢<br><strong>1.这周有发生了什么？</strong></p>
-<ul>
-<li>开始使用<a href="https://www.notion.so" target="_blank" rel="noopener">Notion</a>，发现之前的学校的邮箱变成校友邮箱了，但是可以享受教育优惠，免费使用。去年年底有用Excel简单的做了减脂的dashboard，效果很好，无奈最后一个月基本加班加到怀疑人生后停止了，社畜是真难（好像偏题了）。今年是非常想好好写文档的，把线上课程的笔记更新一下，用Notion再合适不过了，介于拖延症晚期，先用来减脂记录好了。</li>
-<li><p>这是2019年的Excel版本示例<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/03/08/jie-ping20200308xia-wu54231.png" alt="Excel版本"></p>
-</li>
-<li><p>这是Notion的示例<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/03/08/jie-ping20200308xia-wu53537.png" alt="Notion版本"></p>
-</li>
-</ul>
-<p><strong>2.这周做了哪些微小的进步？</strong></p>
-<ul>
-<li>抽空看了Tableau的视频，做了一个商业分析里的粗糙小白案例吧。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/03/08/jie-ping20200308xia-wu55740.png" alt="截屏2020-03-08下午5.57.40"></li>
-</ul>
-<p><strong>3.这周觉得很棒的事？</strong></p>
-<ul>
-<li><p>感谢B站up软绵绵的小熊猫的分享视频，虽然我还没看（等学完在线课程后再来突击）:<a href="https://www.bilibili.com/video/av93694189/?p=2&amp;t=134" target="_blank" rel="noopener">数据科学家面试题</a>。<br>为了符合推荐算法，起的标题名字「小伙自制5道数据科学家面试题，看看你能不能通过 Facebook, Amazon, Google, Microsoft 等」也是很接地气了。不过很开心B站的内容越来越丰富了。实际上，<a href="https://cosx.org" target="_blank" rel="noopener">统计之都</a>16-17年的时候做了一系列的分享<a href="https://www.youtube.com/channel/UCT0jVfqjaomwo96YJd0eCrA" target="_blank" rel="noopener">海外沙龙</a>，（也上传了B站<a href="https://www.bilibili.com/video/av3601303?from=search&amp;seid=1578053567945938256" target="_blank" rel="noopener">统计之都海外线上沙龙第1期</a>）主要邀请的是国人统计学背景的小伙伴来做数据方面的工作、学习生活的分享，一起讨论业界动态，有非常多统计背景的同学怎么进入数据科学领域的实践。当初看完受益良多，可惜最后临门一脚不再从事这个行业了。</p>
-</li>
-<li><p>3月8日妇女节期间，Women Techmakers组织的线上直播活动，轻松的周末话题，有这些组织不断在中国壮大，特别激励人心。在平权这点上，毋庸置疑：科技行业比传统行业好太多了。</p>
-</li>
-</ul>
-<p><em>END</em></p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>总结</tag>
-        <tag>数据科学</tag>
-        <tag>视频</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title> 谈谈公文写作</title>
-    <url>/2020/03/13/2020-03-13-talk-about-government-documents/</url>
-    <content><![CDATA[<p>   我，从来没想过会写这样的主题。</p>
-<p>   然而，工作以来却写了很多。从纪要、通知、通报、公告，到函、请示、申请……每次都让人心慌。也不得不说，虽然不擅长，好歹勉强最后及格了。回顾以往，作为一只自由散漫，罗曼蒂克，执着量词破碎，靠着学习批判性思维方法，才磕磕绊绊地成长为「比较有逻辑」的人，自小就不明白：新闻联播的会议精神传达，到底是如何将一句话讲成30分钟的？终于，通过两年的耳濡目染，我决定为「公文」正名，但是：永远不妨碍我不喜欢它，也认为这不是必要的。</p>
-<a id="more"></a>
-<h2 id="一、不同公文类别简述"><a href="#一、不同公文类别简述" class="headerlink" title="一、不同公文类别简述"></a>一、不同公文类别简述</h2><p>   公文确实有通用的格式，在通用文体写出水平是很难的，体现「笔杆子」的时候大概如此。此外，公文不同类别的固定格式，亦是提高行政沟通效率的方式：</p>
-<p>   <strong>第一类</strong>，通知、通报和公告。这类文体仅仅是传达某种决定、精神并提出相应要求，一般向下行文。<em>首先</em>，第一段基本按时间顺序、重要程度列出所谈内容的来龙去脉，一般引出文件名及文号。这里与论文写作的文献综述相似，但索引都是直接写入正文而非脚注、尾注。<em>其次</em>，一般会介绍截至当前的整体基本情况。<em>再者</em>，介绍特殊情况或者深度陈述发展历程，特点是大量使用首阔句，直接阅读第一句可了解80%内容，写出尽量对仗工整的首阔句就更好了。<em>最后</em>，列出工作要求，明确写明具体任务安排，是必读内容。</p>
-<p>   <strong>第二类</strong>，会议纪要。字面意思就是记录会议，这类应该是最格式化的「八股文」，直接用会议时间、地点、重要参会领导、会议主题起全文，接下来依次记录重要发言、讨论及会议结果，用「会议指出、会议安排、会议要求」等穿插行文，最后文末列出全部参会人员、列席人员即可。</p>
-<p>   <strong>第三类</strong>，函这种文体。这是平行机构行文，通常言简意赅，作为合作的引子发往对方，文中难得地会使用敬语、客气词，如：请贵司、贵部、贵单位、贵机构就……事宜……为谢！</p>
-<p>   <strong>第四类</strong>，报告、请示、申请类。属于上行文，是给领导汇报工作或者给出决策建议。开篇要总结性地陈述汇报事项现状，概述解决的关键意见及建议；第二部分按需进行分析、说明；第三部分要总结存在的困难及问题；第四部分针对存在的问题给出解决方案或者工作计划，应该要做到问题与方案对应，不可提风马牛不相关的建议。请示类文末一般附上「请***批示！」。</p>
-<h2 id="二、优秀的公文定义"><a href="#二、优秀的公文定义" class="headerlink" title="二、优秀的公文定义"></a>二、优秀的公文定义</h2><p>   一篇好的公文，读下来一定是「顺口」的，怎么定义顺口呢？就是第一次看文档的人，以正常语速念出来不会有太多磕绊，长句严格控制。同时，通篇发挥中文词意深的优势，少词意达，也就是「不多余」，做到保证好流畅的行文风格后，不能再多删一句一词。最关键的是：现状/事实讲述清晰，工作任务或建议对症下药、符合逻辑和落地可行。</p>
-<h2 id="三、公文的中文世界"><a href="#三、公文的中文世界" class="headerlink" title="三、公文的中文世界"></a>三、公文的中文世界</h2><p>   公文，毕竟是公家机构、红色背景常用行政文体，用中文书面语言来上传下达、推动开展工作、执行指示、完成任务的媒介，不是「怎么做以及具体实践」的载体。就好比是提了个桶，至于钻井打水则是另外的宇宙；政务管理是不擅长用清单、日程来组织的，日志形式是不被选用来记录发生了什么，要解决何事的；把握大局，提纲建领才是追求，领导者说到底永远不是执行者。</p>
-<blockquote>
-<p>作为党领导的企业，要贯彻党的政策，这是大局意识；<br>作为市场经济中的企业，要遵循市场规律，这是专业能力；<br>作为为人民服务的企业，要紧跟客户需求，这是价值取向。<br>在这三个原则的同心圆中寻找措施、办法的结合点，<br>是社会主义体制下企业的发展思路。</p>
-</blockquote>
-<p>   所以，再次的，我只能算是勉强掌握了公文交流的基本能力，也对政策的解读有了「将庄重的词句翻译成清单的能力」（譬如，每个在金融行业、科技行业的从业者，我都真诚地建议去读一读<a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3878634/index.html" target="_blank" rel="noopener">央行发布</a>的<a href="https://baijiahao.baidu.com/s?id=1643920208596875562&amp;wfr=spider&amp;for=pc" target="_blank" rel="noopener">《 金融科技(FinTech)发展规划(2019—2021年)》</a>），也终于在了解公文的基础上获得了发言权：</p>
-<blockquote>
-<p>ok，我可以，但是，我不喜欢，也不会擅长，that’s it。</p>
-</blockquote>
-<p>   🙃</p>
-]]></content>
-      <categories>
-        <category>工作</category>
-      </categories>
-      <tags>
-        <tag>写作</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title> 去跑步吧</title>
-    <url>/2020/03/20/2020-03-20-keep-running/</url>
-    <content><![CDATA[<p>这些年下来，我确定一件事：我是喜欢跑步的。</p>
-<p>从小托家里学体育的舅舅的福，很小开始玩球类运动：小时候看《足球小将》，每天踢足球1小时，周末有空还练习投篮，好像对田径是没有天赋和热情的。后来，可能因为跑步是件门槛很低的事，只要有双合适的鞋，你就可以开始，慢慢成了我唯一的运动。很难说是怎么喜欢上的。</p>
-<p>时间轴从大学开始，为了打发时间，每周会去学校操场跑上几圈，标准的体育场馆一圈400米，跑8圈人就要晕，3公里感觉就是长跑了。大概是为了800米能够及格每周坚持跑一次，后来陪室友参加运动会比赛，所以强行撑着练习3公里，大概是每公里10分钟，也没什么进步。不过，我从有意识开始跑步起，就有记录的习惯，那会好像安卓手机有的跑步软件不是很多，用的endomondo，于是有了最早的跑步记录，2013年10月：<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/03/21/jie-ping20200321shang-wu11314.png" alt="截屏2020-03-21上午1.13.14"></p>
-<a id="more"></a>
-<p>中间停了一阵子，时间就到了2015年。我开始注册悦跑圈，跑步的理由依然是无聊，试着买了第一双「跑鞋」，沿着当时居住的房子附近的护城河偶尔跑步，5公里突破性的成绩是40分钟，每公里差不多8分钟。</p>
-<p>转折出现在2016年5月，体重一度达到巅峰，估计是当时学业压力空前，陷入无比焦虑的阶段。为减脂，突发奇想每天跑步，白天上课晚上跑，晚上上课清晨6点开始跑，依然是每公里差不多8分钟左右，跑了1个月，体重也没什么变化（饮食没控制），跑了当时最长的里程7公里，配速7’24”/km，全靠公园太美，跑步的时候发现压力没那么大了，特别是出汗后放空什么都不想，望着湖压腿的时候，感受到了安宁。</p>
-<p>6月，基本每天7公里左右，完全是错误的示范，幸运的是身体素质还行，跑姿还算没有大问题，膝盖没受伤。一个刚开始跑步的新手，竟然在6月跑了106km，配速突破到6’40”/km。人生第一次体验到「量变到质变」，非常开心。当时开始想起《阿甘正传》，就这样跑到了10月，降了频率，每周2-3次左右，达成第一个10km，跑步彻底成为一种习惯，有空就会跑。</p>
-<p>一晃断断续续就到了现在，这几年又出现了比较重要的两个激励点：一个是Casey Neistat，另一个是Run with Casey的活动。2017年2月Casey还在疯狂地日更Vlog，在看完<a href="https://www.youtube.com/watch?v=hjvH9urPM24" target="_blank" rel="noopener">my addiction</a>后，第一次有想把跑步作为一件想一直坚持下去的事，整个视频2分52秒，Casey没有说一句话，只是在跑，屏幕上打出他的跑步宣言：</p>
-<blockquote>
-<p>There are two kinds of people in this world<br>those who run<br>and everyone else.</p>
-</blockquote>
-<p>想起他之前在视频里提到过为什么跑步？28岁的时候出了车祸，大腿骨折做了手术，医生告诉他再也不能跑了，所以康复后，他开始每天跑步（不服输，当然也有珍惜的成分）。而当他说每天的时候，是真的每一天，13英里每一天！不过，这倒不是打动我的点，视频最后缓缓打出的一句话，让我产生了共鸣：</p>
-<blockquote>
-<p>Don’t run because you have to<br>run because you can<br>run</p>
-</blockquote>
-<p>不久后，另一个视频博主发起了13周run with Casey活动。我也想挑战一下，所以开始固定时间跑步，有意识地训练自己，跑更远或者更快，参加现实生活里家门口的5公里比赛。在跑了比较多个10公里后，2019年下半年第一次给自己定目标：完成半程马拉松，定这个目标的时候，还是更多的受到了当年看《阿甘正传》时突然地自我——就像阿甘一样跑吧，不能穿越美国，至少也要跑个半马。我开始跑15公里、17公里，发现身体能够接受后，我就直接参加了线上的半程马拉松比赛。2019年下半年加入了跑团，共跑了4次20公里；没有抽到正赛签，所以改线上，完成2场比赛。这一年，一并刷新个人所有最佳成绩：5公里一般能在30分钟跑完，最快是28分钟，配速5’47”/km（我知道不算快，当然也不慢）。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/03/21/ban-ma.jpg" alt="半马"></p>
-<p>从一开始的10分钟每公里到现在，跑步这项自己和自己比的运动，没有直接冲突，非常适契合我的性格。我在跑步的时候可以想非常多的事情，那些平日里解不开的迷，一点一点的有了专门的时间去理线头，跑步成了我想一直做下去的运动。</p>
-<p>今年，年初疫情在家看了一部动漫《强风吹拂》，以日本箱根驿传为背景，非常过瘾。看完后抑还制不住激动的心情还发了微博安利，我觉得是为2020年开了好头。跑步的zen好像也变得像是那么一回事儿，于是定下目标全年跑500km，年底见！</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>视频</tag>
-        <tag>running</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>电子焦虑</title>
     <url>/2020/04/30/2020-04-30-electric-panic/</url>
     <content><![CDATA[<p>下午3点左右突然被叮任务过期，不是什么重要的事，随手把它更改到当下：<em>红色的过期事项一下子变成蓝色待办</em>，看着这样的过渡动画，眼睁睁突然感受到了一丝愕然，我就在想，从什么时候开始，不再为软件或者App感到自我限制？细想，那「自我限制」又是怎么来的呢？</p>
@@ -943,48 +947,6 @@
       <tags>
         <tag>效率</tag>
         <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>那些我2019年买了，但没读完的书</title>
-    <url>/2020/06/11/2020-06-11-those-books-I-bought-in-2019-but-haven&#39;t-read-yet/</url>
-    <content><![CDATA[<p>本质上我并不是一个喜欢阅读的人，但是喜欢获取信息。获取信息大概分了三个阶段：第一阶段，听广播、看纪录片以及看电影，这时候还是比较被动地接收讯息，方寸间感觉世界都变大了；第二阶段，订阅，具体来说就是有主题地选择信息源，听类型播客、关注视频频道、阅读博客、浏览专业论坛，都属于这个范畴。这个时候算是开始有自主意识地去挖讯息，也获得了两个宝贵的体验以及进步，分别是喜欢上了跑步以及英文听力、阅读水平有了质的飞跃，感受到了自己与世界的联结。第三阶段，我正在尝试，开卷有益似乎是接近于政治正确，也没什么理由去反对的习惯，但是我没有，至今也体会不到阅读的乐趣，可能长到现在读的最多的就是教科书🤷🏻‍♀️。但是，我基本认同「文字是有力量」的，返璞归真，肯花时间写下一本书并经过几次修订，众多人去评价后的好书，生命力是无穷的，好像没有什么理由不去了解一下对吧？</p>
-<a id="more"></a>
-<p>2019年我买了不少书（相比之前），我尝试凭兴趣阅读，随时想停就停，这样会比较没有压力，所以到现在为止有约乎5-6本看了一半到2/3就停止了，有几本是工具书适合参考，不过我觉得没关系。列一下手头还剩或者没读完的书，2020年下半年，继续开卷，说不定能有惊喜：</p>
-<ol>
-<li>《创业维艰》</li>
-<li>《show your work》</li>
-<li>《乔布斯传》</li>
-<li>《金融道》</li>
-<li>《我的精神家园》</li>
-<li>《一只特立独行的猪》</li>
-<li>《黄金时代》</li>
-<li>《爱你就像爱生命》</li>
-<li>《别拿相关当因果》</li>
-<li>《只是孩子》</li>
-<li>《时光列车》</li>
-<li>《放任自流的时光》</li>
-<li>《乐队女孩》</li>
-<li>《数据之美》</li>
-<li>《R的极客理想》</li>
-<li>《麦肯锡教我的写作武器》</li>
-<li>《消费金融真经》</li>
-<li>《机器学习》（西瓜书）</li>
-<li>《R数据可视化手册》</li>
-<li>《原则》</li>
-<li>《债务危机》</li>
-<li>《睡眠革命》</li>
-<li>《深度工作》</li>
-<li>《何为良好生活》</li>
-</ol>
-<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/06/11/jie-ping20200611-xia-wu112249.png" alt="reading"></p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>书籍</tag>
-        <tag>阅读</tag>
       </tags>
   </entry>
   <entry>
@@ -1034,6 +996,124 @@
       </categories>
   </entry>
   <entry>
+    <title> 去跑步吧</title>
+    <url>/2020/03/20/2020-03-20-keep-running/</url>
+    <content><![CDATA[<p>这些年下来，我确定一件事：我是喜欢跑步的。</p>
+<p>从小托家里学体育的舅舅的福，很小开始玩球类运动：小时候看《足球小将》，每天踢足球1小时，周末有空还练习投篮，好像对田径是没有天赋和热情的。后来，可能因为跑步是件门槛很低的事，只要有双合适的鞋，你就可以开始，慢慢成了我唯一的运动。很难说是怎么喜欢上的。</p>
+<p>时间轴从大学开始，为了打发时间，每周会去学校操场跑上几圈，标准的体育场馆一圈400米，跑8圈人就要晕，3公里感觉就是长跑了。大概是为了800米能够及格每周坚持跑一次，后来陪室友参加运动会比赛，所以强行撑着练习3公里，大概是每公里10分钟，也没什么进步。不过，我从有意识开始跑步起，就有记录的习惯，那会好像安卓手机有的跑步软件不是很多，用的endomondo，于是有了最早的跑步记录，2013年10月：<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/03/21/jie-ping20200321shang-wu11314.png" alt="截屏2020-03-21上午1.13.14"></p>
+<a id="more"></a>
+<p>中间停了一阵子，时间就到了2015年。我开始注册悦跑圈，跑步的理由依然是无聊，试着买了第一双「跑鞋」，沿着当时居住的房子附近的护城河偶尔跑步，5公里突破性的成绩是40分钟，每公里差不多8分钟。</p>
+<p>转折出现在2016年5月，体重一度达到巅峰，估计是当时学业压力空前，陷入无比焦虑的阶段。为减脂，突发奇想每天跑步，白天上课晚上跑，晚上上课清晨6点开始跑，依然是每公里差不多8分钟左右，跑了1个月，体重也没什么变化（饮食没控制），跑了当时最长的里程7公里，配速7’24”/km，全靠公园太美，跑步的时候发现压力没那么大了，特别是出汗后放空什么都不想，望着湖压腿的时候，感受到了安宁。</p>
+<p>6月，基本每天7公里左右，完全是错误的示范，幸运的是身体素质还行，跑姿还算没有大问题，膝盖没受伤。一个刚开始跑步的新手，竟然在6月跑了106km，配速突破到6’40”/km。人生第一次体验到「量变到质变」，非常开心。当时开始想起《阿甘正传》，就这样跑到了10月，降了频率，每周2-3次左右，达成第一个10km，跑步彻底成为一种习惯，有空就会跑。</p>
+<p>一晃断断续续就到了现在，这几年又出现了比较重要的两个激励点：一个是Casey Neistat，另一个是Run with Casey的活动。2017年2月Casey还在疯狂地日更Vlog，在看完<a href="https://www.youtube.com/watch?v=hjvH9urPM24" target="_blank" rel="noopener">my addiction</a>后，第一次有想把跑步作为一件想一直坚持下去的事，整个视频2分52秒，Casey没有说一句话，只是在跑，屏幕上打出他的跑步宣言：</p>
+<blockquote>
+<p>There are two kinds of people in this world<br>those who run<br>and everyone else.</p>
+</blockquote>
+<p>想起他之前在视频里提到过为什么跑步？28岁的时候出了车祸，大腿骨折做了手术，医生告诉他再也不能跑了，所以康复后，他开始每天跑步（不服输，当然也有珍惜的成分）。而当他说每天的时候，是真的每一天，13英里每一天！不过，这倒不是打动我的点，视频最后缓缓打出的一句话，让我产生了共鸣：</p>
+<blockquote>
+<p>Don’t run because you have to<br>run because you can<br>run</p>
+</blockquote>
+<p>不久后，另一个视频博主发起了13周run with Casey活动。我也想挑战一下，所以开始固定时间跑步，有意识地训练自己，跑更远或者更快，参加现实生活里家门口的5公里比赛。在跑了比较多个10公里后，2019年下半年第一次给自己定目标：完成半程马拉松，定这个目标的时候，还是更多的受到了当年看《阿甘正传》时突然地自我——就像阿甘一样跑吧，不能穿越美国，至少也要跑个半马。我开始跑15公里、17公里，发现身体能够接受后，我就直接参加了线上的半程马拉松比赛。2019年下半年加入了跑团，共跑了4次20公里；没有抽到正赛签，所以改线上，完成2场比赛。这一年，一并刷新个人所有最佳成绩：5公里一般能在30分钟跑完，最快是28分钟，配速5’47”/km（我知道不算快，当然也不慢）。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/03/21/ban-ma.jpg" alt="半马"></p>
+<p>从一开始的10分钟每公里到现在，跑步这项自己和自己比的运动，没有直接冲突，非常适契合我的性格。我在跑步的时候可以想非常多的事情，那些平日里解不开的迷，一点一点的有了专门的时间去理线头，跑步成了我想一直做下去的运动。</p>
+<p>今年，年初疫情在家看了一部动漫《强风吹拂》，以日本箱根驿传为背景，非常过瘾。看完后抑还制不住激动的心情还发了微博安利，我觉得是为2020年开了好头。跑步的zen好像也变得像是那么一回事儿，于是定下目标全年跑500km，年底见！</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>视频</tag>
+        <tag>running</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>牛年快来大乱炖</title>
+    <url>/2021/02/09/2021-02-09-random/</url>
+    <content><![CDATA[<h2 id="一"><a href="#一" class="headerlink" title="一"></a>一</h2><p>最近发现了一个很好玩的社区，并不是Clubhouse，而是<a href="https://discord.com" target="_blank" rel="noopener">Discord</a>平台，在上面加了一个豆瓣小组推荐的<a href="https://www.forestapp.cc" target="_blank" rel="noopener">Forest</a>种树群，不同时区的缘故，基本上随时都有伙伴一起放下手机专注「种树」，累积到一定积分后，这Forest公司就会正儿八经在某个地方给你种一颗真树。2016年种了两颗，后来支付宝的蚂蚁森林也用了这个概念搞早起浇水偷能量的玩法。组团Forest的关键环节是：一旦组成局，你看着小树苗随着时间流逝一点点长大，选择放弃立马整组同时枯萎，在突如其来又不必要的责任心驱使下，自动变身良民，辛苦植树造林，全程毫无纠结与挣扎，体验不能再好了。何况，Discord平台还支持语音、视频/屏幕共享等等形式的在线group形式，玩耍得非常愉快；日常感叹，自习都能社交化，远程工具或者平台已经相当强大及完善。</p>
+<h2 id="二"><a href="#二" class="headerlink" title="二"></a>二</h2><p>最近听到了很惊喜的音乐，是李青微博纪念虾米音乐停止运营发的一首歌，来自ゆらゆらていこく（YURAYURA帝国）的《無い!!》，主创为坂本慎太郎。虽然不会日语，不过浓郁的迷幻颓丧风格，封面都比较魔幻，非常适合假日休闲：<strong>休息并闲着，快乐地做一个「废人」</strong>。其中这首深得我心：<a href="https://y.music.163.com/m/song?id=26082205&amp;userid=56216139&amp;app_version=8.1.00" target="_blank" rel="noopener">《冷たいギフト》</a>，第一秒就蹦出来的长叹「啊……」真是起床气又满满生无可恋，怪可怜的，如果设成起床闹钟，气鼓鼓地被叫醒好像也很不错的样子。</p>
+<h2 id="三"><a href="#三" class="headerlink" title="三"></a>三</h2><p>《我和厄尔以及将死的女孩》，最后三十分钟非常好哭，青春电影，爱情友情分不清楚的时候，女孩得了病男孩一开始不情愿地去陪她，结果两人心心相惜……上次看完《少年时代》的万千感慨全部袭来，有过之无不及，比《星运里的错》叙述方式和情节设计好太多，不落俗套。</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>music</tag>
+        <tag>电影</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>武功山徒步之行</title>
+    <url>/2020/10/10/2020-10-10-Wugongshan-hiking/</url>
+    <content><![CDATA[<blockquote>
+<p>月光流着，已秋了，已秋得很久很久了<br>——郑愁予《右边的人》</p>
+</blockquote>
+<p><a href="http://zhengruonan.com/2019/12/29/2019-12-29-farewell-2019">去年</a>还在讲希望今年能徒步，趁着国庆假期就约上阿帆江西武功山3天徒步初体验：整体而言，非常不错的一次躲进山里避开节假日人群的徒步。<br><a id="more"></a></p>
+<h2 id="出发准备"><a href="#出发准备" class="headerlink" title="出发准备"></a>出发准备</h2><p>第一次进行户外活动，虽然一直对我们两的体能很自信，但不熟悉路线，所幸加了「侠客行」的徒步团，整个团差不多20人左右，顺便解决了两天的驿站落脚问题。出行方面完全是轻装，带上两条运动裤、一件冲锋衣、换洗内衣、速干衣、雨衣、创可贴、几根士力架，外加一根朋友的登山杖就出发了，4年前买的双肩包终于可以有点用处，总重8斤。听了byte.coffee播客的熊野古道那两期，袜子和鞋子很重要，于是准备了户外中长袜子和狼爪的登山鞋，的确整个徒步过程中脚没有什么不舒服，小破了点皮贴着创可贴后一点异常的感觉都没有。</p>
+<h2 id="Day-1-龙山村-发云界"><a href="#Day-1-龙山村-发云界" class="headerlink" title="Day 1 龙山村-发云界"></a>Day 1 龙山村-发云界</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5533.jpg" alt="徒步路线"></p>
+<p>早上9点乘车从萍乡北站出发到龙山村差不多80多分钟，稍作休整后正式出发就到中午12点了。第一天差不多8km，一路全部是上山，当天天气阴，湿度大，山上的树林比较高大，视野不开阔，除了沿路能看到各种越野跑比赛留下的红色标记丝带外，景色比较单一，坡度比较大，觉得有点费力，爬到一半的时候我衣服就汗湿了。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5453.jpg" alt="丝带路标"></p>
+<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5451.jpg" alt="爬坡"></p>
+<p>整个爬的过程里，一下子就唤醒了儿时的记忆，这种路小时候是家常便饭，夏天去山里溪水边捉螃蟹、摘野果没少走。玉米地割完秸秆后剩下的桩，每年都有小伙伴跳田埂的时候被穿伤到脚，反正那些一路蹦达不好好走山路的影像就清晰起来，坐在坟头上放风筝的童年一晃就已经过去很多年。</p>
+<p>直到抵达发云界，视野才开阔些，但因为雾气太浓，能见度有限，哪哪都是朦朦胧胧的。当天行4个钟就到了第一晚要住的驿站，也是当地蓝天救援队的训练基地，很安静。天气比较冷，我们没有住帐篷，睡的4人一间上下铺的床位。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/dsc00347.jpg" alt="发云界1"></p>
+<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/dsc00388.jpg" alt="发云界2"></p>
+<h2 id="Day-2-发云界-金顶"><a href="#Day-2-发云界-金顶" class="headerlink" title="Day 2 发云界-金顶"></a>Day 2 发云界-金顶</h2><p>之前从来没看过日出，趁着第二天是国庆假日天气最好的一天，清晨5点爬起来守着东方山头，先是隐隐约约的朝霞迹象，不多久到6点就日出了，很是好看，觉得一切又充满了希望，出发前感冒一周的阴郁全都散了，完全不想着拍摄，只想亲眼盯着看，好在阿帆用手机拍了延时。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/dsc00416.jpg" alt="日出"></p>
+<p>第二天从发云界开始，途径千丈岩、好汉坡、绝望坡的过程还是比较难走的，一路都是坑坑洼洼或者山石滚砾，不停地「上坡-下坡」交替，好在视野开阔，雾气稍微没那么浓了，凉风小习，一路听着Taylor的歌，很舒服。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5535.jpg" alt="IMG_5535"></p>
+<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5580.jpg" alt="IMG_5580"></p>
+<p>行至吊马桩的时候，都是人工的石阶，很好走，向导介绍夏天星空露营还可以看银河。不过没多会，快到金顶的时候，下起了大雨，只好穿上雨衣。至此进入到景区，游客非常多，比较拥挤。第二天住金顶驿站，抵达的时候已经是下午4点了，没想到阿帆体力明显透支，最后2公里实在吃力，我心里还嘀咕要不要第3天坐索道下山，但金顶驿站的住宿环境很好，休整下来后，很快恢复过来；我自己还真是不怎么累，可见平日长跑很有帮助，看了下小米手环公里数是17km，无奈山上联通信号不好，支付宝运动步数捐了10分钟也没能捐出去，作罢。</p>
+<h2 id="Day-3-金顶-武功山景区下山"><a href="#Day-3-金顶-武功山景区下山" class="headerlink" title="Day 3 金顶-武功山景区下山"></a>Day 3 金顶-武功山景区下山</h2><p>其实，第三天从金顶下山是最无聊的，完全在武功山景区，游客非常多，一整天的细雨，全是青石板路，浓浓大雾弥漫整个天空，花了3个多小时才下完山。同行的很多人都选择去坐索道，但考虑到排队时间也很长，我们还是一鼓作气走下山，赶在12点半到达山下，搭景区大巴去了游客集散中心，买了两杯小鹿茶泡热水后，除湿饱腹，提前去高铁站改签回家。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5583.jpg" alt="IMG_5583"></p>
+<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img9774.jpg" alt="武功山"></p>
+<p>总之，第二日发云界一路到金顶，沿着山脊走的路段是整个行程里最美的部分。如果有徒步经验，这次3天的路用2天走完也是完全可以的。同行的有一位大哥是重装，准备横穿完整个武功山，总共在山上待8天，我们从金顶下山的时候他继续往九龙山方向走了，也不着急，走到哪算哪，锅子帐篷都自己带，直到回到家了还能看到他在微信群里发风景照片。</p>
+<p>想起来最近豆瓣发现的一个友邻的徒步博客<a href="https://meowshiba.com" target="_blank" rel="noopener">猫和柴的野游</a>，风景照片拍的非常棒，我想，下次我也打算好好拍拍。</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>旅行</tag>
+        <tag>徒步</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>那些我2019年买了，但没读完的书</title>
+    <url>/2020/06/11/2020-06-11-those-books-I-bought-in-2019-but-haven&#39;t-read-yet/</url>
+    <content><![CDATA[<p>本质上我并不是一个喜欢阅读的人，但是喜欢获取信息。获取信息大概分了三个阶段：第一阶段，听广播、看纪录片以及看电影，这时候还是比较被动地接收讯息，方寸间感觉世界都变大了；第二阶段，订阅，具体来说就是有主题地选择信息源，听类型播客、关注视频频道、阅读博客、浏览专业论坛，都属于这个范畴。这个时候算是开始有自主意识地去挖讯息，也获得了两个宝贵的体验以及进步，分别是喜欢上了跑步以及英文听力、阅读水平有了质的飞跃，感受到了自己与世界的联结。第三阶段，我正在尝试，开卷有益似乎是接近于政治正确，也没什么理由去反对的习惯，但是我没有，至今也体会不到阅读的乐趣，可能长到现在读的最多的就是教科书🤷🏻‍♀️。但是，我基本认同「文字是有力量」的，返璞归真，肯花时间写下一本书并经过几次修订，众多人去评价后的好书，生命力是无穷的，好像没有什么理由不去了解一下对吧？</p>
+<a id="more"></a>
+<p>2019年我买了不少书（相比之前），我尝试凭兴趣阅读，随时想停就停，这样会比较没有压力，所以到现在为止有约乎5-6本看了一半到2/3就停止了，有几本是工具书适合参考，不过我觉得没关系。列一下手头还剩或者没读完的书，2020年下半年，继续开卷，说不定能有惊喜：</p>
+<ol>
+<li>《创业维艰》</li>
+<li>《show your work》</li>
+<li>《乔布斯传》</li>
+<li>《金融道》</li>
+<li>《我的精神家园》</li>
+<li>《一只特立独行的猪》</li>
+<li>《黄金时代》</li>
+<li>《爱你就像爱生命》</li>
+<li>《别拿相关当因果》</li>
+<li>《只是孩子》</li>
+<li>《时光列车》</li>
+<li>《放任自流的时光》</li>
+<li>《乐队女孩》</li>
+<li>《数据之美》</li>
+<li>《R的极客理想》</li>
+<li>《麦肯锡教我的写作武器》</li>
+<li>《消费金融真经》</li>
+<li>《机器学习》（西瓜书）</li>
+<li>《R数据可视化手册》</li>
+<li>《原则》</li>
+<li>《债务危机》</li>
+<li>《睡眠革命》</li>
+<li>《深度工作》</li>
+<li>《何为良好生活》</li>
+</ol>
+<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/06/11/jie-ping20200611-xia-wu112249.png" alt="reading"></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>书籍</tag>
+        <tag>阅读</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>主题阅读与学习</title>
     <url>/2020/05/05/2020-05-05-topic-learning/</url>
     <content><![CDATA[<p>「最小有效量」：<strong>是指边际单位最大输出</strong>。之前有写过一篇Deadline的日志，5月底到6月会是第一次的deadline，决定彻底转向金融科技应用领域，所以包括阅读的、学习的内容都会比较狭窄。找得到风险策略、风险模型类似的岗位甚好，找不到再说。列下资料清单，有的已经读过，有的在读，但是缺乏系统整理，没能形成框架，所以接下来会做系统的归档：<br><a id="more"></a><br>📚行业通识篇</p>
@@ -1075,88 +1155,8 @@
       </categories>
       <tags>
         <tag>风控</tag>
+        <tag>计划</tag>
         <tag>阅读</tag>
-        <tag>计划</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>武功山徒步之行</title>
-    <url>/2020/10/10/2020-10-10-Wugongshan-hiking/</url>
-    <content><![CDATA[<blockquote>
-<p>月光流着，已秋了，已秋得很久很久了<br>——郑愁予《右边的人》</p>
-</blockquote>
-<p><a href="http://zhengruonan.com/2019/12/29/2019-12-29-farewell-2019">去年</a>还在讲希望今年能徒步，趁着国庆假期就约上阿帆江西武功山3天徒步初体验：整体而言，非常不错的一次躲进山里避开节假日人群的徒步。<br><a id="more"></a></p>
-<h2 id="出发准备"><a href="#出发准备" class="headerlink" title="出发准备"></a>出发准备</h2><p>第一次进行户外活动，虽然一直对我们两的体能很自信，但不熟悉路线，所幸加了「侠客行」的徒步团，整个团差不多20人左右，顺便解决了两天的驿站落脚问题。出行方面完全是轻装，带上两条运动裤、一件冲锋衣、换洗内衣、速干衣、雨衣、创可贴、几根士力架，外加一根朋友的登山杖就出发了，4年前买的双肩包终于可以有点用处，总重8斤。听了byte.coffee播客的熊野古道那两期，袜子和鞋子很重要，于是准备了户外中长袜子和狼爪的登山鞋，的确整个徒步过程中脚没有什么不舒服，小破了点皮贴着创可贴后一点异常的感觉都没有。</p>
-<h2 id="Day-1-龙山村-发云界"><a href="#Day-1-龙山村-发云界" class="headerlink" title="Day 1 龙山村-发云界"></a>Day 1 龙山村-发云界</h2><p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5533.jpg" alt="徒步路线"></p>
-<p>早上9点乘车从萍乡北站出发到龙山村差不多80多分钟，稍作休整后正式出发就到中午12点了。第一天差不多8km，一路全部是上山，当天天气阴，湿度大，山上的树林比较高大，视野不开阔，除了沿路能看到各种越野跑比赛留下的红色标记丝带外，景色比较单一，坡度比较大，觉得有点费力，爬到一半的时候我衣服就汗湿了。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5453.jpg" alt="丝带路标"></p>
-<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5451.jpg" alt="爬坡"></p>
-<p>整个爬的过程里，一下子就唤醒了儿时的记忆，这种路小时候是家常便饭，夏天去山里溪水边捉螃蟹、摘野果没少走。玉米地割完秸秆后剩下的桩，每年都有小伙伴跳田埂的时候被穿伤到脚，反正那些一路蹦达不好好走山路的影像就清晰起来，坐在坟头上放风筝的童年一晃就已经过去很多年。</p>
-<p>直到抵达发云界，视野才开阔些，但因为雾气太浓，能见度有限，哪哪都是朦朦胧胧的。当天行4个钟就到了第一晚要住的驿站，也是当地蓝天救援队的训练基地，很安静。天气比较冷，我们没有住帐篷，睡的4人一间上下铺的床位。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/dsc00347.jpg" alt="发云界1"></p>
-<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/dsc00388.jpg" alt="发云界2"></p>
-<h2 id="Day-2-发云界-金顶"><a href="#Day-2-发云界-金顶" class="headerlink" title="Day 2 发云界-金顶"></a>Day 2 发云界-金顶</h2><p>之前从来没看过日出，趁着第二天是国庆假日天气最好的一天，清晨5点爬起来守着东方山头，先是隐隐约约的朝霞迹象，不多久到6点就日出了，很是好看，觉得一切又充满了希望，出发前感冒一周的阴郁全都散了，完全不想着拍摄，只想亲眼盯着看，好在阿帆用手机拍了延时。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/dsc00416.jpg" alt="日出"></p>
-<p>第二天从发云界开始，途径千丈岩、好汉坡、绝望坡的过程还是比较难走的，一路都是坑坑洼洼或者山石滚砾，不停地「上坡-下坡」交替，好在视野开阔，雾气稍微没那么浓了，凉风小习，一路听着Taylor的歌，很舒服。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5535.jpg" alt="IMG_5535"></p>
-<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5580.jpg" alt="IMG_5580"></p>
-<p>行至吊马桩的时候，都是人工的石阶，很好走，向导介绍夏天星空露营还可以看银河。不过没多会，快到金顶的时候，下起了大雨，只好穿上雨衣。至此进入到景区，游客非常多，比较拥挤。第二天住金顶驿站，抵达的时候已经是下午4点了，没想到阿帆体力明显透支，最后2公里实在吃力，我心里还嘀咕要不要第3天坐索道下山，但金顶驿站的住宿环境很好，休整下来后，很快恢复过来；我自己还真是不怎么累，可见平日长跑很有帮助，看了下小米手环公里数是17km，无奈山上联通信号不好，支付宝运动步数捐了10分钟也没能捐出去，作罢。</p>
-<h2 id="Day-3-金顶-武功山景区下山"><a href="#Day-3-金顶-武功山景区下山" class="headerlink" title="Day 3 金顶-武功山景区下山"></a>Day 3 金顶-武功山景区下山</h2><p>其实，第三天从金顶下山是最无聊的，完全在武功山景区，游客非常多，一整天的细雨，全是青石板路，浓浓大雾弥漫整个天空，花了3个多小时才下完山。同行的很多人都选择去坐索道，但考虑到排队时间也很长，我们还是一鼓作气走下山，赶在12点半到达山下，搭景区大巴去了游客集散中心，买了两杯小鹿茶泡热水后，除湿饱腹，提前去高铁站改签回家。<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img5583.jpg" alt="IMG_5583"></p>
-<p><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2020/10/10/img9774.jpg" alt="武功山"></p>
-<p>总之，第二日发云界一路到金顶，沿着山脊走的路段是整个行程里最美的部分。如果有徒步经验，这次3天的路用2天走完也是完全可以的。同行的有一位大哥是重装，准备横穿完整个武功山，总共在山上待8天，我们从金顶下山的时候他继续往九龙山方向走了，也不着急，走到哪算哪，锅子帐篷都自己带，直到回到家了还能看到他在微信群里发风景照片。</p>
-<p>想起来最近豆瓣发现的一个友邻的徒步博客<a href="https://meowshiba.com" target="_blank" rel="noopener">猫和柴的野游</a>，风景照片拍的非常棒，我想，下次我也打算好好拍拍。</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>旅行</tag>
-        <tag>徒步</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title> Deadline是什么？</title>
-    <url>/2020/04/09/2020-04-9-what&#39;s-deadline/</url>
-    <content><![CDATA[<p>最近两日好像是「超级月亮」，问了下好友：一个在苏州据说一整天都忘记抬头看天，一个另外的城市表示并不晓得，而我懒得出门——3个人都没有看到月亮！没有一个人拍了月亮。上次我想拍月亮还是某年中秋，当时想着：下次吧。不知不觉，就过去了好几年。</p>
-<p>好像，所有没有期限的时间，都是恓惶的承诺。而关于期限，《重庆森林》里有这么一段金城武口白：</p>
-<blockquote>
-<p>从分手的那一天开始，我每天买一罐5月1号到期的凤梨罐头，因为凤梨是阿may最爱吃的东西，而5月1号是我的生日。我告诉我自己，当我买满30罐的时候，她如果还不回来，这段感情就会过期。</p>
-</blockquote>
-<p>年龄来到二十代后半段，开始慢慢感受到人生<strong>受锤</strong>，经历诚惶诚恐四分之一人生危机，实际上这种感觉持续了快两年，有点慌忙又有点丧，<a href="https://zh.wikipedia.org/wiki/%E5%86%92%E5%90%8D%E9%A0%82%E6%9B%BF%E7%97%87%E5%80%99%E7%BE%A4" target="_blank" rel="noopener">冒牌者症候群</a>时常发作：常常会担忧未来，也终日缺少静下来、沉下去的那份从容，时不时还想要再重来（可是，要是能重来，还要选李白？）。</p>
-<a id="more"></a>
-<p>这几年都做了什么呢？每年也有些总结，但似乎是没有达成心中的首要完成项的，随波逐流也好，变得现实也好，「牺牲了很多时刻」的感受变得愈来愈强烈，也会问自己算不算值得？这些想法在脑袋里嗡嗡响个不停，好像也只是随着年岁增长多了些碰撞的痕迹罢了。有人说「十六岁时你想完成的事，想成为的人大概是真的dream」，我好像也记不起来我十八岁之前的心情了，我大概那会是想写现代诗的吧，而现在，读卞之琳的诗都是感叹了：</p>
-<blockquote>
-<p>如今，正像是老话的沧海桑田，<br>满怀的花草换得了一把荒烟。<br>就是此刻我也得像一只迷羊，<br>辗转在灰沙里，幸亏还有蔚蓝。</p>
-</blockquote>
-<p>这阵子，就好像是刘海的尴尬期。都说年轻的时候要靠愿景做事，有目标的终点会带来指引，这样假以时日兴许就能够回望，来时路已垒起丰碑，这样，便可以谈论过往或者经验，tell your story。可是，我好像也逐渐没什么story可讲，成了没有故事的女同学（？）人生越来越让自己乏味。复盘的时候，我在想是哪里出了问题？发现Deadline好像不是我的性格，自由散漫惯了，加之不太会苛责自己，很难做事掷地有声。虽然这些年，也慢慢有进步，但是成长速度实在是有点慢。也没有形成自己的做事逻辑中比较重要的一环：合理定量，评估单位产能。想的太多，做的太少，偶尔待办事项多了后还给自己添堵，心情低落得不行。觉得思维太过活跃，带不动这具身躯，不干净利落，也不潇洒。</p>
-<p>所以，我试着把自己给自己的Deadline好好捡起来，这应该是将来很长一段时间对我来说重要的核心能力。每个习惯的培养，最后内化成品质也无非是不断地经历「执行-犯错-沮丧-调整-继续执行」整个循环，我想试一试2020年一整年会变成什么样子！目前，有三件比较重要的事：</p>
-<h2 id="一、完成Udacity的数据挖掘纳米学位"><a href="#一、完成Udacity的数据挖掘纳米学位" class="headerlink" title="一、完成Udacity的数据挖掘纳米学位"></a>一、完成Udacity的数据挖掘纳米学位</h2><p>这个项目是去年底开始跟的，在线网课。作为还想着要有点「立身傍命的一技之长」的偏执人设，一直都在想转型，今年还是要真正地迈出步子：进入到金融科技行业。</p>
-<p>去年有一次不错的机会，那种「突然就恍惚了，没准备好」的感觉再次压倒了「做正确的事」的念想，最后没有底气而放弃了。这件事整个去年下半年想起来都有些许遗憾，这种感觉非常糟糕。目前为止，总想着：等等看吧，缺少了always say yes的态度，浪费了很多机会，内心深知：机会浪费多了是不会再回来的。</p>
-<p>回到在线课程，这个项目目前还有2个月结课，我的进度客观上由于去年年底加班换组，基本搁置，搁着就变「鸽着」了，严重滞后，时间过大半，进度可怜。所以立第一个flag吧，力争5月底和同期一起结课，这个将是个人时间中的第一优先级。</p>
-<h2 id="二、写博客"><a href="#二、写博客" class="headerlink" title="二、写博客"></a>二、写博客</h2><p>这个网站的「关于」页面，我赫然写着「要记录，不要创造」，一来是没有什么拿得出手的分享，怎么去创造？二来是，我觉得享受一个事物发展的过程，其实也是很精彩的，用最近的词形容叫「心流」，我觉得是：纯粹地做某事，享受当下。这其实是应该被推崇的，重视这个过程，能够沉浸其中是能力，也是find your passion的路径。有了hustle，passion，hapiness之后，别无所求了吧。</p>
-<p>由此，我想系统记录一下这个过程，就算是给自己看，也非常值得了，要是能有可能帮到他人更好了。「我们都是一粒沙子，我们也都在海底，谁管你是梦游亦或是冲刺」，网上冲浪的我们都是现代罗宾汉，平等、开放、共享，让自己更好一点，也让这个世界更好一点点，写博客或者说写文章是我参与这一切的方式，整个2020年会每周都尽量更新，这是第二个Deadline。</p>
-<h2 id="三、坚持运动"><a href="#三、坚持运动" class="headerlink" title="三、坚持运动"></a>三、坚持运动</h2><p>我对健康的认知和管理，2018年下半年开始有本质的提升，观念上开始重视起来，看了很多文章和优质视频内容。慢悠悠的我，花了两年逐渐调整对待食物的态度，引入「正念」的思路，有过一阵子的狂热执行，间歇性踌躇满志，持续性清心寡欲。一想到今年十一要作为好友的伴娘参加婚礼仪式，就感到有一丝紧张，这算是第三个deadline。我一直有运动时心率略微偏高的问题，体检暂时除了BMI稍微高出正常高值、肌酸稍高外，尚无其他问题，但是一想到凡事多半靠自己，早点重视投入彻底的行动，应该算是投资。有种说法是一个人的身体从TA系统训练的年纪开始最大限制地停止衰老，越早越好。想做的事还很多，身体要健康，今年下半年体检的时候，要有自己最好的一份报告。</p>
-<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>希望Deadline能够让人生朝着十几岁时想像的一样发展吧，无非是：差不多生擒出个黎明，重活一次而已！</p>
-<p>Pink Floyd 的歌里有一句一直记很多年：<strong>We just two lost souls swimming in the fish bowl year after year</strong> ，是那么丧尽退废到让人想起：<strong>看清生活的本质后依然热爱生活才是英雄主义</strong>。</p>
-<p><strong>而人生，在某些时刻，就是要打碎了重来，以最漂亮的姿势进入人群；有那么一刻，让内心的波澜足以填补整个人生的吁叹。</strong></p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>计划</tag>
-        <tag>flag</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>牛年快来大乱炖</title>
-    <url>/2021/02/09/2021-02-09-random/</url>
-    <content><![CDATA[<h2 id="一"><a href="#一" class="headerlink" title="一"></a>一</h2><p>最近发现了一个很好玩的社区，并不是Clubhouse，而是<a href="https://discord.com" target="_blank" rel="noopener">Discord</a>平台，在上面加了一个豆瓣小组推荐的<a href="https://www.forestapp.cc" target="_blank" rel="noopener">Forest</a>种树群，不同时区的缘故，基本上随时都有伙伴一起放下手机专注「种树」，累积到一定积分后，这Forest公司就会正儿八经在某个地方给你种一颗真树。2016年种了两颗，后来支付宝的蚂蚁森林也用了这个概念搞早起浇水偷能量的玩法。组团Forest的关键环节是：一旦组成局，你看着小树苗随着时间流逝一点点长大，选择放弃立马整组同时枯萎，在突如其来又不必要的责任心驱使下，自动变身良民，辛苦植树造林，全程毫无纠结与挣扎，体验不能再好了。何况，Discord平台还支持语音、视频/屏幕共享等等形式的在线group形式，玩耍得非常愉快；日常感叹，自习都能社交化，远程工具或者平台已经相当强大及完善。</p>
-<h2 id="二"><a href="#二" class="headerlink" title="二"></a>二</h2><p>最近听到了很惊喜的音乐，是李青微博纪念虾米音乐停止运营发的一首歌，来自ゆらゆらていこく（YURAYURA帝国）的《無い!!》，主创为坂本慎太郎。虽然不会日语，不过浓郁的迷幻颓丧风格，封面都比较魔幻，非常适合假日休闲：<strong>休息并闲着，快乐地做一个「废人」</strong>。其中这首深得我心：<a href="https://y.music.163.com/m/song?id=26082205&amp;userid=56216139&amp;app_version=8.1.00" target="_blank" rel="noopener">《冷たいギフト》</a>，第一秒就蹦出来的长叹「啊……」真是起床气又满满生无可恋，怪可怜的，如果设成起床闹钟，气鼓鼓地被叫醒好像也很不错的样子。</p>
-<h2 id="三"><a href="#三" class="headerlink" title="三"></a>三</h2><p>《我和厄尔以及将死的女孩》，最后三十分钟非常好哭，青春电影，爱情友情分不清楚的时候，女孩得了病男孩一开始不情愿地去陪她，结果两人心心相惜……上次看完《少年时代》的万千感慨全部袭来，有过之无不及，比《星运里的错》叙述方式和情节设计好太多，不落俗套。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>music</tag>
-        <tag>电影</tag>
       </tags>
   </entry>
 </search>
