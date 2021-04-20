@@ -1,0 +1,1280 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<html class="theme-next muse use-motion" lang="zh-CN">
+<head><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css">
+
+<link href="/css/main.css?v=6.6.0" rel="stylesheet" type="text/css">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico?v=6.6.0">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico?v=6.6.0">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico?v=6.6.0">
+
+
+  <link rel="mask-icon" href="/favicon.ico?v=6.6.0" color="#222">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Muse',
+    version: '6.6.0',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: false,
+    fastclick: false,
+    lazyload: false,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+  
+
+
+
+
+  <meta name="description" content="源起总喜欢记录些什么，从最开始的QQ日志、豆瓣日志，到后来的免费博客如：新浪博客，总觉得是别人的平台，要么得忍受广告的各种肆虐，要么就是不能定制化。于是尝试着自己建立独立的平台，也算一个网络的家。作为入门，首先尝试了WordPress，容易上手的后台管理，和用一款新的软件没什么区别，种类繁多的插件要什么就加载什么，系统地资源管理和数据库备份，相当方便:)。 很多人嫌弃WordPress臃肿，后来才">
+<meta name="keywords" content="博客,github,hexo,git">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Hexo结合Github搭建静态网页博客">
+<meta property="og:url" content="http://crossairplane.xyz/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/index.html">
+<meta property="og:site_name" content="Crossairplane的博客">
+<meta property="og:description" content="源起总喜欢记录些什么，从最开始的QQ日志、豆瓣日志，到后来的免费博客如：新浪博客，总觉得是别人的平台，要么得忍受广告的各种肆虐，要么就是不能定制化。于是尝试着自己建立独立的平台，也算一个网络的家。作为入门，首先尝试了WordPress，容易上手的后台管理，和用一款新的软件没什么区别，种类繁多的插件要什么就加载什么，系统地资源管理和数据库备份，相当方便:)。 很多人嫌弃WordPress臃肿，后来才">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:updated_time" content="2018-10-27T09:33:37.861Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Hexo结合Github搭建静态网页博客">
+<meta name="twitter:description" content="源起总喜欢记录些什么，从最开始的QQ日志、豆瓣日志，到后来的免费博客如：新浪博客，总觉得是别人的平台，要么得忍受广告的各种肆虐，要么就是不能定制化。于是尝试着自己建立独立的平台，也算一个网络的家。作为入门，首先尝试了WordPress，容易上手的后台管理，和用一款新的软件没什么区别，种类繁多的插件要什么就加载什么，系统地资源管理和数据库备份，相当方便:)。 很多人嫌弃WordPress臃肿，后来才">
+
+
+
+  <link rel="alternate" href="/atom.xml" title="Crossairplane的博客" type="application/atom+xml">
+
+
+
+
+  <link rel="canonical" href="http://crossairplane.xyz/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/">
+
+
+
+<script type="text/javascript" id="page.configurations">
+  CONFIG.page = {
+    sidebar: "",
+  };
+</script>
+
+  <title>Hexo结合Github搭建静态网页博客 | Crossairplane的博客</title>
+  
+
+
+
+
+
+
+
+
+
+
+
+  <noscript>
+  <style type="text/css">
+    .use-motion .motion-element,
+    .use-motion .brand,
+    .use-motion .menu-item,
+    .sidebar-inner,
+    .use-motion .post-block,
+    .use-motion .pagination,
+    .use-motion .comments,
+    .use-motion .post-header,
+    .use-motion .post-body,
+    .use-motion .collection-title { opacity: initial; }
+
+    .use-motion .logo,
+    .use-motion .site-title,
+    .use-motion .site-subtitle {
+      opacity: initial;
+      top: initial;
+    }
+
+    .use-motion {
+      .logo-line-before i { left: initial; }
+      .logo-line-after i { right: initial; }
+    }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope="" itemtype="http://schema.org/WebPage" lang="zh-CN">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope="" itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Crossairplane的博客</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+    
+      
+        <p class="site-subtitle">飞机是穿梭在天空中的十字架</p>
+      
+    
+  </div>
+
+  <div class="site-nav-toggle">
+    <button aria-label="切换导航栏">
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  
+    <ul id="menu" class="menu">
+      
+        
+        
+        
+          
+          <li class="menu-item menu-item-home">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-home"></i> <br>首页</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-about">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/about/" rel="section"><i class="menu-item-icon fa fa-fw fa-user"></i> <br>关于</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-tags">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/tags/" rel="section"><i class="menu-item-icon fa fa-fw fa-tags"></i> <br>标签</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-categories">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/categories/" rel="section"><i class="menu-item-icon fa fa-fw fa-th-large"></i> <br>分类</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-archives">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br>归档</a>
+
+  </li>
+
+      
+      
+    </ul>
+  
+
+  
+    
+
+  
+
+  
+</nav>
+
+
+
+  
+
+
+
+</div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  
+    <div class="reading-progress-bar"></div>
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://crossairplane.xyz/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Crossairplane">
+      <meta itemprop="description" content="A data and music fan.">
+      <meta itemprop="image" content="/images/avatar.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Crossairplane的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">Hexo结合Github搭建静态网页博客
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2017-09-06 22:10:00" itemprop="dateCreated datePublished" datetime="2017-09-06T22:10:00+08:00">2017-09-06</time>
+            
+
+            
+              
+
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2018-10-27 17:33:37" itemprop="dateModified" datetime="2018-10-27T17:33:37+08:00">2018-10-27</time>
+              
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing"><a href="/categories/技术/" itemprop="url" rel="index"><span itemprop="name">技术</span></a></span>
+
+                
+                
+                  ，
+                
+              
+                <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing"><a href="/categories/技术/博客/" itemprop="url" rel="index"><span itemprop="name">博客</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/#comments" itemprop="discussionUrl">
+                
+                  <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+             <span id="/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/" class="leancloud_visitors" data-flag-title="Hexo结合Github搭建静态网页博客">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数：</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+            <span class="post-meta-divider">|</span>
+            <span class="post-meta-item-icon">
+            <i class="fa fa-file"></i>
+             阅读次数： 
+            <span class="busuanzi-value" id="busuanzi_value_page_pv"></span>
+            </span>
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h2 id="源起"><a href="#源起" class="headerlink" title="源起"></a>源起</h2><p>总喜欢记录些什么，从最开始的QQ日志、豆瓣日志，到后来的免费博客如：新浪博客，总觉得是别人的平台，要么得忍受广告的各种肆虐，要么就是不能定制化。于是尝试着自己建立独立的平台，也算一个网络的家。作为入门，首先尝试了WordPress，容易上手的后台管理，和用一款新的软件没什么区别，种类繁多的插件要什么就加载什么，系统地资源管理和数据库备份，相当方便:)。 很多人嫌弃WordPress臃肿，后来才开始搭建静态网页，也就是今天的主题。但是，我是因为穷啊==！总之，我到了另一种阶段：自己搭博客，但是让第三方托管，只负责专注于写本身。<br>这样，我们就需要明确静态网站需要怎么搭建？<br><code>note:以下适合快速搭建可用的个人博客，像我一样不太有技术背景的童鞋</code></p>
+<a id="more"></a>
+<h2 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h2><p>考虑到初衷是自己搭建，那么很多人包括我自己也希望有属于自己的域名，这也是使用这种博客形式唯一需要花费的地方（非必须），用于之后第三方托管方的绑定。相比起既要买域名又要买空间的建站模式，实在是划算。个人推荐国外的域名商，比如Godaddy，关注下优惠折扣信息，一次买几年也不贵。</p>
+<h2 id="Hexo与Github"><a href="#Hexo与Github" class="headerlink" title="Hexo与Github"></a>Hexo与Github</h2><p>之前尝试过Jekyll但是对我来说还是略微复杂，搞不定。现在推荐用<a href="https://www.hexo.com/" target="_blank" rel="noopener">Hexo</a> ，因为搭建好后只需常用的四个命令即可完成正常的博客功能：新文档、生成、预览、发布，而且支持Markdown：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new &lt;title&gt; #写一篇新文章</span><br><span class="line">$ hexo gengerate #生成静态文档</span><br><span class="line">$ hexo server #启动浏览器本地预览</span><br><span class="line">$ hexo deploy #部署到远程服务器</span><br><span class="line">$ hexo publish #将草稿发布成正式文档</span><br></pre></td></tr></table></figure>
+<p>Github，作为第三方托管商，免费空间够用，代码托管放心易用。</p>
+<h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><h4 id="Git与Node-js安装"><a href="#Git与Node-js安装" class="headerlink" title="Git与Node.js安装"></a>Git与Node.js安装</h4><p>我是Windows平台，在此之前需要用<strong>Git</strong>的常用命令来授权本地与远程部署，安装hexo等。根据Hexo官方文档，还要安装<strong>Node.js</strong>。这两个都直接下载的安装程序，一路选择next就行。</p>
+<h4 id="常用Git命令"><a href="#常用Git命令" class="headerlink" title="常用Git命令"></a>常用Git命令</h4><p>基础的命令行（Command Line Interface）输入如下</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">mkdir #新建文件夹</span><br><span class="line">pdw #现在的工作路径</span><br><span class="line">cd #转到其他路径</span><br><span class="line">ls #列出本路径下的项目</span><br><span class="line">cd .. #返回上一层</span><br><span class="line">cd ~ #回到默认工作路径</span><br><span class="line">cp #复制A到B</span><br><span class="line">mv #将A移动到B，相当于剪切</span><br><span class="line">q #quit</span><br></pre></td></tr></table></figure>
+<p>此外，在Git官网还有大约15分钟的入门使用教程，简单明了，建议先看下，即可对付日后的基本使用。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">git log #日志</span><br><span class="line">git clone #克隆一个repository</span><br><span class="line">git diff #比较不同版本</span><br><span class="line">git checkout &quot;id&quot; #回到某个id号的版本</span><br><span class="line">git init #初始化一个新的git仓库</span><br><span class="line">git status #查看仓库的信息</span><br><span class="line">git add #从staging区中将文件正式添加到仓库</span><br><span class="line">git commit #提交</span><br><span class="line">git branch #切换不同分支</span><br><span class="line">git merge #合并分支</span><br><span class="line">git pull #将远程的仓库复制到本地</span><br><span class="line">git push #将本地的上传到远程端</span><br></pre></td></tr></table></figure>
+<h3 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h3><p>打开Git Bash，找到自己希望安装的目录，命令用<code>cd</code>之后开始执行以下，安装Hexo：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g hexo-cli</span><br><span class="line">$ hexo init</span><br><span class="line">$ npm install</span><br></pre></td></tr></table></figure></p>
+<p>这样在安装目录下就出现了Heox的整体框架，有几个日后主要使用的文件或者文件夹：</p>
+<blockquote>
+<p>_config.yml #整个网站的配置信息，可以在这里修改很多的参数，比如站点名<br>source文件夹下：<br>  _drafts #草稿<br>  _posts #发布的正式文章<br>themes文件夹 #主题</p>
+</blockquote>
+<h3 id="Github配置"><a href="#Github配置" class="headerlink" title="Github配置"></a>Github配置</h3><h4 id="Github注册"><a href="#Github注册" class="headerlink" title="Github注册"></a>Github注册</h4><p>首先，没有<a href="https://github.com/" target="_blank" rel="noopener">Github</a> 账号就先注册，完成后新建一个repository来存放你的博客的全部代码文件，注意命名一定要使用你的github用户名，格式为：<code>yourname.github.io</code></p>
+<h4 id="SSH生成"><a href="#SSH生成" class="headerlink" title="SSH生成"></a>SSH生成</h4><p>第一次使用Github或者没有配置过SSH，需要配置。先保证进入到Git的安装路径</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
+<p>youremail是你Github的注册邮箱，之后会要求你输入密码可以选择不输入直接按回车就好，然后会生成新的文件夹<code>.ssh</code> 里面有两个文件：id_rsa（私人密钥）和id_rsa.pub（公共密钥）。将公共密钥打开复制好，在浏览器中打开GIthub账户的设置选项-SSH and GOG keys，新建一个SSH，名称随便填，Key填写刚才复制的内容。</p>
+<h4 id="SSH测试"><a href="#SSH测试" class="headerlink" title="SSH测试"></a>SSH测试</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+<p>根据提示操作后显示如下信息则成功啦</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hi crossairplane! You&apos;ve successfully authenticated, but GitHub does not provide shell access.</span><br></pre></td></tr></table></figure>
+<h4 id="绑定个性域名"><a href="#绑定个性域名" class="headerlink" title="绑定个性域名"></a>绑定个性域名</h4><p>同样，在Github的你的博客repository中，选择设置-Github Pages- Custom domain，填入个性域名即可。</p>
+<h4 id="Git用户信息"><a href="#Git用户信息" class="headerlink" title="Git用户信息"></a>Git用户信息</h4><p>现在已经可以通过SSH这种形式将本地和远程的Github联系起来啦，还需要给Git配置好你的Github用户信息：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git.config --global username &quot;githubname&quot;</span><br><span class="line">$ git.config --global useremail &quot;githubemail&quot;</span><br></pre></td></tr></table></figure>
+<h3 id="Hexo配置"><a href="#Hexo配置" class="headerlink" title="Hexo配置"></a>Hexo配置</h3><h4 id="网站配置文件修改"><a href="#网站配置文件修改" class="headerlink" title="网站配置文件修改"></a>网站配置文件修改</h4><p>Hexo支持多种部署，我们选择的是Git，因此去之前提到的hexo安装目录打开<code>_config.yml</code>文件，我用的是<code>sublime_text</code> 软件（能打开多种格式），在空白处加入如下代码：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: http://github.com/yourgithubname/yourname.github.io.git #github新建的repository地址</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
+<p>找到网站配置文件中的主题theme部分，可以修改主题，本站使用了NexT主题，本主题功能全面且有详细帮助文档（先下载主题放入Hexo安装目录的themes文件夹下）：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">theme: next</span><br></pre></td></tr></table></figure>
+<p>其他的站点名称、描述等参考Hexo官方文件非常容易修改。</p>
+<h4 id="本地预览"><a href="#本地预览" class="headerlink" title="本地预览"></a>本地预览</h4><p>Hexo支持本地预览：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s</span><br><span class="line">INFO  Start processing</span><br><span class="line">INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.</span><br></pre></td></tr></table></figure>
+<p>如果复制路径后浏览器依然不能预览则有可能端口4000被占用，可尝试一下修改为其他端口，这里修改为4001：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s -p 4001</span><br><span class="line">INFO  Start processing</span><br><span class="line">INFO  Hexo is running at http://localhost:4001/. Press Ctrl+C to stop.</span><br></pre></td></tr></table></figure>
+<h4 id="分类与标签"><a href="#分类与标签" class="headerlink" title="分类与标签"></a>分类与标签</h4><p>Hexo默认不产生分类与标签文件，但是在一般的博客中这两个功能（或者说索引）还是非常重要的，以NexT主题网为例，这里就需要去Heox安装目录中，找到<code>source</code> 文件夹，新建<code>categories</code> 和<code>tags</code> 页面文件。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ cd your-hexo-site</span><br><span class="line">$ hexo new page categories</span><br></pre></td></tr></table></figure>
+<p>编辑所建页面：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 分类</span><br><span class="line">date: 2014-12-22 12:39:04</span><br><span class="line">type: &quot;categories&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+<p>同理建立tages标签页面。</p>
+<h2 id="Markdown"><a href="#Markdown" class="headerlink" title="Markdown"></a>Markdown</h2><p>Mardown是一种专注于写作的格式，非常便于学习，特色是专注于写作可以转换为不同格式，不再担心排版问题。默认的是<code>.md</code> 格式，可以转换为PDF、Word、HTML、LaTeX等等。我推荐使用<code>Typora</code> 这款软件，在Mac上有很多优秀的同类软件，但是<code>Typora</code> 为全平台软件，在Windows上表现出众，重要的事情说三遍：</p>
+<blockquote>
+<p>颜值高<br>颜值高<br>颜值高。</p>
+</blockquote>
+<p>这里小抄下Markdown常用语法：</p>
+<table>
+<thead>
+<tr>
+<th>命令</th>
+<th>解释</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>#</td>
+<td>一级标题</td>
+</tr>
+<tr>
+<td>##</td>
+<td>二级标题</td>
+</tr>
+<tr>
+<td>*something*</td>
+<td>加粗</td>
+</tr>
+<tr>
+<td>&gt;something</td>
+<td>引用</td>
+</tr>
+<tr>
+<td>‘something’</td>
+<td>单个代码插入</td>
+</tr>
+<tr>
+<td>- something</td>
+<td>无序列表</td>
+</tr>
+<tr>
+<td>1. something</td>
+<td>有序列表</td>
+</tr>
+</tbody>
+</table>
+<p><code>Typora</code> 交互友好，记不熟命令时，还可以在菜单栏、右键选项里等地方快速点选实现，加上熟悉后也可以用快捷键进行命令输入，实在是非常容易上手，也是效率利器。</p>
+<p>由于是要通过Hexo来进行渲染发布，在每篇<code>.md</code>格式博文正式开始写之前，需要加入以下表格信息作为<code>YAML</code> 头供Hexo渲染生成静态文件:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: your article name</span><br><span class="line">date: time</span><br><span class="line">categories:</span><br><span class="line"> - something 1</span><br><span class="line"> - something 2</span><br><span class="line">tags:</span><br><span class="line"> - something 1</span><br><span class="line"> - spmething 2</span><br><span class="line">---</span><br></pre></td></tr></table></figure></p>
+<h2 id="小结：日常使用流程"><a href="#小结：日常使用流程" class="headerlink" title="小结：日常使用流程"></a>小结：日常使用流程</h2><p>我只是借助这样一个流程来进行博客的搭建以及博文的发布，大致逻辑为：</p>
+<blockquote>
+<p>以Markdown为写作工具，Hexo进行静态网页生成发布，Github进行网站数据存储。</p>
+</blockquote>
+<p>所以，平时想写东西直接开一个<code>.md</code>，把标题、日期、分类或者标签等填上，正式开写。然后将文档保存到到Hexo目录下的<code>source/_posts</code> 路径。最后打开Git bash，进入Hexo文件目录执行以下命令：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>
+<p>搞定。</p>
+
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+       
+    
+    
+
+    
+      <div>
+        
+
+
+
+  
+
+
+
+<ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者： </strong>Crossairplane</li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    
+    <a href="http://crossairplane.xyz/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/" title="Hexo结合Github搭建静态网页博客">http://crossairplane.xyz/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fa fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！</li>
+</ul>
+
+      </div>
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/博客/" rel="tag"># 博客</a>
+          
+            <a href="/tags/github/" rel="tag"># github</a>
+          
+            <a href="/tags/hexo/" rel="tag"># hexo</a>
+          
+            <a href="/tags/git/" rel="tag"># git</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2016/12/27/2016-12-27-488-days-in-hongkong/" rel="next" title="我在香港的488天">
+                <i class="fa fa-chevron-left"></i> 我在香港的488天
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2017/12/31/2017-12-31-goodbye-2017/" rel="prev" title="再见，2017">
+                再见，2017 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+  </div>
+
+
+          </div>
+          
+
+  
+    <div class="comments" id="comments">
+      <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+      </div>
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image" src="/images/avatar.jpg" alt="Crossairplane">
+            
+              <p class="site-author-name" itemprop="name">Crossairplane</p>
+              <p class="site-description motion-element" itemprop="description">A data and music fan.</p>
+          </div>
+
+          
+            <nav class="site-state motion-element">
+              
+                <div class="site-state-item site-state-posts">
+                
+                  <a href="/archives/">
+                
+                    <span class="site-state-item-count">33</span>
+                    <span class="site-state-item-name">日志</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-categories">
+                  <a href="/categories/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">9</span>
+                    <span class="site-state-item-name">分类</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  <a href="/tags/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">34</span>
+                    <span class="site-state-item-name">标签</span>
+                  </a>
+                </div>
+              
+            </nav>
+          
+
+          
+            <div class="feed-link motion-element">
+              <a href="/atom.xml" rel="alternate">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
+          
+
+          
+            <div class="links-of-author motion-element">
+              
+                <span class="links-of-author-item">
+                  
+                  
+                    
+                  
+                  
+                    
+                  
+                  <a href="https://github.com/crossairplane" title="GitHub &rarr; https://github.com/crossairplane" rel="noopener" target="_blank"><i class="fa fa-fw fa-github-alt"></i>GitHub</a>
+                </span>
+              
+                <span class="links-of-author-item">
+                  
+                  
+                    
+                  
+                  
+                    
+                  
+                  <a href="https://weibo.com/crossairplane" title="Weibo &rarr; https://weibo.com/crossairplane" rel="noopener" target="_blank"><i class="fa fa-fw fa-weibo"></i>Weibo</a>
+                </span>
+              
+            </div>
+          
+
+          
+             <div class="cc-license motion-element" itemprop="license">
+              
+                
+              
+              
+              
+              <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+             </div>
+          
+
+          
+          
+            <div class="links-of-blogroll motion-element links-of-blogroll-block">
+              <div class="links-of-blogroll-title">
+                <i class="fa  fa-fw fa-link"></i>
+                友情链接
+              </div>
+              <ul class="links-of-blogroll-list">
+                
+                  <li class="links-of-blogroll-item">
+                    <a href="https://meowshiba.com" title="https://meowshiba.com" rel="noopener" target="_blank">猫和柴的野游</a>
+                  </li>
+                
+              </ul>
+            </div>
+          
+
+          
+            
+          
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#源起"><span class="nav-number">1.</span> <span class="nav-text">源起</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#域名"><span class="nav-number">2.</span> <span class="nav-text">域名</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Hexo与Github"><span class="nav-number">3.</span> <span class="nav-text">Hexo与Github</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#准备工作"><span class="nav-number">3.1.</span> <span class="nav-text">准备工作</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Git与Node-js安装"><span class="nav-number">3.1.1.</span> <span class="nav-text">Git与Node.js安装</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#常用Git命令"><span class="nav-number">3.1.2.</span> <span class="nav-text">常用Git命令</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#安装Hexo"><span class="nav-number">3.2.</span> <span class="nav-text">安装Hexo</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Github配置"><span class="nav-number">3.3.</span> <span class="nav-text">Github配置</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Github注册"><span class="nav-number">3.3.1.</span> <span class="nav-text">Github注册</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#SSH生成"><span class="nav-number">3.3.2.</span> <span class="nav-text">SSH生成</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#SSH测试"><span class="nav-number">3.3.3.</span> <span class="nav-text">SSH测试</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#绑定个性域名"><span class="nav-number">3.3.4.</span> <span class="nav-text">绑定个性域名</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Git用户信息"><span class="nav-number">3.3.5.</span> <span class="nav-text">Git用户信息</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Hexo配置"><span class="nav-number">3.4.</span> <span class="nav-text">Hexo配置</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#网站配置文件修改"><span class="nav-number">3.4.1.</span> <span class="nav-text">网站配置文件修改</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#本地预览"><span class="nav-number">3.4.2.</span> <span class="nav-text">本地预览</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#分类与标签"><span class="nav-number">3.4.3.</span> <span class="nav-text">分类与标签</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Markdown"><span class="nav-number">4.</span> <span class="nav-text">Markdown</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#小结：日常使用流程"><span class="nav-number">5.</span> <span class="nav-text">小结：日常使用流程</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2021</span>
+  <span class="with-love" id="animate">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">crossairplane</span>
+
+  
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a href="https://hexo.io" class="theme-link" rel="noopener" target="_blank">Hexo</a> 强力驱动 v3.8.0</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 – <a href="https://theme-next.org" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v6.6.0</div>
+
+
+
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  
+    <span class="site-uv" title="总访客量">
+      <i class="fa fa-user"></i>
+      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
+    </span>
+  
+
+  
+    <span class="site-pv" title="总访问量">
+      <i class="fa fa-eye"></i>
+      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
+    </span>
+  
+</div>
+
+
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+	
+    
+
+    
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/reading_progress/reading_progress.js"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=6.6.0"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=6.6.0"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=6.6.0"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=6.6.0"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.6.0"></script>
+
+
+
+  
+
+  
+    <script id="dsq-count-scr" src="https://blog-3ualbcfzhl.disqus.com/count.js" async></script>
+  
+
+  
+    <script type="text/javascript">
+      var disqus_config = function () {
+        this.page.url = 'http://crossairplane.xyz/2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/';
+        this.page.identifier = '2017/09/06/2017-9-6-using-Hexo-and-Github-to-build-a-blog/';
+        this.page.title = 'Hexo结合Github搭建静态网页博客';
+        };
+      function loadComments () {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://blog-3ualbcfzhl.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', '' + +new Date());
+        (d.head || d.body).appendChild(s);
+      }
+      
+        loadComments();
+      
+    </script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  <script>
+    
+    function addCount(Counter) {
+      var $visitors = $(".leancloud_visitors");
+      var url = $visitors.attr('id').trim();
+      var title = $visitors.attr('data-flag-title').trim();
+
+      Counter('get', '/classes/Counter', { where: JSON.stringify({ url }) })
+        .done(function ({ results }) {
+          if (results.length > 0) {
+            var counter = results[0];
+            
+            Counter('put', `/classes/Counter/${counter.objectId}`, JSON.stringify({ time: { "__op":"Increment", "amount":1 } }))
+            
+            .done(function () {
+                  var $element = $(document.getElementById(url));
+                  $element.find('.leancloud-visitors-count').text(counter.time + 1);
+            })
+            
+            .fail(function ({ responseJSON }) {
+                console.log('Failed to save Visitor num, with error message: ' + responseJSON.error);
+            })
+          } else {
+            
+              Counter('post', '/classes/Counter', JSON.stringify({ title: title, url: url, time: 1}))
+                .done(function () {
+                  var $element = $(document.getElementById(url));
+                  $element.find('.leancloud-visitors-count').text(1);
+                })
+                .fail(function () {
+                  console.log('Failed to create');
+                });
+            
+          }
+        })
+      .fail(function ({ responseJSON }) {
+        console.log('LeanCloud Counter Error:' + responseJSON.code + " " + responseJSON.error);
+      });
+    }
+    
+
+    $(function() {
+      $.get('https://app-router.leancloud.cn/2/route?appId=' + "sU3kAhvsOSss6KHSn4o86WCz-gzGzoHsz")
+        .done(function ({ api_server }) {
+          var Counter = function (method, url, data) {
+            return $.ajax({
+              method: method,
+              url: `https://${api_server}/1.1${url}`,
+              headers: {
+                'X-LC-Id': "sU3kAhvsOSss6KHSn4o86WCz-gzGzoHsz",
+                'X-LC-Key': "fSnlWNaiBa1YN55oiHbz5Y5R",
+                'Content-Type': 'application/json',
+              },
+              data: data,
+            });
+          };
+          
+          addCount(Counter);
+          
+        })
+    });
+  </script>
+
+
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
