@@ -1169,7 +1169,7 @@
 <li>Did the players who has better performance of 1st serves would probably won the game?</li>
 </ol>
 <a id="more"></a>
-<h2 id="Question-1"><a href="#Question-1" class="headerlink" title="Question 1"></a>Question 1</h2><p>There are 5 different kind of surfaces playground. Guess what? Serena Williams are not top 3 player to win.Ex No.1 Wozniacki was the The best player for a surface who won 129 matches from 2011 to 2019.Julia Grabher who is No.85 in 2022 but rank out of 200 in 2019, won 87 matches on a kind of surface.<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2022/10/19/16661842578899.png" alt="top 10 players in surface 1"></p>
+<h2 id="Question-1"><a href="#Question-1" class="headerlink" title="Question 1"></a>Question 1</h2><p>There are 5 different kind of surfaces playground. Guess what?  Serena Williams was not top 3 winning player. Ex No.1 Wozniacki was the The best player on a surface who won 129 matches from 2011 to 2019. Julia Grabher who is No.85 in 2022 but rank out of 200 in 2019, won 87 matches on a kind of surface.<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2022/10/19/16661842578899.png" alt="top 10 players in surface 1"></p>
 <h2 id="Question-2"><a href="#Question-2" class="headerlink" title="Question 2"></a>Question 2</h2><p>There are 4 type results for an women tennis player:</p>
 <ul>
 <li>win by 2-0</li>
@@ -1178,7 +1178,7 @@
 <li>lose by 1-2</li>
 </ul>
 <p>Base on 131398 matches results, 37.56% matches end by the score of 2-0 for a player.</p>
-<h2 id="Question-3"><a href="#Question-3" class="headerlink" title="Question 3"></a>Question 3</h2><p>I just try basic simple Linear Regression to analyse players’ performance. Here is what I find:<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2022/10/19/16661847369961.png" alt="corr"></p>
+<h2 id="Question-3"><a href="#Question-3" class="headerlink" title="Question 3"></a>Question 3</h2><p>I just try basic simple Linear Regression to analyze players’ performance. Here is what I find:<br><img src="https://blog-1255935926.cos.ap-chengdu.myqcloud.com/2022/10/19/16661847369961.png" alt="corr"></p>
 <ul>
 <li>The numbers of 1st serves won, 2nd serves won and Aces are positive factors, the number of Double Faults is negative factors.</li>
 <li>And the 1st serves won is more relative to the 2nd serves won.</li>
