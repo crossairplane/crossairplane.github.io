@@ -1162,7 +1162,7 @@
   <entry>
     <title>Who are good women tennis players from 2011 to 2019?</title>
     <url>/2022/10/19/2022-10-19-tennis-analysis-from-2011-to-2019/</url>
-    <content><![CDATA[<h1 id="Who-are-good-women-tennis-players-from-2011-to-2019"><a href="#Who-are-good-women-tennis-players-from-2011-to-2019" class="headerlink" title="Who are good women tennis players from 2011 to 2019?"></a>Who are good women tennis players from 2011 to 2019?</h1><p>I find a <a href="https://www.kaggle.com/datasets/hwaitt/tennis-20112019?select=atp.csv" target="_blank" rel="noopener">data set</a> from Kaggle that contains matches data from 2011 to 2019. Even the data didn’t report by WTA, and maybe some matches results were wrong, but what if we could dig to find some interesting questions:</p>
+    <content><![CDATA[<p>I find a <a href="https://www.kaggle.com/datasets/hwaitt/tennis-20112019?select=atp.csv" target="_blank" rel="noopener">data set</a> from Kaggle that contains matches data from 2011 to 2019. Even the data didn’t report by WTA, and maybe some matches results were wrong, but what if we could dig to find some interesting questions:</p>
 <ol>
 <li>Who won most in each surface form 2011 to 2019?</li>
 <li>Are the results most likely end by 2-0?</li>
