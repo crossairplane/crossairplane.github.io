@@ -1194,10 +1194,10 @@
       </tags>
   </entry>
   <entry>
-    <title>Starbucks Ana</title>
+    <title>Starbucks Analysis</title>
     <url>/2022/12/24/2022-12-24-Starbucks-analysis/</url>
     <content><![CDATA[<p>The data is contained in three files: portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.) profile.json - demographic data for each customer transcript.json - records for transactions, offers received, offers viewed, and offers completed. </p>
-<h2 id="Have-a-look-at-table-structure"><a href="#Have-a-look-at-table-structure" class="headerlink" title="Have a look at table structure"></a>Have a look at table structure</h2><p><img src="media/table%20structure.png" alt="table structure"></p>
+<h2 id="Have-a-look-at-table-structure"><a href="#Have-a-look-at-table-structure" class="headerlink" title="Have a look at table structure"></a>Have a look at table structure</h2><p><img src="media/table%20structure.png" alt="table structure"><br><a id="more"></a></p>
 <h2 id="Data-Explore"><a href="#Data-Explore" class="headerlink" title="Data Explore"></a>Data Explore</h2><ul>
 <li>Take a look at the distribution of gender and how gender compares to income.</li>
 <li>Looking at the user subscriptions.</li>
